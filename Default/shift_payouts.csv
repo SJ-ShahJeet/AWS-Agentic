@@ -1,0 +1,3291 @@
+id,shift_id,employee_id,approval_status,approved_at,notes
+1,1,7,approved,2026-01-13T01:22:40.981Z,Approved by manager
+2,2,8,approved,2026-01-16T15:29:25.325Z,Standard approval
+3,3,9,rejected,2026-01-16T11:17:11.627Z,Did not complete full shift
+4,4,10,approved,2026-01-11T19:13:05.022Z,Excellent performance
+5,5,11,pending,,
+6,6,14,approved,2026-01-16T17:46:22.355Z,Excellent performance
+7,7,16,approved,2026-01-15T08:38:51.014Z,
+8,8,17,approved,2026-01-11T20:54:45.347Z,Standard approval
+9,9,18,pending,,
+10,10,20,approved,2026-01-14T15:01:48.837Z,
+11,11,21,approved,2026-01-14T03:14:51.596Z,
+12,12,22,approved,2026-01-15T17:05:45.148Z,Late arrival noted
+13,13,23,approved,2026-01-12T22:13:27.650Z,
+14,14,24,approved,2026-01-13T16:26:46.024Z,Excellent performance
+15,15,25,approved,2026-01-15T15:22:46.238Z,
+16,16,26,approved,2026-01-12T09:30:26.119Z,Approved by manager
+17,17,27,approved,2026-01-13T14:33:13.232Z,
+18,18,28,approved,2026-01-13T19:50:09.377Z,Excellent performance
+19,19,29,approved,2026-01-12T22:24:52.058Z,Standard approval
+20,20,30,approved,2026-01-12T10:52:35.378Z,Excellent performance
+21,21,31,approved,2026-01-13T11:45:53.488Z,Excellent performance
+22,22,32,approved,2026-01-16T06:41:44.461Z,Excellent performance
+23,23,33,approved,2026-01-11T20:03:39.171Z,Late arrival noted
+24,24,34,approved,2026-01-12T07:50:41.562Z,Approved by manager
+25,25,35,approved,2026-01-12T04:16:37.379Z,Standard approval
+26,26,36,approved,2026-01-13T04:48:59.825Z,Excellent performance
+27,27,37,approved,2026-01-14T17:08:39.516Z,
+28,28,38,approved,2026-01-12T19:37:32.881Z,Standard approval
+29,29,39,approved,2026-01-14T21:02:11.351Z,
+30,30,40,approved,2026-01-14T01:36:48.151Z,Standard approval
+31,31,41,approved,2026-01-16T05:04:34.784Z,Approved by manager
+32,32,42,approved,2026-01-12T09:39:31.232Z,Approved by manager
+33,33,43,pending,,
+34,34,44,approved,2026-01-14T04:05:02.473Z,Excellent performance
+35,35,45,approved,2026-01-13T17:53:34.969Z,
+36,36,46,rejected,2026-01-14T23:32:13.228Z,Did not complete full shift
+37,37,47,approved,2026-01-14T09:50:17.461Z,
+38,38,48,approved,2026-01-13T22:50:12.892Z,
+39,39,49,approved,2026-01-13T05:35:07.220Z,Late arrival noted
+40,40,50,approved,2026-01-12T06:00:50.896Z,Excellent performance
+41,41,51,approved,2026-01-14T22:56:16.764Z,
+42,42,52,approved,2026-01-16T14:31:52.577Z,Excellent performance
+43,43,53,approved,2026-01-14T07:44:37.202Z,
+44,44,55,rejected,2026-01-16T02:23:28.601Z,Did not complete full shift
+45,45,56,approved,2026-01-14T05:49:31.691Z,Standard approval
+46,46,57,approved,2026-01-16T12:42:57.637Z,
+47,47,58,approved,2026-01-13T08:25:30.884Z,
+48,48,59,approved,2026-01-13T00:17:29.484Z,Standard approval
+49,49,60,approved,2026-01-12T05:38:10.103Z,Approved by manager
+50,50,61,approved,2026-01-14T02:06:29.864Z,Excellent performance
+51,51,62,approved,2026-01-13T00:35:32.672Z,
+52,52,64,approved,2026-01-15T15:14:13.803Z,Approved by manager
+53,53,65,approved,2026-01-14T21:49:23.294Z,Approved by manager
+54,54,66,approved,2026-01-16T04:28:27.661Z,Approved by manager
+55,55,67,approved,2026-01-12T02:59:19.033Z,
+56,56,68,approved,2026-01-15T12:08:00.667Z,Approved by manager
+57,57,69,approved,2026-01-16T00:24:18.200Z,Approved by manager
+58,58,70,approved,2026-01-15T13:17:05.359Z,
+59,59,71,approved,2026-01-13T21:19:31.375Z,Standard approval
+60,60,72,approved,2026-01-14T01:12:32.012Z,Late arrival noted
+61,61,73,approved,2026-01-16T11:25:10.014Z,Approved by manager
+62,62,74,approved,2026-01-11T20:17:55.706Z,Excellent performance
+63,63,75,approved,2026-01-15T16:42:11.967Z,Standard approval
+64,64,77,approved,2026-01-13T02:44:06.611Z,Late arrival noted
+65,65,78,approved,2026-01-15T04:44:37.742Z,Excellent performance
+66,66,79,pending,,
+67,67,80,rejected,2026-01-14T13:47:37.989Z,Did not complete full shift
+68,68,81,approved,2026-01-15T08:05:22.345Z,Excellent performance
+69,69,82,approved,2026-01-12T08:59:40.183Z,Late arrival noted
+70,70,83,approved,2026-01-15T11:29:05.011Z,Standard approval
+71,71,84,approved,2026-01-11T19:38:35.355Z,
+72,72,85,approved,2026-01-11T22:24:48.848Z,Excellent performance
+73,73,86,rejected,2026-01-14T18:43:21.337Z,Did not complete full shift
+74,74,87,approved,2026-01-14T01:31:57.217Z,Approved by manager
+75,75,89,approved,2026-01-14T10:41:28.340Z,Approved by manager
+76,76,90,approved,2026-01-16T04:37:11.231Z,Standard approval
+77,77,91,approved,2026-01-12T07:41:44.319Z,Excellent performance
+78,78,92,approved,2026-01-15T18:20:58.373Z,Excellent performance
+79,79,93,approved,2026-01-15T04:46:24.922Z,Standard approval
+80,80,94,pending,,
+81,81,95,rejected,2026-01-15T22:21:08.364Z,Did not complete full shift
+82,82,96,approved,2026-01-12T12:42:15.204Z,Standard approval
+83,83,97,pending,,
+84,84,98,approved,2026-01-12T03:26:44.072Z,Approved by manager
+85,85,99,approved,2026-01-14T02:27:47.405Z,Late arrival noted
+86,86,100,rejected,2026-01-15T07:43:21.564Z,Did not complete full shift
+87,87,101,approved,2026-01-13T05:31:12.980Z,Approved by manager
+88,88,102,approved,2026-01-16T09:49:44.071Z,Late arrival noted
+89,89,103,approved,2026-01-14T23:05:16.766Z,
+90,90,104,approved,2026-01-13T06:48:55.550Z,Approved by manager
+91,91,105,rejected,2026-01-14T14:17:40.436Z,Did not complete full shift
+92,92,106,approved,2026-01-13T21:38:02.486Z,
+93,93,107,approved,2026-01-14T00:54:06.181Z,Standard approval
+94,94,108,approved,2026-01-14T16:12:29.464Z,Excellent performance
+95,95,7,approved,2026-01-16T10:46:38.716Z,
+96,96,8,approved,2026-01-12T20:43:18.063Z,
+97,97,9,approved,2026-01-15T23:55:27.592Z,Standard approval
+98,98,10,approved,2026-01-13T03:54:50.093Z,Standard approval
+99,99,11,approved,2026-01-12T15:48:02.769Z,
+100,100,14,approved,2026-01-13T10:27:14.333Z,Standard approval
+101,101,16,approved,2026-01-16T17:28:20.492Z,Approved by manager
+102,102,17,approved,2026-01-11T22:23:14.263Z,Standard approval
+103,103,18,approved,2026-01-16T12:00:23.994Z,Standard approval
+104,104,20,approved,2026-01-15T22:21:27.028Z,Approved by manager
+105,105,21,approved,2026-01-15T20:51:45.437Z,Standard approval
+106,106,22,approved,2026-01-15T03:47:15.900Z,
+107,107,23,approved,2026-01-13T13:03:26.994Z,Standard approval
+108,108,24,approved,2026-01-15T07:32:39.594Z,Late arrival noted
+109,109,25,approved,2026-01-13T22:35:47.860Z,Approved by manager
+110,110,26,pending,,
+111,111,27,approved,2026-01-14T15:51:48.426Z,Excellent performance
+112,112,28,approved,2026-01-15T17:00:39.591Z,
+113,113,29,approved,2026-01-14T23:53:56.756Z,Excellent performance
+114,114,30,approved,2026-01-12T02:41:49.488Z,Late arrival noted
+115,115,31,approved,2026-01-12T22:10:57.956Z,Late arrival noted
+116,116,32,approved,2026-01-14T16:17:51.230Z,
+117,117,33,approved,2026-01-16T07:46:04.059Z,Excellent performance
+118,118,34,pending,,
+119,119,35,approved,2026-01-15T19:46:16.713Z,Excellent performance
+120,120,36,approved,2026-01-14T06:14:42.730Z,Excellent performance
+121,121,37,approved,2026-01-14T08:56:38.975Z,
+122,122,38,pending,,
+123,123,39,approved,2026-01-14T07:44:06.856Z,
+124,124,40,approved,2026-01-15T00:39:02.465Z,
+125,125,41,approved,2026-01-13T17:35:23.969Z,
+126,126,42,approved,2026-01-14T08:50:24.654Z,
+127,127,43,approved,2026-01-14T12:46:11.872Z,
+128,128,44,approved,2026-01-15T01:01:40.369Z,Standard approval
+129,129,45,approved,2026-01-16T09:14:34.983Z,
+130,130,46,approved,2026-01-12T11:52:52.000Z,Approved by manager
+131,131,47,rejected,2026-01-15T07:26:06.819Z,Did not complete full shift
+132,132,48,approved,2026-01-13T18:51:28.219Z,Excellent performance
+133,133,49,approved,2026-01-12T22:06:04.850Z,Approved by manager
+134,134,50,approved,2026-01-11T22:35:18.803Z,Standard approval
+135,135,51,approved,2026-01-12T21:30:06.554Z,
+136,136,52,approved,2026-01-16T06:44:57.642Z,Approved by manager
+137,137,53,approved,2026-01-13T21:53:23.137Z,Standard approval
+138,138,55,approved,2026-01-13T11:18:32.292Z,
+139,139,56,approved,2026-01-13T11:03:44.137Z,
+140,140,57,approved,2026-01-14T01:02:17.438Z,Standard approval
+141,141,58,approved,2026-01-14T01:39:10.213Z,Late arrival noted
+142,142,59,approved,2026-01-15T03:05:00.695Z,Late arrival noted
+143,143,60,rejected,2026-01-15T07:07:59.090Z,Did not complete full shift
+144,144,61,pending,,
+145,145,62,approved,2026-01-12T07:03:04.063Z,Late arrival noted
+146,146,64,approved,2026-01-12T13:04:00.612Z,Late arrival noted
+147,147,65,rejected,2026-01-13T22:36:42.723Z,Did not complete full shift
+148,148,66,approved,2026-01-14T14:52:28.404Z,
+149,149,67,approved,2026-01-15T15:30:19.671Z,Excellent performance
+150,150,68,approved,2026-01-15T15:26:59.412Z,Late arrival noted
+151,151,69,approved,2026-01-14T09:01:13.761Z,Excellent performance
+152,152,70,approved,2026-01-14T08:14:51.062Z,Approved by manager
+153,153,71,approved,2026-01-14T11:06:46.136Z,Late arrival noted
+154,154,72,approved,2026-01-16T15:42:21.107Z,Standard approval
+155,155,73,approved,2026-01-15T02:27:51.782Z,Standard approval
+156,156,74,approved,2026-01-15T06:45:59.566Z,Approved by manager
+157,157,75,rejected,2026-01-15T15:09:57.714Z,Did not complete full shift
+158,158,77,approved,2026-01-11T19:05:35.545Z,Standard approval
+159,159,78,approved,2026-01-12T07:35:36.239Z,Late arrival noted
+160,160,79,approved,2026-01-12T13:05:20.912Z,Standard approval
+161,161,80,approved,2026-01-13T17:02:19.828Z,Standard approval
+162,162,81,approved,2026-01-16T13:31:50.529Z,Excellent performance
+163,163,82,pending,,
+164,164,83,approved,2026-01-16T00:46:39.796Z,Late arrival noted
+165,165,84,pending,,
+166,166,85,approved,2026-01-16T09:47:49.561Z,Approved by manager
+167,167,86,approved,2026-01-13T06:53:30.414Z,Approved by manager
+168,168,87,approved,2026-01-13T12:46:57.775Z,Excellent performance
+169,169,89,approved,2026-01-14T21:09:54.895Z,
+170,170,90,approved,2026-01-13T02:18:34.445Z,Standard approval
+171,171,91,rejected,2026-01-16T05:18:30.851Z,Did not complete full shift
+172,172,92,approved,2026-01-16T03:57:28.446Z,Approved by manager
+173,173,93,rejected,2026-01-14T11:42:07.968Z,Did not complete full shift
+174,174,94,approved,2026-01-13T07:37:05.891Z,Standard approval
+175,175,95,approved,2026-01-15T14:37:27.489Z,
+176,176,96,approved,2026-01-12T01:00:39.785Z,Excellent performance
+177,177,97,approved,2026-01-16T07:34:18.100Z,Approved by manager
+178,178,98,rejected,2026-01-15T01:33:10.808Z,Did not complete full shift
+179,179,99,approved,2026-01-14T06:59:53.524Z,Late arrival noted
+180,180,100,approved,2026-01-16T13:01:46.276Z,Approved by manager
+181,181,101,approved,2026-01-14T21:18:30.832Z,Standard approval
+182,182,102,approved,2026-01-13T01:17:11.601Z,
+183,183,103,approved,2026-01-16T13:25:50.816Z,Approved by manager
+184,184,104,approved,2026-01-11T21:36:21.899Z,Late arrival noted
+185,185,105,pending,,
+186,186,106,approved,2026-01-16T17:47:56.281Z,Approved by manager
+187,187,107,approved,2026-01-13T03:23:12.568Z,Late arrival noted
+188,188,108,approved,2026-01-14T17:49:26.012Z,
+189,189,7,approved,2026-01-13T18:36:22.131Z,Late arrival noted
+190,190,8,approved,2026-01-12T03:22:36.171Z,Late arrival noted
+191,191,9,pending,,
+192,192,10,pending,,
+193,193,11,approved,2026-01-15T21:19:21.958Z,Excellent performance
+194,194,14,approved,2026-01-14T00:39:52.432Z,Late arrival noted
+195,195,16,approved,2026-01-13T23:49:17.681Z,
+196,196,17,approved,2026-01-14T11:18:28.450Z,Excellent performance
+197,197,18,approved,2026-01-12T09:11:45.478Z,Standard approval
+198,198,20,rejected,2026-01-14T01:58:07.587Z,Did not complete full shift
+199,199,21,approved,2026-01-16T01:39:15.110Z,Late arrival noted
+200,200,22,approved,2026-01-15T05:23:09.195Z,Late arrival noted
+201,201,23,approved,2026-01-12T07:33:48.510Z,
+202,202,24,approved,2026-01-12T17:27:03.781Z,Standard approval
+203,203,25,approved,2026-01-15T12:56:57.871Z,Late arrival noted
+204,204,26,approved,2026-01-12T03:22:36.457Z,
+205,205,27,approved,2026-01-14T03:37:11.763Z,Approved by manager
+206,206,28,approved,2026-01-14T08:39:57.653Z,
+207,207,29,pending,,
+208,208,30,approved,2026-01-14T16:00:16.028Z,
+209,209,31,approved,2026-01-11T22:50:58.143Z,Standard approval
+210,210,32,approved,2026-01-12T08:49:35.181Z,Approved by manager
+211,211,33,approved,2026-01-16T17:51:09.953Z,
+212,212,34,approved,2026-01-12T15:42:03.829Z,
+213,213,35,approved,2026-01-14T04:45:42.094Z,Approved by manager
+214,214,36,pending,,
+215,215,37,rejected,2026-01-14T22:58:42.623Z,Did not complete full shift
+216,216,38,approved,2026-01-14T18:47:42.377Z,Standard approval
+217,217,39,approved,2026-01-16T07:06:29.407Z,
+218,218,40,approved,2026-01-13T19:35:35.372Z,Approved by manager
+219,219,41,approved,2026-01-13T09:01:42.535Z,Approved by manager
+220,220,42,approved,2026-01-15T00:29:35.930Z,Late arrival noted
+221,221,43,rejected,2026-01-15T03:29:06.765Z,Did not complete full shift
+222,222,44,approved,2026-01-11T23:13:32.501Z,
+223,223,45,approved,2026-01-16T03:55:09.354Z,Approved by manager
+224,224,46,approved,2026-01-14T01:15:40.859Z,Standard approval
+225,225,47,approved,2026-01-13T06:24:10.156Z,Late arrival noted
+226,226,48,approved,2026-01-13T13:30:46.591Z,Approved by manager
+227,227,49,approved,2026-01-14T10:41:37.016Z,Late arrival noted
+228,228,50,approved,2026-01-12T11:10:00.893Z,Late arrival noted
+229,229,51,approved,2026-01-15T16:28:07.935Z,
+230,230,52,approved,2026-01-14T09:09:24.413Z,Standard approval
+231,231,53,approved,2026-01-14T16:53:57.358Z,Late arrival noted
+232,232,55,approved,2026-01-13T22:52:53.932Z,Standard approval
+233,233,56,approved,2026-01-16T13:53:46.111Z,Excellent performance
+234,234,57,approved,2026-01-12T11:03:56.799Z,
+235,235,58,approved,2026-01-15T23:56:41.751Z,Excellent performance
+236,236,59,approved,2026-01-11T20:42:22.770Z,Late arrival noted
+237,237,60,approved,2026-01-13T12:54:28.498Z,
+238,238,61,approved,2026-01-15T23:34:17.964Z,Late arrival noted
+239,239,62,approved,2026-01-13T10:37:59.919Z,Late arrival noted
+240,240,64,approved,2026-01-16T15:44:04.209Z,Excellent performance
+241,241,65,approved,2026-01-15T04:23:19.703Z,Excellent performance
+242,242,66,approved,2026-01-14T02:57:02.376Z,
+243,243,67,approved,2026-01-13T06:04:01.712Z,Approved by manager
+244,244,68,approved,2026-01-14T02:22:16.779Z,Excellent performance
+245,245,69,pending,,
+246,246,70,approved,2026-01-13T16:50:07.038Z,
+247,247,71,approved,2026-01-16T03:31:28.194Z,Approved by manager
+248,248,72,approved,2026-01-13T01:20:32.208Z,
+249,249,73,approved,2026-01-13T04:06:58.899Z,
+250,250,74,approved,2026-01-12T08:23:05.572Z,
+251,251,75,rejected,2026-01-14T10:21:08.543Z,Did not complete full shift
+252,252,77,approved,2026-01-15T19:09:57.702Z,Approved by manager
+253,253,78,approved,2026-01-13T20:08:20.092Z,Excellent performance
+254,254,79,approved,2026-01-14T21:49:24.777Z,Standard approval
+255,255,80,pending,,
+256,256,81,approved,2026-01-12T10:56:13.759Z,Approved by manager
+257,257,82,approved,2026-01-12T06:30:40.889Z,Excellent performance
+258,258,83,approved,2026-01-15T08:02:32.448Z,
+259,259,84,approved,2026-01-16T09:32:49.330Z,Standard approval
+260,260,85,approved,2026-01-15T15:31:28.070Z,
+261,261,86,approved,2026-01-15T18:39:49.521Z,Excellent performance
+262,262,87,approved,2026-01-13T05:10:59.501Z,
+263,263,89,approved,2026-01-13T09:18:58.399Z,Approved by manager
+264,264,90,approved,2026-01-16T00:58:00.578Z,
+265,265,91,approved,2026-01-13T06:07:31.438Z,Standard approval
+266,266,92,approved,2026-01-12T02:10:09.686Z,Approved by manager
+267,267,93,approved,2026-01-14T22:35:07.734Z,Late arrival noted
+268,268,94,pending,,
+269,269,95,approved,2026-01-12T20:45:17.769Z,
+270,270,96,approved,2026-01-14T10:38:28.575Z,
+271,271,97,approved,2026-01-14T22:50:27.334Z,Standard approval
+272,272,98,rejected,2026-01-13T22:00:15.373Z,Did not complete full shift
+273,273,99,pending,,
+274,274,100,approved,2026-01-12T08:45:14.178Z,Late arrival noted
+275,275,101,approved,2026-01-12T19:46:42.450Z,Approved by manager
+276,276,102,approved,2026-01-16T11:50:25.337Z,
+277,277,103,approved,2026-01-12T16:29:21.341Z,
+278,278,104,approved,2026-01-14T23:04:43.989Z,Standard approval
+279,279,105,rejected,2026-01-14T17:18:06.542Z,Did not complete full shift
+280,280,106,approved,2026-01-13T00:23:33.989Z,
+281,281,107,approved,2026-01-13T17:55:20.687Z,Late arrival noted
+282,282,108,approved,2026-01-12T23:55:52.842Z,Late arrival noted
+283,283,7,approved,2026-01-16T09:22:18.448Z,Standard approval
+284,284,8,approved,2026-01-13T13:25:50.526Z,Late arrival noted
+285,285,9,approved,2026-01-14T20:18:14.405Z,
+286,286,10,approved,2026-01-12T13:44:07.144Z,Standard approval
+287,287,11,pending,,
+288,288,14,approved,2026-01-12T12:50:27.750Z,Standard approval
+289,289,16,approved,2026-01-12T20:00:27.355Z,Late arrival noted
+290,290,17,approved,2026-01-16T01:59:58.200Z,Late arrival noted
+291,291,18,approved,2026-01-15T02:04:08.692Z,
+292,292,20,approved,2026-01-16T14:26:25.592Z,Late arrival noted
+293,293,21,approved,2026-01-16T02:07:29.862Z,Approved by manager
+294,294,22,approved,2026-01-15T18:09:13.495Z,
+295,295,23,rejected,2026-01-14T03:14:42.339Z,Did not complete full shift
+296,296,24,approved,2026-01-13T16:38:33.695Z,Late arrival noted
+297,297,25,approved,2026-01-13T15:45:12.251Z,
+298,298,26,approved,2026-01-16T02:23:15.320Z,Approved by manager
+299,299,27,approved,2026-01-14T18:32:17.489Z,
+300,300,28,approved,2026-01-13T05:15:29.045Z,Late arrival noted
+301,301,29,approved,2026-01-14T13:49:12.951Z,Standard approval
+302,302,30,pending,,
+303,303,31,approved,2026-01-12T10:40:17.656Z,Excellent performance
+304,304,32,approved,2026-01-14T08:39:43.071Z,
+305,305,33,approved,2026-01-16T01:32:12.594Z,
+306,306,34,approved,2026-01-15T22:18:22.072Z,Approved by manager
+307,307,35,approved,2026-01-14T03:46:21.605Z,
+308,308,36,approved,2026-01-14T06:21:22.121Z,Standard approval
+309,309,37,rejected,2026-01-15T16:01:09.465Z,Did not complete full shift
+310,310,38,pending,,
+311,311,39,approved,2026-01-13T15:31:05.590Z,Approved by manager
+312,312,40,approved,2026-01-15T07:35:17.399Z,Excellent performance
+313,313,41,approved,2026-01-13T00:43:18.048Z,
+314,314,42,approved,2026-01-14T02:27:56.883Z,
+315,315,43,pending,,
+316,316,44,approved,2026-01-16T08:12:54.521Z,Excellent performance
+317,317,45,approved,2026-01-14T20:26:24.503Z,Late arrival noted
+318,318,46,pending,,
+319,319,47,approved,2026-01-14T06:54:58.973Z,
+320,320,48,approved,2026-01-16T01:33:38.173Z,Late arrival noted
+321,321,49,approved,2026-01-15T10:56:06.579Z,Late arrival noted
+322,322,50,approved,2026-01-15T16:45:05.944Z,Approved by manager
+323,323,51,approved,2026-01-13T21:39:06.951Z,
+324,324,52,approved,2026-01-16T11:09:39.542Z,
+325,325,53,approved,2026-01-16T07:23:09.856Z,Excellent performance
+326,326,55,approved,2026-01-14T18:45:01.924Z,Standard approval
+327,327,56,approved,2026-01-14T14:33:44.189Z,Late arrival noted
+328,328,57,approved,2026-01-13T00:40:53.827Z,
+329,329,58,approved,2026-01-13T10:08:34.864Z,
+330,330,59,pending,,
+331,331,60,approved,2026-01-16T04:06:36.648Z,
+332,332,61,approved,2026-01-11T23:30:33.376Z,Standard approval
+333,333,62,approved,2026-01-14T01:42:40.339Z,Excellent performance
+334,334,64,pending,,
+335,335,65,approved,2026-01-14T08:42:57.986Z,Late arrival noted
+336,336,66,approved,2026-01-15T21:07:26.788Z,
+337,337,67,approved,2026-01-13T10:03:12.650Z,
+338,338,68,pending,,
+339,339,69,pending,,
+340,340,70,approved,2026-01-13T03:27:32.519Z,
+341,341,71,approved,2026-01-15T23:35:19.767Z,Standard approval
+342,342,72,approved,2026-01-13T23:40:12.015Z,
+343,343,73,approved,2026-01-15T15:19:32.253Z,
+344,344,74,approved,2026-01-14T10:30:37.219Z,Excellent performance
+345,345,75,approved,2026-01-15T12:33:07.170Z,Excellent performance
+346,346,77,approved,2026-01-14T07:14:20.529Z,Approved by manager
+347,347,78,approved,2026-01-12T21:06:00.006Z,Late arrival noted
+348,348,79,rejected,2026-01-15T12:13:35.839Z,Did not complete full shift
+349,349,80,pending,,
+350,350,81,pending,,
+351,351,82,approved,2026-01-13T03:16:15.965Z,
+352,352,83,pending,,
+353,353,84,approved,2026-01-16T02:02:51.589Z,Excellent performance
+354,354,85,approved,2026-01-16T09:44:00.263Z,Standard approval
+355,355,86,approved,2026-01-14T10:04:01.885Z,
+356,356,87,approved,2026-01-15T05:13:27.196Z,Standard approval
+357,357,89,approved,2026-01-14T22:47:20.475Z,
+358,358,90,approved,2026-01-14T14:58:59.882Z,Excellent performance
+359,359,91,approved,2026-01-14T23:18:08.387Z,
+360,360,92,approved,2026-01-12T13:05:56.497Z,
+361,361,93,pending,,
+362,362,94,approved,2026-01-13T01:06:19.480Z,
+363,363,95,approved,2026-01-16T01:02:16.415Z,Excellent performance
+364,364,96,approved,2026-01-15T20:00:00.372Z,
+365,365,97,pending,,
+366,366,98,approved,2026-01-16T18:18:56.099Z,Approved by manager
+367,367,99,pending,,
+368,368,100,approved,2026-01-13T07:04:40.334Z,
+369,369,101,approved,2026-01-12T10:32:28.820Z,
+370,370,102,approved,2026-01-15T00:36:57.205Z,
+371,371,103,approved,2026-01-14T10:46:28.750Z,
+372,372,104,approved,2026-01-13T02:58:49.395Z,Approved by manager
+373,373,105,approved,2026-01-13T09:56:29.547Z,
+374,374,106,approved,2026-01-12T12:10:05.136Z,Standard approval
+375,375,107,approved,2026-01-15T21:02:53.846Z,Late arrival noted
+376,376,108,approved,2026-01-13T04:22:19.444Z,
+377,377,7,approved,2026-01-16T08:20:37.354Z,Approved by manager
+378,378,8,approved,2026-01-13T20:02:30.420Z,Standard approval
+379,379,9,approved,2026-01-12T05:24:02.429Z,
+380,380,10,approved,2026-01-14T21:53:35.362Z,
+381,381,11,approved,2026-01-14T05:22:12.110Z,Excellent performance
+382,382,14,approved,2026-01-14T17:55:52.838Z,Late arrival noted
+383,383,16,approved,2026-01-16T03:15:32.666Z,Excellent performance
+384,384,17,approved,2026-01-14T22:26:34.351Z,
+385,385,18,pending,,
+386,386,20,approved,2026-01-12T12:44:03.182Z,Late arrival noted
+387,387,21,approved,2026-01-13T06:28:02.217Z,Standard approval
+388,388,22,rejected,2026-01-16T16:28:43.827Z,Did not complete full shift
+389,389,23,approved,2026-01-14T10:52:41.136Z,Late arrival noted
+390,390,24,approved,2026-01-13T20:16:08.112Z,
+391,391,25,approved,2026-01-14T10:27:19.122Z,Standard approval
+392,392,26,approved,2026-01-16T17:49:02.193Z,Excellent performance
+393,393,27,approved,2026-01-12T01:48:50.623Z,
+394,394,28,approved,2026-01-14T04:55:22.595Z,
+395,395,29,approved,2026-01-13T17:36:47.755Z,Late arrival noted
+396,396,30,approved,2026-01-11T22:16:59.930Z,Approved by manager
+397,397,31,approved,2026-01-12T15:28:10.765Z,Excellent performance
+398,398,32,approved,2026-01-16T17:27:16.428Z,
+399,399,33,approved,2026-01-15T12:34:55.196Z,Late arrival noted
+400,400,34,approved,2026-01-13T15:36:50.639Z,
+401,401,35,approved,2026-01-11T19:59:30.808Z,Excellent performance
+402,402,36,approved,2026-01-11T18:49:22.115Z,
+403,403,37,approved,2026-01-15T15:16:17.255Z,
+404,404,38,approved,2026-01-14T11:28:19.239Z,
+405,405,39,approved,2026-01-16T06:07:03.161Z,
+406,406,40,approved,2026-01-16T13:44:17.537Z,Late arrival noted
+407,407,41,approved,2026-01-12T20:41:23.855Z,Approved by manager
+408,408,42,approved,2026-01-13T04:31:04.297Z,
+409,409,43,pending,,
+410,410,44,approved,2026-01-13T09:58:31.364Z,
+411,411,45,approved,2026-01-13T09:20:40.052Z,Excellent performance
+412,412,46,approved,2026-01-16T16:32:01.962Z,
+413,413,47,approved,2026-01-12T12:19:40.193Z,Late arrival noted
+414,414,48,approved,2026-01-12T21:28:48.929Z,
+415,415,49,approved,2026-01-12T19:32:31.953Z,Late arrival noted
+416,416,50,pending,,
+417,417,51,approved,2026-01-12T18:15:52.675Z,Excellent performance
+418,418,52,approved,2026-01-14T15:48:20.970Z,Standard approval
+419,419,53,approved,2026-01-15T06:18:24.671Z,
+420,420,55,approved,2026-01-11T22:51:12.161Z,
+421,421,56,approved,2026-01-15T01:05:28.052Z,Late arrival noted
+422,422,57,pending,,
+423,423,58,approved,2026-01-13T09:12:49.894Z,
+424,424,59,approved,2026-01-16T08:54:13.403Z,Late arrival noted
+425,425,60,approved,2026-01-13T05:52:37.522Z,Late arrival noted
+426,426,61,approved,2026-01-15T15:09:59.522Z,
+427,427,62,approved,2026-01-11T18:57:59.938Z,
+428,428,64,approved,2026-01-15T14:41:02.634Z,Late arrival noted
+429,429,65,rejected,2026-01-15T15:19:30.742Z,Did not complete full shift
+430,430,66,approved,2026-01-14T00:54:20.754Z,
+431,431,67,approved,2026-01-14T05:54:08.968Z,
+432,432,68,approved,2026-01-15T21:36:46.700Z,Approved by manager
+433,433,69,approved,2026-01-16T04:56:47.473Z,
+434,434,70,pending,,
+435,435,71,approved,2026-01-15T14:15:30.889Z,Standard approval
+436,436,72,approved,2026-01-15T01:15:25.288Z,Late arrival noted
+437,437,73,approved,2026-01-13T12:43:43.738Z,
+438,438,74,approved,2026-01-15T11:24:36.277Z,Standard approval
+439,439,75,approved,2026-01-15T12:28:20.819Z,
+440,440,77,approved,2026-01-12T18:26:53.071Z,Approved by manager
+441,441,78,approved,2026-01-11T20:45:41.774Z,Approved by manager
+442,442,79,approved,2026-01-14T18:02:21.782Z,
+443,443,80,approved,2026-01-12T23:13:46.051Z,
+444,444,81,rejected,2026-01-16T00:55:32.020Z,Did not complete full shift
+445,445,82,approved,2026-01-14T23:51:37.287Z,
+446,446,83,approved,2026-01-12T23:33:24.799Z,
+447,447,84,approved,2026-01-12T10:50:18.393Z,Excellent performance
+448,448,85,approved,2026-01-14T06:11:43.921Z,Excellent performance
+449,449,86,pending,,
+450,450,87,approved,2026-01-15T06:28:37.275Z,
+451,451,89,approved,2026-01-14T12:25:56.833Z,Approved by manager
+452,452,90,approved,2026-01-13T11:25:44.244Z,
+453,453,91,approved,2026-01-16T02:32:41.934Z,Approved by manager
+454,454,92,approved,2026-01-13T12:36:47.621Z,
+455,455,93,approved,2026-01-14T19:18:04.888Z,Approved by manager
+456,456,94,approved,2026-01-13T03:30:19.735Z,Standard approval
+457,457,95,pending,,
+458,458,96,approved,2026-01-15T03:24:19.312Z,Standard approval
+459,459,97,approved,2026-01-16T02:44:15.970Z,Late arrival noted
+460,460,98,approved,2026-01-13T07:37:29.242Z,
+461,461,99,pending,,
+462,462,100,approved,2026-01-14T18:30:04.784Z,Excellent performance
+463,463,101,approved,2026-01-11T19:41:06.572Z,Standard approval
+464,464,102,approved,2026-01-13T19:09:46.579Z,Standard approval
+465,465,103,approved,2026-01-13T03:32:54.150Z,Excellent performance
+466,466,104,approved,2026-01-16T10:15:29.588Z,Approved by manager
+467,467,105,approved,2026-01-13T22:43:29.522Z,Standard approval
+468,468,106,approved,2026-01-12T09:06:22.022Z,Late arrival noted
+469,469,107,approved,2026-01-12T14:11:34.883Z,Excellent performance
+470,470,108,approved,2026-01-15T18:05:49.543Z,Late arrival noted
+471,471,7,approved,2026-01-16T03:42:54.925Z,Late arrival noted
+472,472,8,approved,2026-01-16T13:04:13.701Z,Excellent performance
+473,473,9,approved,2026-01-15T03:39:25.559Z,Late arrival noted
+474,474,10,approved,2026-01-11T20:35:23.542Z,
+475,475,11,approved,2026-01-13T11:15:22.844Z,Approved by manager
+476,476,14,approved,2026-01-15T08:09:10.511Z,Approved by manager
+477,477,16,rejected,2026-01-16T11:58:32.074Z,Did not complete full shift
+478,478,17,approved,2026-01-12T06:24:50.863Z,Approved by manager
+479,479,18,approved,2026-01-13T18:46:03.947Z,Approved by manager
+480,480,20,approved,2026-01-12T18:05:36.605Z,Standard approval
+481,481,21,approved,2026-01-16T06:46:28.864Z,Approved by manager
+482,482,22,approved,2026-01-15T15:11:36.436Z,Excellent performance
+483,483,23,approved,2026-01-14T23:16:40.709Z,Excellent performance
+484,484,24,approved,2026-01-15T06:12:28.071Z,Excellent performance
+485,485,25,approved,2026-01-12T20:18:11.548Z,Standard approval
+486,486,26,approved,2026-01-16T09:23:57.627Z,
+487,487,27,pending,,
+488,488,28,approved,2026-01-16T01:24:34.292Z,Standard approval
+489,489,29,pending,,
+490,490,30,approved,2026-01-12T00:28:58.056Z,
+491,491,31,approved,2026-01-14T13:06:59.838Z,Standard approval
+492,492,32,approved,2026-01-16T07:01:19.769Z,Late arrival noted
+493,493,33,approved,2026-01-14T13:42:20.597Z,
+494,494,34,approved,2026-01-13T16:32:12.793Z,
+495,495,35,approved,2026-01-11T19:05:13.719Z,
+496,496,36,approved,2026-01-15T08:02:56.886Z,
+497,497,37,approved,2026-01-12T13:58:32.756Z,
+498,498,38,approved,2026-01-11T23:05:27.043Z,
+499,499,39,approved,2026-01-13T05:32:29.036Z,Standard approval
+500,500,40,approved,2026-01-14T12:19:43.349Z,
+501,501,41,approved,2026-01-13T18:53:37.336Z,Excellent performance
+502,502,42,pending,,
+503,503,43,approved,2026-01-15T07:21:13.964Z,Late arrival noted
+504,504,44,approved,2026-01-13T21:27:18.449Z,Approved by manager
+505,505,45,approved,2026-01-12T15:24:20.014Z,
+506,506,46,approved,2026-01-15T02:26:01.863Z,Standard approval
+507,507,47,approved,2026-01-16T06:51:24.047Z,
+508,508,48,approved,2026-01-13T15:36:20.576Z,Approved by manager
+509,509,49,approved,2026-01-12T03:54:42.793Z,Standard approval
+510,510,50,approved,2026-01-15T06:12:35.839Z,
+511,511,51,approved,2026-01-12T16:11:07.695Z,
+512,512,52,pending,,
+513,513,53,approved,2026-01-13T07:08:38.233Z,Approved by manager
+514,514,55,approved,2026-01-16T14:40:28.891Z,
+515,515,56,approved,2026-01-14T06:27:12.036Z,
+516,516,57,approved,2026-01-13T13:54:22.768Z,
+517,517,58,approved,2026-01-16T15:30:23.042Z,Late arrival noted
+518,518,59,approved,2026-01-15T20:03:08.300Z,
+519,519,60,approved,2026-01-15T10:01:11.153Z,Standard approval
+520,520,61,approved,2026-01-15T16:40:56.477Z,Standard approval
+521,521,62,approved,2026-01-14T15:06:36.413Z,Late arrival noted
+522,522,64,approved,2026-01-12T23:53:08.832Z,
+523,523,65,approved,2026-01-14T18:55:46.505Z,Standard approval
+524,524,66,approved,2026-01-14T05:45:57.732Z,Late arrival noted
+525,525,67,rejected,2026-01-14T19:54:02.271Z,Did not complete full shift
+526,526,68,approved,2026-01-14T10:50:46.978Z,
+527,527,69,approved,2026-01-14T14:27:44.104Z,
+528,528,70,approved,2026-01-11T21:59:44.962Z,
+529,529,71,approved,2026-01-13T04:40:20.011Z,
+530,530,72,approved,2026-01-13T17:48:54.658Z,Approved by manager
+531,531,73,approved,2026-01-13T06:17:08.344Z,Late arrival noted
+532,532,74,approved,2026-01-16T15:20:42.296Z,Approved by manager
+533,533,75,approved,2026-01-14T06:20:29.092Z,Late arrival noted
+534,534,77,approved,2026-01-13T17:32:30.288Z,Excellent performance
+535,535,78,pending,,
+536,536,79,rejected,2026-01-15T14:49:30.000Z,Did not complete full shift
+537,537,80,approved,2026-01-14T12:25:08.474Z,Late arrival noted
+538,538,81,approved,2026-01-14T20:29:36.915Z,
+539,539,82,approved,2026-01-15T21:49:53.598Z,
+540,540,83,approved,2026-01-15T14:30:49.920Z,Excellent performance
+541,541,84,approved,2026-01-13T15:05:26.877Z,Excellent performance
+542,542,85,approved,2026-01-13T03:57:24.350Z,Standard approval
+543,543,86,approved,2026-01-16T16:44:32.169Z,Excellent performance
+544,544,87,approved,2026-01-13T01:59:55.260Z,Excellent performance
+545,545,89,approved,2026-01-15T04:02:11.383Z,Late arrival noted
+546,546,90,approved,2026-01-13T06:31:37.916Z,Late arrival noted
+547,547,91,approved,2026-01-13T00:11:37.001Z,Standard approval
+548,548,92,approved,2026-01-15T01:15:52.866Z,Standard approval
+549,549,93,approved,2026-01-16T07:15:02.521Z,Approved by manager
+550,550,94,approved,2026-01-14T21:40:46.458Z,Standard approval
+551,551,95,approved,2026-01-15T05:10:33.091Z,
+552,552,96,approved,2026-01-16T11:33:04.690Z,
+553,553,97,rejected,2026-01-15T07:08:50.752Z,Did not complete full shift
+554,554,98,approved,2026-01-14T16:26:39.559Z,
+555,555,99,approved,2026-01-16T16:26:01.699Z,Standard approval
+556,556,100,approved,2026-01-14T01:19:29.274Z,Late arrival noted
+557,557,101,pending,,
+558,558,102,approved,2026-01-15T11:36:36.018Z,
+559,559,103,approved,2026-01-13T13:06:23.239Z,Excellent performance
+560,560,104,approved,2026-01-14T02:24:53.445Z,Standard approval
+561,561,105,approved,2026-01-15T09:57:16.562Z,Excellent performance
+562,562,106,approved,2026-01-14T00:49:22.787Z,Late arrival noted
+563,563,107,approved,2026-01-13T15:23:21.410Z,Excellent performance
+564,564,108,approved,2026-01-14T12:37:08.722Z,Excellent performance
+565,565,7,pending,,
+566,566,8,approved,2026-01-13T15:51:34.976Z,Standard approval
+567,567,9,approved,2026-01-14T21:31:19.220Z,Late arrival noted
+568,568,10,approved,2026-01-15T14:58:05.256Z,Excellent performance
+569,569,11,approved,2026-01-13T19:57:20.186Z,
+570,570,14,approved,2026-01-14T18:43:14.602Z,
+571,571,16,approved,2026-01-12T17:03:16.607Z,Late arrival noted
+572,572,17,approved,2026-01-15T19:18:59.050Z,
+573,573,18,approved,2026-01-16T00:56:42.983Z,Excellent performance
+574,574,20,approved,2026-01-16T14:55:13.968Z,
+575,575,21,rejected,2026-01-13T22:29:54.573Z,Did not complete full shift
+576,576,22,approved,2026-01-16T15:30:36.860Z,
+577,577,23,approved,2026-01-13T00:47:59.186Z,
+578,578,24,pending,,
+579,579,25,approved,2026-01-13T06:56:36.812Z,
+580,580,26,pending,,
+581,581,27,approved,2026-01-15T07:47:07.636Z,
+582,582,28,approved,2026-01-15T05:54:13.576Z,
+583,583,29,approved,2026-01-14T17:49:52.490Z,Standard approval
+584,584,30,pending,,
+585,585,31,pending,,
+586,586,32,approved,2026-01-14T03:05:28.615Z,Late arrival noted
+587,587,33,approved,2026-01-14T11:56:14.598Z,Approved by manager
+588,588,34,approved,2026-01-14T21:23:13.896Z,
+589,589,35,approved,2026-01-12T12:53:41.000Z,
+590,590,36,pending,,
+591,591,37,approved,2026-01-16T03:01:27.113Z,Standard approval
+592,592,38,approved,2026-01-16T11:14:17.174Z,Late arrival noted
+593,593,39,approved,2026-01-13T22:26:05.694Z,
+594,594,40,approved,2026-01-12T05:32:54.901Z,
+595,595,41,approved,2026-01-14T11:59:41.583Z,
+596,596,42,approved,2026-01-12T11:39:57.454Z,Late arrival noted
+597,597,43,approved,2026-01-16T14:02:59.182Z,Late arrival noted
+598,598,44,approved,2026-01-15T08:38:43.164Z,
+599,599,45,approved,2026-01-14T12:55:03.771Z,Standard approval
+600,600,46,pending,,
+601,601,47,approved,2026-01-11T18:50:54.772Z,Standard approval
+602,602,48,approved,2026-01-15T12:09:19.324Z,
+603,603,49,approved,2026-01-16T08:43:16.188Z,Approved by manager
+604,604,50,approved,2026-01-12T09:56:21.513Z,
+605,605,51,approved,2026-01-12T08:58:16.723Z,Standard approval
+606,606,52,approved,2026-01-14T07:48:55.696Z,Excellent performance
+607,607,53,rejected,2026-01-15T01:18:44.503Z,Did not complete full shift
+608,608,55,rejected,2026-01-16T14:25:42.431Z,Did not complete full shift
+609,609,56,approved,2026-01-14T10:40:30.725Z,Late arrival noted
+610,610,57,rejected,2026-01-14T02:49:42.084Z,Did not complete full shift
+611,611,58,approved,2026-01-13T21:20:35.044Z,Approved by manager
+612,612,59,approved,2026-01-12T05:31:59.958Z,Late arrival noted
+613,613,60,pending,,
+614,614,61,approved,2026-01-15T12:52:19.792Z,Standard approval
+615,615,62,approved,2026-01-11T19:00:48.878Z,Approved by manager
+616,616,64,pending,,
+617,617,65,approved,2026-01-12T18:19:27.676Z,
+618,618,66,approved,2026-01-12T15:22:58.441Z,Approved by manager
+619,619,67,pending,,
+620,620,68,approved,2026-01-16T14:52:43.540Z,Excellent performance
+621,621,69,approved,2026-01-12T16:38:32.249Z,Late arrival noted
+622,622,70,approved,2026-01-15T23:30:45.754Z,Standard approval
+623,623,71,approved,2026-01-14T20:15:10.173Z,Excellent performance
+624,624,72,pending,,
+625,625,73,approved,2026-01-14T03:39:03.046Z,
+626,626,74,approved,2026-01-12T21:12:02.797Z,Standard approval
+627,627,75,approved,2026-01-15T02:38:11.411Z,
+628,628,77,approved,2026-01-13T23:55:03.437Z,
+629,629,78,approved,2026-01-14T12:34:41.673Z,Approved by manager
+630,630,79,pending,,
+631,631,80,approved,2026-01-15T19:58:19.731Z,
+632,632,81,approved,2026-01-13T16:31:23.924Z,
+633,633,82,approved,2026-01-15T16:25:38.697Z,Late arrival noted
+634,634,83,approved,2026-01-13T18:30:52.055Z,Excellent performance
+635,635,84,approved,2026-01-12T12:52:20.022Z,Excellent performance
+636,636,85,approved,2026-01-15T06:51:59.369Z,Excellent performance
+637,637,86,approved,2026-01-15T05:01:50.977Z,Excellent performance
+638,638,87,approved,2026-01-14T07:26:19.065Z,Approved by manager
+639,639,89,approved,2026-01-13T05:43:49.314Z,Approved by manager
+640,640,90,approved,2026-01-16T09:01:08.667Z,Late arrival noted
+641,641,91,approved,2026-01-15T07:34:59.676Z,
+642,642,92,approved,2026-01-15T09:02:55.333Z,Approved by manager
+643,643,93,approved,2026-01-14T21:32:44.739Z,Approved by manager
+644,644,94,approved,2026-01-12T11:18:07.352Z,
+645,645,95,approved,2026-01-12T03:24:38.572Z,Standard approval
+646,646,96,approved,2026-01-14T12:33:49.114Z,Late arrival noted
+647,647,97,approved,2026-01-15T11:38:35.912Z,Standard approval
+648,648,98,pending,,
+649,649,99,approved,2026-01-12T06:26:35.068Z,
+650,650,100,approved,2026-01-12T19:33:02.090Z,
+651,651,101,approved,2026-01-14T06:34:20.643Z,
+652,652,102,approved,2026-01-13T11:23:16.101Z,Standard approval
+653,653,103,approved,2026-01-16T05:29:34.885Z,
+654,654,104,pending,,
+655,655,105,approved,2026-01-14T04:07:41.000Z,Late arrival noted
+656,656,106,approved,2026-01-16T15:44:45.813Z,
+657,657,107,approved,2026-01-13T00:33:34.219Z,
+658,658,108,approved,2026-01-16T13:59:56.458Z,
+659,659,7,approved,2026-01-14T04:22:38.787Z,
+660,660,8,approved,2026-01-13T23:14:08.174Z,Standard approval
+661,661,9,approved,2026-01-16T12:32:51.447Z,
+662,662,10,approved,2026-01-11T21:30:21.104Z,
+663,663,11,pending,,
+664,664,14,approved,2026-01-12T01:57:29.055Z,Standard approval
+665,665,16,approved,2026-01-12T16:53:50.173Z,Standard approval
+666,666,17,approved,2026-01-14T21:00:22.276Z,Approved by manager
+667,667,18,rejected,2026-01-15T12:48:40.144Z,Did not complete full shift
+668,668,20,approved,2026-01-15T04:44:27.374Z,
+669,669,21,approved,2026-01-12T17:14:01.395Z,Excellent performance
+670,670,22,approved,2026-01-15T00:51:23.833Z,Late arrival noted
+671,671,23,approved,2026-01-13T02:00:51.270Z,
+672,672,24,rejected,2026-01-16T03:26:21.196Z,Did not complete full shift
+673,673,25,approved,2026-01-14T06:48:41.135Z,
+674,674,26,approved,2026-01-12T12:52:46.807Z,
+675,675,27,approved,2026-01-15T04:54:12.796Z,
+676,676,28,approved,2026-01-15T21:13:22.896Z,Standard approval
+677,677,29,approved,2026-01-16T02:57:36.558Z,
+678,678,30,approved,2026-01-13T13:49:16.119Z,
+679,679,31,approved,2026-01-12T00:21:16.834Z,
+680,680,32,approved,2026-01-15T12:02:55.763Z,Standard approval
+681,681,33,approved,2026-01-12T10:28:54.547Z,Excellent performance
+682,682,34,approved,2026-01-16T14:21:43.338Z,Standard approval
+683,683,35,approved,2026-01-12T06:49:19.383Z,
+684,684,36,approved,2026-01-15T21:11:08.925Z,
+685,685,37,approved,2026-01-14T19:01:44.714Z,
+686,686,38,approved,2026-01-16T16:44:31.719Z,Late arrival noted
+687,687,39,approved,2026-01-16T04:47:47.144Z,Approved by manager
+688,688,40,pending,,
+689,689,41,approved,2026-01-12T15:49:27.259Z,Approved by manager
+690,690,42,approved,2026-01-12T17:45:07.692Z,Standard approval
+691,691,43,approved,2026-01-13T01:42:29.772Z,Standard approval
+692,692,44,approved,2026-01-16T00:45:30.536Z,Approved by manager
+693,693,45,approved,2026-01-15T23:57:01.428Z,Standard approval
+694,694,46,approved,2026-01-15T15:34:06.674Z,Standard approval
+695,695,47,approved,2026-01-15T12:06:23.918Z,Approved by manager
+696,696,48,approved,2026-01-15T19:46:56.134Z,Late arrival noted
+697,697,49,approved,2026-01-15T14:49:07.182Z,Excellent performance
+698,698,50,approved,2026-01-14T22:56:39.766Z,
+699,699,51,approved,2026-01-14T19:12:47.041Z,Approved by manager
+700,700,52,approved,2026-01-13T21:23:05.866Z,Approved by manager
+701,701,53,approved,2026-01-13T00:29:05.187Z,
+702,702,55,approved,2026-01-12T14:27:38.960Z,Approved by manager
+703,703,56,approved,2026-01-16T17:27:25.033Z,Excellent performance
+704,704,57,approved,2026-01-13T06:43:17.710Z,
+705,705,58,approved,2026-01-16T13:32:59.780Z,Approved by manager
+706,706,59,approved,2026-01-13T21:32:17.137Z,Late arrival noted
+707,707,60,approved,2026-01-14T17:35:21.548Z,Late arrival noted
+708,708,61,approved,2026-01-14T09:51:19.598Z,
+709,709,62,approved,2026-01-14T04:00:47.677Z,
+710,710,64,approved,2026-01-16T05:06:56.010Z,Standard approval
+711,711,65,approved,2026-01-16T06:02:42.868Z,Approved by manager
+712,712,66,approved,2026-01-14T01:17:25.033Z,Late arrival noted
+713,713,67,approved,2026-01-12T00:12:20.843Z,
+714,714,68,approved,2026-01-12T09:12:17.098Z,Standard approval
+715,715,69,approved,2026-01-16T03:38:28.740Z,Late arrival noted
+716,716,70,approved,2026-01-12T01:44:58.344Z,
+717,717,71,approved,2026-01-12T21:59:19.289Z,Standard approval
+718,718,72,approved,2026-01-13T00:05:10.032Z,Standard approval
+719,719,73,approved,2026-01-15T07:07:46.217Z,
+720,720,74,approved,2026-01-13T03:48:59.650Z,Approved by manager
+721,721,75,approved,2026-01-14T21:58:54.198Z,Late arrival noted
+722,722,77,approved,2026-01-14T04:21:52.906Z,Approved by manager
+723,723,78,approved,2026-01-14T22:52:04.869Z,Standard approval
+724,724,79,approved,2026-01-13T19:16:16.723Z,Standard approval
+725,725,80,approved,2026-01-15T08:03:28.942Z,Standard approval
+726,726,81,approved,2026-01-16T15:09:31.392Z,Approved by manager
+727,727,82,approved,2026-01-15T14:30:16.214Z,Excellent performance
+728,728,83,approved,2026-01-15T06:34:13.763Z,Late arrival noted
+729,729,84,approved,2026-01-12T01:25:49.615Z,
+730,730,85,approved,2026-01-15T05:53:05.156Z,Approved by manager
+731,731,86,approved,2026-01-14T17:37:56.815Z,
+732,732,87,approved,2026-01-14T15:35:19.100Z,Excellent performance
+733,733,89,approved,2026-01-13T13:54:53.256Z,Late arrival noted
+734,734,90,approved,2026-01-11T23:24:04.748Z,
+735,735,91,approved,2026-01-15T20:07:16.930Z,
+736,736,92,pending,,
+737,737,93,approved,2026-01-11T23:20:49.816Z,
+738,738,94,approved,2026-01-15T05:37:45.707Z,Late arrival noted
+739,739,95,approved,2026-01-14T05:15:55.077Z,
+740,740,96,approved,2026-01-16T14:24:35.828Z,
+741,741,97,approved,2026-01-13T07:50:32.967Z,
+742,742,98,approved,2026-01-13T16:24:52.112Z,
+743,743,99,approved,2026-01-16T17:17:53.025Z,
+744,744,100,approved,2026-01-13T09:51:32.627Z,Excellent performance
+745,745,101,approved,2026-01-16T14:22:42.199Z,Standard approval
+746,746,102,approved,2026-01-13T23:52:31.714Z,
+747,747,103,approved,2026-01-16T07:10:10.772Z,
+748,748,104,approved,2026-01-16T12:51:44.276Z,Standard approval
+749,749,105,approved,2026-01-13T19:12:24.352Z,Late arrival noted
+750,750,106,approved,2026-01-14T03:53:37.809Z,
+751,751,107,approved,2026-01-13T10:37:55.134Z,Late arrival noted
+752,752,108,approved,2026-01-13T00:32:05.601Z,Approved by manager
+753,753,7,pending,,
+754,754,8,approved,2026-01-15T19:24:33.061Z,Excellent performance
+755,755,9,approved,2026-01-12T07:41:50.727Z,
+756,756,10,approved,2026-01-12T10:49:45.798Z,Standard approval
+757,757,11,approved,2026-01-12T16:06:55.020Z,Approved by manager
+758,758,14,approved,2026-01-12T07:37:37.903Z,Approved by manager
+759,759,16,approved,2026-01-14T16:16:37.628Z,Late arrival noted
+760,760,17,approved,2026-01-16T09:20:38.488Z,
+761,761,18,approved,2026-01-12T09:18:29.124Z,Late arrival noted
+762,762,20,approved,2026-01-12T02:49:10.054Z,Standard approval
+763,763,21,approved,2026-01-13T00:35:42.434Z,Standard approval
+764,764,22,approved,2026-01-16T02:58:12.967Z,Late arrival noted
+765,765,23,pending,,
+766,766,24,approved,2026-01-13T04:28:07.927Z,Late arrival noted
+767,767,25,pending,,
+768,768,26,approved,2026-01-16T17:22:27.985Z,Approved by manager
+769,769,27,pending,,
+770,770,28,approved,2026-01-14T20:57:08.659Z,
+771,771,29,approved,2026-01-12T18:10:33.431Z,Standard approval
+772,772,30,approved,2026-01-12T10:18:07.012Z,Approved by manager
+773,773,31,approved,2026-01-16T09:23:11.364Z,Late arrival noted
+774,774,32,approved,2026-01-15T10:00:39.844Z,Excellent performance
+775,775,33,approved,2026-01-15T15:21:24.241Z,Excellent performance
+776,776,34,approved,2026-01-15T18:40:56.856Z,Excellent performance
+777,777,35,approved,2026-01-15T22:31:56.314Z,Approved by manager
+778,778,36,approved,2026-01-15T17:36:24.300Z,
+779,779,37,approved,2026-01-16T11:39:26.118Z,Standard approval
+780,780,38,approved,2026-01-15T01:28:44.351Z,Excellent performance
+781,781,39,approved,2026-01-12T05:39:43.753Z,Excellent performance
+782,782,40,approved,2026-01-13T23:19:42.631Z,Standard approval
+783,783,41,rejected,2026-01-15T18:43:17.512Z,Did not complete full shift
+784,784,42,approved,2026-01-13T05:30:02.040Z,Late arrival noted
+785,785,43,approved,2026-01-12T00:13:24.403Z,
+786,786,44,approved,2026-01-12T14:24:58.768Z,Standard approval
+787,787,45,approved,2026-01-16T02:58:05.924Z,Standard approval
+788,788,46,approved,2026-01-12T11:28:16.847Z,Approved by manager
+789,789,47,rejected,2026-01-15T14:27:43.961Z,Did not complete full shift
+790,790,48,pending,,
+791,791,49,approved,2026-01-12T07:32:43.720Z,
+792,792,50,approved,2026-01-11T19:31:08.968Z,Standard approval
+793,793,51,approved,2026-01-16T02:07:50.767Z,Excellent performance
+794,794,52,approved,2026-01-14T01:05:39.747Z,
+795,795,53,pending,,
+796,796,55,pending,,
+797,797,56,approved,2026-01-16T10:20:42.069Z,
+798,798,57,approved,2026-01-15T09:56:28.742Z,
+799,799,58,approved,2026-01-15T11:25:01.956Z,Late arrival noted
+800,800,59,approved,2026-01-13T15:38:14.105Z,Excellent performance
+801,801,60,approved,2026-01-13T15:47:01.918Z,Standard approval
+802,802,61,approved,2026-01-13T18:58:47.951Z,Standard approval
+803,803,62,approved,2026-01-13T09:00:12.232Z,Approved by manager
+804,804,64,approved,2026-01-12T12:05:07.670Z,Standard approval
+805,805,65,pending,,
+806,806,66,approved,2026-01-16T12:16:40.719Z,
+807,807,67,approved,2026-01-12T23:06:06.524Z,
+808,808,68,approved,2026-01-13T20:18:37.797Z,Late arrival noted
+809,809,69,approved,2026-01-15T02:06:01.670Z,Late arrival noted
+810,810,70,approved,2026-01-14T23:55:06.130Z,
+811,811,71,approved,2026-01-16T10:32:04.076Z,Approved by manager
+812,812,72,approved,2026-01-14T17:04:12.717Z,Excellent performance
+813,813,73,approved,2026-01-12T11:14:14.899Z,Approved by manager
+814,814,74,approved,2026-01-14T19:04:42.204Z,Excellent performance
+815,815,75,approved,2026-01-15T09:15:43.196Z,Approved by manager
+816,816,77,approved,2026-01-15T20:08:13.232Z,Approved by manager
+817,817,78,approved,2026-01-14T17:53:43.482Z,Late arrival noted
+818,818,79,approved,2026-01-16T05:18:24.840Z,
+819,819,80,approved,2026-01-13T09:54:28.982Z,
+820,820,81,approved,2026-01-13T06:11:08.194Z,Late arrival noted
+821,821,82,approved,2026-01-15T03:30:09.612Z,Approved by manager
+822,822,83,approved,2026-01-12T03:04:30.540Z,
+823,823,84,approved,2026-01-13T04:14:09.134Z,
+824,824,85,approved,2026-01-15T00:03:46.786Z,Standard approval
+825,825,86,approved,2026-01-11T23:37:52.051Z,
+826,826,87,rejected,2026-01-16T13:12:54.790Z,Did not complete full shift
+827,827,89,approved,2026-01-14T23:34:27.710Z,Late arrival noted
+828,828,90,approved,2026-01-12T10:48:04.518Z,
+829,829,91,approved,2026-01-12T13:35:30.620Z,Standard approval
+830,830,92,approved,2026-01-16T15:36:08.130Z,
+831,831,93,approved,2026-01-14T12:30:19.481Z,
+832,832,94,approved,2026-01-16T13:11:55.009Z,Late arrival noted
+833,833,95,approved,2026-01-13T15:55:08.358Z,Standard approval
+834,834,96,approved,2026-01-13T04:21:18.718Z,
+835,835,97,approved,2026-01-13T06:48:37.204Z,Late arrival noted
+836,836,98,approved,2026-01-15T22:33:35.427Z,Excellent performance
+837,837,99,approved,2026-01-14T00:52:41.656Z,Excellent performance
+838,838,100,approved,2026-01-15T22:56:40.547Z,Approved by manager
+839,839,101,approved,2026-01-14T03:47:42.983Z,Approved by manager
+840,840,102,approved,2026-01-13T14:45:00.653Z,
+841,841,103,approved,2026-01-12T04:22:44.769Z,Approved by manager
+842,842,104,approved,2026-01-13T10:24:16.048Z,Approved by manager
+843,843,105,approved,2026-01-12T19:03:23.709Z,
+844,844,106,approved,2026-01-16T10:38:18.540Z,Standard approval
+845,845,107,approved,2026-01-16T00:34:16.253Z,Approved by manager
+846,846,108,pending,,
+847,847,7,approved,2026-01-16T08:04:22.505Z,Late arrival noted
+848,848,8,approved,2026-01-16T10:43:05.352Z,Standard approval
+849,849,9,approved,2026-01-12T19:05:21.441Z,Approved by manager
+850,850,10,approved,2026-01-12T00:10:48.706Z,
+851,851,11,approved,2026-01-15T23:45:10.732Z,Approved by manager
+852,852,14,pending,,
+853,853,16,approved,2026-01-12T11:19:45.657Z,Standard approval
+854,854,17,approved,2026-01-15T17:57:40.747Z,
+855,855,18,approved,2026-01-15T05:19:49.547Z,Late arrival noted
+856,856,20,pending,,
+857,857,21,approved,2026-01-16T17:03:23.496Z,Excellent performance
+858,858,22,approved,2026-01-13T05:47:49.904Z,Late arrival noted
+859,859,23,approved,2026-01-14T15:55:25.748Z,
+860,860,24,pending,,
+861,861,25,approved,2026-01-14T02:45:10.220Z,Standard approval
+862,862,26,rejected,2026-01-15T14:26:06.057Z,Did not complete full shift
+863,863,27,approved,2026-01-14T22:48:46.902Z,Approved by manager
+864,864,28,approved,2026-01-12T07:30:53.484Z,
+865,865,29,approved,2026-01-15T06:42:51.654Z,Approved by manager
+866,866,30,approved,2026-01-11T19:52:00.410Z,Standard approval
+867,867,31,approved,2026-01-12T15:03:48.670Z,
+868,868,32,approved,2026-01-14T02:11:00.865Z,Standard approval
+869,869,33,approved,2026-01-14T21:28:52.761Z,
+870,870,34,approved,2026-01-16T18:13:04.371Z,
+871,871,35,approved,2026-01-12T01:47:25.702Z,
+872,872,36,pending,,
+873,873,37,approved,2026-01-15T12:06:16.834Z,
+874,874,38,approved,2026-01-15T14:44:31.105Z,Excellent performance
+875,875,39,approved,2026-01-12T07:46:23.597Z,Approved by manager
+876,876,40,rejected,2026-01-13T20:18:25.014Z,Did not complete full shift
+877,877,41,pending,,
+878,878,42,pending,,
+879,879,43,rejected,2026-01-13T23:19:52.401Z,Did not complete full shift
+880,880,44,approved,2026-01-16T07:08:12.815Z,Late arrival noted
+881,881,45,approved,2026-01-14T11:03:45.736Z,Late arrival noted
+882,882,46,approved,2026-01-13T01:25:42.546Z,Excellent performance
+883,883,47,approved,2026-01-14T18:16:40.259Z,Standard approval
+884,884,48,approved,2026-01-14T11:38:50.955Z,Late arrival noted
+885,885,49,approved,2026-01-16T08:34:02.246Z,Excellent performance
+886,886,50,pending,,
+887,887,51,approved,2026-01-12T12:39:32.925Z,
+888,888,52,approved,2026-01-14T18:51:35.346Z,
+889,889,53,approved,2026-01-14T19:15:53.895Z,Approved by manager
+890,890,55,pending,,
+891,891,56,approved,2026-01-15T02:55:20.290Z,Excellent performance
+892,892,57,approved,2026-01-16T18:20:53.457Z,
+893,893,58,approved,2026-01-11T22:57:32.502Z,
+894,894,59,approved,2026-01-11T22:41:41.853Z,Excellent performance
+895,895,60,approved,2026-01-12T22:31:09.364Z,Excellent performance
+896,896,61,rejected,2026-01-15T01:54:01.161Z,Did not complete full shift
+897,897,62,approved,2026-01-11T21:37:02.393Z,Late arrival noted
+898,898,64,approved,2026-01-14T00:53:26.070Z,Excellent performance
+899,899,65,approved,2026-01-13T14:35:17.975Z,Excellent performance
+900,900,66,pending,,
+901,901,67,pending,,
+902,902,68,pending,,
+903,903,69,approved,2026-01-13T04:42:30.655Z,Late arrival noted
+904,904,70,approved,2026-01-16T03:27:21.550Z,
+905,905,71,approved,2026-01-12T02:18:16.066Z,Excellent performance
+906,906,72,approved,2026-01-12T20:21:05.871Z,Approved by manager
+907,907,73,approved,2026-01-13T17:51:42.013Z,Standard approval
+908,908,74,pending,,
+909,909,75,approved,2026-01-15T23:10:02.203Z,Late arrival noted
+910,910,77,approved,2026-01-13T14:16:46.095Z,
+911,911,78,approved,2026-01-15T23:06:53.605Z,Late arrival noted
+912,912,79,approved,2026-01-13T17:01:44.008Z,
+913,913,80,pending,,
+914,914,81,approved,2026-01-14T15:02:23.211Z,Approved by manager
+915,915,82,approved,2026-01-12T18:26:01.487Z,
+916,916,83,approved,2026-01-13T05:56:10.016Z,
+917,917,84,approved,2026-01-12T08:39:24.036Z,Approved by manager
+918,918,85,approved,2026-01-13T02:52:23.456Z,Approved by manager
+919,919,86,approved,2026-01-16T01:33:34.103Z,Approved by manager
+920,920,87,approved,2026-01-16T14:45:54.841Z,Approved by manager
+921,921,89,approved,2026-01-15T02:48:06.316Z,
+922,922,90,approved,2026-01-13T15:52:21.083Z,Approved by manager
+923,923,91,approved,2026-01-14T14:21:43.873Z,Standard approval
+924,924,92,approved,2026-01-16T08:24:20.109Z,Late arrival noted
+925,925,93,approved,2026-01-14T21:19:50.587Z,Standard approval
+926,926,94,approved,2026-01-11T21:36:22.764Z,
+927,927,95,approved,2026-01-13T04:30:24.948Z,
+928,928,96,rejected,2026-01-14T12:54:18.354Z,Did not complete full shift
+929,929,97,approved,2026-01-16T05:30:19.374Z,Standard approval
+930,930,98,approved,2026-01-16T11:11:46.894Z,Standard approval
+931,931,99,approved,2026-01-13T20:09:45.081Z,
+932,932,100,pending,,
+933,933,101,approved,2026-01-13T08:17:14.603Z,Excellent performance
+934,934,102,approved,2026-01-15T08:37:00.988Z,Approved by manager
+935,935,103,approved,2026-01-15T21:42:16.517Z,Approved by manager
+936,936,104,pending,,
+937,937,105,pending,,
+938,938,106,pending,,
+939,939,107,approved,2026-01-15T19:12:00.326Z,
+940,940,108,approved,2026-01-15T12:27:03.142Z,Standard approval
+941,941,7,approved,2026-01-12T11:08:24.443Z,Standard approval
+942,942,8,approved,2026-01-15T08:42:53.724Z,
+943,943,9,pending,,
+944,944,10,approved,2026-01-14T01:05:16.062Z,Excellent performance
+945,945,11,approved,2026-01-15T05:11:43.601Z,Approved by manager
+946,946,14,approved,2026-01-14T15:57:18.685Z,Excellent performance
+947,947,16,approved,2026-01-14T08:25:17.948Z,
+948,948,17,pending,,
+949,949,18,approved,2026-01-13T22:49:02.176Z,Excellent performance
+950,950,20,approved,2026-01-15T18:59:17.268Z,Approved by manager
+951,951,21,approved,2026-01-13T12:38:50.486Z,Approved by manager
+952,952,22,rejected,2026-01-15T00:45:44.040Z,Did not complete full shift
+953,953,23,approved,2026-01-16T15:31:15.069Z,Excellent performance
+954,954,24,rejected,2026-01-16T02:19:17.080Z,Did not complete full shift
+955,955,25,rejected,2026-01-15T06:32:55.199Z,Did not complete full shift
+956,956,26,approved,2026-01-13T12:44:22.178Z,Approved by manager
+957,957,27,approved,2026-01-13T13:29:48.796Z,
+958,958,28,rejected,2026-01-15T01:28:10.984Z,Did not complete full shift
+959,959,29,approved,2026-01-14T08:49:45.073Z,Late arrival noted
+960,960,30,approved,2026-01-14T10:21:28.275Z,Excellent performance
+961,961,31,approved,2026-01-14T05:00:24.558Z,Late arrival noted
+962,962,32,pending,,
+963,963,33,approved,2026-01-15T13:55:48.257Z,Standard approval
+964,964,34,approved,2026-01-14T15:40:57.890Z,Excellent performance
+965,965,35,approved,2026-01-11T22:29:02.263Z,
+966,966,36,approved,2026-01-13T19:30:03.243Z,Late arrival noted
+967,967,37,approved,2026-01-16T08:54:55.495Z,Late arrival noted
+968,968,38,rejected,2026-01-14T12:13:15.981Z,Did not complete full shift
+969,969,39,approved,2026-01-15T19:26:57.660Z,Standard approval
+970,970,40,rejected,2026-01-13T19:46:29.186Z,Did not complete full shift
+971,971,41,approved,2026-01-13T00:55:37.792Z,Standard approval
+972,972,42,approved,2026-01-12T06:12:33.620Z,Approved by manager
+973,973,43,approved,2026-01-15T02:51:31.955Z,
+974,974,44,approved,2026-01-15T16:29:06.641Z,
+975,975,45,pending,,
+976,976,46,approved,2026-01-15T15:17:49.699Z,
+977,977,47,approved,2026-01-13T19:41:03.454Z,
+978,978,48,approved,2026-01-12T01:57:33.801Z,Late arrival noted
+979,979,49,approved,2026-01-16T16:29:58.742Z,
+980,980,50,approved,2026-01-15T10:12:25.336Z,Standard approval
+981,981,51,approved,2026-01-13T13:45:03.573Z,
+982,982,52,pending,,
+983,983,53,approved,2026-01-11T23:39:06.202Z,
+984,984,55,rejected,2026-01-14T08:09:43.034Z,Did not complete full shift
+985,985,56,approved,2026-01-15T20:15:13.982Z,
+986,986,57,approved,2026-01-15T12:30:13.473Z,Standard approval
+987,987,58,approved,2026-01-13T15:13:39.845Z,Approved by manager
+988,988,59,approved,2026-01-12T16:09:34.544Z,
+989,989,60,approved,2026-01-14T08:48:00.842Z,
+990,990,61,approved,2026-01-12T15:59:34.467Z,
+991,991,62,approved,2026-01-12T22:37:02.404Z,Late arrival noted
+992,992,64,rejected,2026-01-15T08:47:25.946Z,Did not complete full shift
+993,993,65,approved,2026-01-15T10:48:03.227Z,Excellent performance
+994,994,66,pending,,
+995,995,67,approved,2026-01-13T19:36:40.983Z,Excellent performance
+996,996,68,approved,2026-01-12T22:36:23.064Z,Late arrival noted
+997,997,69,approved,2026-01-15T05:03:08.664Z,Late arrival noted
+998,998,70,rejected,2026-01-14T11:03:28.743Z,Did not complete full shift
+999,999,71,rejected,2026-01-16T07:15:33.794Z,Did not complete full shift
+1000,1000,72,approved,2026-01-12T05:43:23.766Z,
+1001,1001,73,approved,2026-01-14T13:08:02.276Z,
+1002,1002,74,approved,2026-01-13T14:50:59.808Z,
+1003,1003,75,approved,2026-01-13T21:22:00.185Z,Excellent performance
+1004,1004,77,approved,2026-01-16T00:53:07.135Z,Standard approval
+1005,1005,78,approved,2026-01-16T03:26:40.431Z,Excellent performance
+1006,1006,79,approved,2026-01-11T21:48:49.605Z,Approved by manager
+1007,1007,80,approved,2026-01-14T01:54:47.050Z,Standard approval
+1008,1008,81,approved,2026-01-16T08:57:23.142Z,Excellent performance
+1009,1009,82,approved,2026-01-14T04:51:39.355Z,
+1010,1010,83,pending,,
+1011,1011,84,approved,2026-01-15T10:41:23.754Z,Late arrival noted
+1012,1012,85,approved,2026-01-15T18:00:49.887Z,Excellent performance
+1013,1013,86,approved,2026-01-12T03:39:31.087Z,Excellent performance
+1014,1014,87,approved,2026-01-11T19:57:44.009Z,Approved by manager
+1015,1015,89,approved,2026-01-15T08:36:03.517Z,Standard approval
+1016,1016,90,approved,2026-01-14T01:38:39.086Z,
+1017,1017,91,approved,2026-01-14T06:02:24.477Z,Approved by manager
+1018,1018,92,approved,2026-01-14T20:10:37.104Z,
+1019,1019,93,approved,2026-01-13T09:43:19.934Z,Approved by manager
+1020,1020,94,approved,2026-01-13T07:45:34.268Z,Standard approval
+1021,1021,95,approved,2026-01-12T12:55:14.136Z,Excellent performance
+1022,1022,96,approved,2026-01-13T04:33:57.456Z,Standard approval
+1023,1023,97,approved,2026-01-12T10:32:50.813Z,
+1024,1024,98,approved,2026-01-16T14:44:47.723Z,Standard approval
+1025,1025,99,pending,,
+1026,1026,100,approved,2026-01-14T18:47:54.418Z,
+1027,1027,101,approved,2026-01-16T09:26:27.954Z,Approved by manager
+1028,1028,102,approved,2026-01-11T22:14:30.708Z,
+1029,1029,103,approved,2026-01-14T10:16:05.009Z,
+1030,1030,104,approved,2026-01-16T07:34:01.654Z,Late arrival noted
+1031,1031,105,approved,2026-01-15T03:18:33.268Z,Standard approval
+1032,1032,106,approved,2026-01-11T23:17:29.961Z,Standard approval
+1033,1033,107,approved,2026-01-14T14:43:01.206Z,
+1034,1034,108,approved,2026-01-12T19:53:15.166Z,Approved by manager
+1035,1035,7,approved,2026-01-15T17:21:01.133Z,Late arrival noted
+1036,1036,8,approved,2026-01-12T15:23:33.248Z,Approved by manager
+1037,1037,9,approved,2026-01-15T01:01:33.441Z,Standard approval
+1038,1038,10,pending,,
+1039,1039,11,approved,2026-01-16T13:21:09.893Z,Late arrival noted
+1040,1040,14,pending,,
+1041,1041,16,approved,2026-01-12T10:57:28.852Z,Late arrival noted
+1042,1042,17,approved,2026-01-12T17:22:35.728Z,
+1043,1043,18,approved,2026-01-16T04:44:21.445Z,Late arrival noted
+1044,1044,20,approved,2026-01-13T23:11:38.068Z,
+1045,1045,21,approved,2026-01-14T07:00:22.250Z,Late arrival noted
+1046,1046,22,approved,2026-01-16T03:03:30.213Z,Late arrival noted
+1047,1047,23,approved,2026-01-11T22:06:00.039Z,
+1048,1048,24,rejected,2026-01-14T18:08:21.573Z,Did not complete full shift
+1049,1049,25,pending,,
+1050,1050,26,approved,2026-01-14T22:54:31.174Z,Standard approval
+1051,1051,27,pending,,
+1052,1052,28,pending,,
+1053,1053,29,approved,2026-01-14T01:42:03.560Z,Excellent performance
+1054,1054,30,approved,2026-01-16T04:11:16.310Z,
+1055,1055,31,approved,2026-01-12T01:43:21.360Z,Approved by manager
+1056,1056,32,pending,,
+1057,1057,33,approved,2026-01-13T18:47:16.959Z,Late arrival noted
+1058,1058,34,approved,2026-01-12T00:42:01.874Z,Late arrival noted
+1059,1059,35,approved,2026-01-12T18:18:22.868Z,
+1060,1060,36,approved,2026-01-13T16:27:48.052Z,Approved by manager
+1061,1061,37,approved,2026-01-14T07:08:10.585Z,Excellent performance
+1062,1062,38,approved,2026-01-14T12:18:58.224Z,
+1063,1063,39,approved,2026-01-14T10:53:25.857Z,
+1064,1064,40,approved,2026-01-16T04:30:55.166Z,Late arrival noted
+1065,1065,41,pending,,
+1066,1066,42,approved,2026-01-13T09:48:02.224Z,Excellent performance
+1067,1067,43,approved,2026-01-15T20:25:52.184Z,
+1068,1068,44,approved,2026-01-16T05:47:22.306Z,Late arrival noted
+1069,1069,45,approved,2026-01-16T10:43:04.760Z,
+1070,1070,46,approved,2026-01-15T03:37:38.387Z,Excellent performance
+1071,1071,47,approved,2026-01-13T10:22:47.285Z,Excellent performance
+1072,1072,48,approved,2026-01-14T15:27:22.690Z,Excellent performance
+1073,1073,49,rejected,2026-01-16T13:52:36.935Z,Did not complete full shift
+1074,1074,50,approved,2026-01-14T03:44:19.402Z,Standard approval
+1075,1075,51,pending,,
+1076,1076,52,pending,,
+1077,1077,53,approved,2026-01-16T05:03:41.592Z,Excellent performance
+1078,1078,55,approved,2026-01-13T15:45:25.685Z,
+1079,1079,56,approved,2026-01-14T04:06:36.741Z,Standard approval
+1080,1080,57,approved,2026-01-12T02:06:52.514Z,
+1081,1081,58,approved,2026-01-14T17:20:29.641Z,Late arrival noted
+1082,1082,59,approved,2026-01-16T04:33:40.449Z,Late arrival noted
+1083,1083,60,approved,2026-01-11T21:00:22.846Z,Standard approval
+1084,1084,61,approved,2026-01-16T07:25:40.687Z,
+1085,1085,62,approved,2026-01-12T14:05:38.712Z,
+1086,1086,64,approved,2026-01-13T02:46:33.522Z,Late arrival noted
+1087,1087,65,pending,,
+1088,1088,66,approved,2026-01-12T06:49:40.615Z,Standard approval
+1089,1089,67,approved,2026-01-14T00:42:31.036Z,Late arrival noted
+1090,1090,68,approved,2026-01-12T10:50:16.694Z,Excellent performance
+1091,1091,69,approved,2026-01-15T11:55:26.188Z,
+1092,1092,70,rejected,2026-01-16T00:48:54.852Z,Did not complete full shift
+1093,1093,71,approved,2026-01-11T21:05:33.438Z,
+1094,1094,72,approved,2026-01-11T23:00:46.333Z,Late arrival noted
+1095,1095,73,approved,2026-01-13T05:21:23.880Z,
+1096,1096,74,approved,2026-01-16T00:45:30.442Z,Excellent performance
+1097,1097,75,approved,2026-01-16T06:03:09.870Z,
+1098,1098,77,approved,2026-01-14T14:24:45.456Z,
+1099,1099,78,rejected,2026-01-16T05:22:39.322Z,Did not complete full shift
+1100,1100,79,approved,2026-01-14T03:38:42.694Z,Excellent performance
+1101,1101,80,approved,2026-01-13T06:28:16.787Z,
+1102,1102,81,approved,2026-01-15T10:29:37.610Z,Late arrival noted
+1103,1103,82,approved,2026-01-15T05:59:15.212Z,Late arrival noted
+1104,1104,83,approved,2026-01-12T03:07:58.996Z,Approved by manager
+1105,1105,84,approved,2026-01-12T21:41:17.321Z,Standard approval
+1106,1106,85,approved,2026-01-14T12:07:55.719Z,Excellent performance
+1107,1107,86,pending,,
+1108,1108,87,approved,2026-01-13T09:59:45.414Z,Late arrival noted
+1109,1109,89,approved,2026-01-14T12:05:37.119Z,Standard approval
+1110,1110,90,approved,2026-01-15T22:33:29.469Z,Standard approval
+1111,1111,91,approved,2026-01-12T03:04:49.446Z,Late arrival noted
+1112,1112,92,approved,2026-01-13T02:26:24.909Z,
+1113,1113,93,approved,2026-01-15T11:42:50.309Z,Excellent performance
+1114,1114,94,approved,2026-01-13T23:25:41.837Z,
+1115,1115,95,approved,2026-01-12T00:47:16.979Z,Excellent performance
+1116,1116,96,approved,2026-01-11T19:01:08.305Z,Late arrival noted
+1117,1117,97,approved,2026-01-12T01:40:50.714Z,Late arrival noted
+1118,1118,98,approved,2026-01-15T02:38:06.680Z,Late arrival noted
+1119,1119,99,approved,2026-01-13T08:48:56.685Z,
+1120,1120,100,rejected,2026-01-16T03:15:08.067Z,Did not complete full shift
+1121,1121,101,approved,2026-01-16T12:29:44.225Z,
+1122,1122,102,approved,2026-01-15T05:42:03.671Z,
+1123,1123,103,approved,2026-01-12T19:24:27.064Z,Late arrival noted
+1124,1124,104,approved,2026-01-15T06:13:05.552Z,Excellent performance
+1125,1125,105,approved,2026-01-16T06:42:23.856Z,Standard approval
+1126,1126,106,pending,,
+1127,1127,107,approved,2026-01-16T13:31:25.628Z,Approved by manager
+1128,1128,108,approved,2026-01-14T20:06:10.311Z,
+1129,1129,7,approved,2026-01-14T23:07:15.396Z,Late arrival noted
+1130,1130,8,approved,2026-01-15T05:52:41.722Z,
+1131,1131,9,approved,2026-01-12T22:33:28.232Z,
+1132,1132,10,pending,,
+1133,1133,11,approved,2026-01-16T18:37:34.857Z,Excellent performance
+1134,1134,14,approved,2026-01-12T05:17:20.288Z,Late arrival noted
+1135,1135,16,pending,,
+1136,1136,17,approved,2026-01-16T08:24:39.484Z,Excellent performance
+1137,1137,18,rejected,2026-01-15T05:28:15.012Z,Did not complete full shift
+1138,1138,20,approved,2026-01-13T19:02:32.385Z,Excellent performance
+1139,1139,21,approved,2026-01-16T06:19:36.664Z,Late arrival noted
+1140,1140,22,approved,2026-01-13T16:25:57.159Z,Late arrival noted
+1141,1141,23,approved,2026-01-12T02:14:15.738Z,Standard approval
+1142,1142,24,approved,2026-01-14T12:41:26.926Z,Late arrival noted
+1143,1143,25,pending,,
+1144,1144,26,approved,2026-01-12T14:06:08.971Z,Excellent performance
+1145,1145,27,approved,2026-01-15T21:50:44.990Z,
+1146,1146,28,approved,2026-01-14T15:01:12.806Z,Excellent performance
+1147,1147,29,approved,2026-01-13T12:33:35.469Z,Late arrival noted
+1148,1148,30,approved,2026-01-12T19:02:26.797Z,Late arrival noted
+1149,1149,31,approved,2026-01-15T07:14:46.462Z,Excellent performance
+1150,1150,32,approved,2026-01-16T13:15:38.503Z,
+1151,1151,33,approved,2026-01-14T14:57:48.937Z,Approved by manager
+1152,1152,34,approved,2026-01-16T10:11:36.899Z,Approved by manager
+1153,1153,35,approved,2026-01-14T21:33:05.380Z,
+1154,1154,36,rejected,2026-01-15T05:25:41.726Z,Did not complete full shift
+1155,1155,37,approved,2026-01-12T23:29:39.598Z,Excellent performance
+1156,1156,38,approved,2026-01-15T14:55:41.389Z,Approved by manager
+1157,1157,39,approved,2026-01-15T15:24:04.295Z,Excellent performance
+1158,1158,40,approved,2026-01-11T22:17:32.466Z,Approved by manager
+1159,1159,41,approved,2026-01-15T10:49:27.525Z,Standard approval
+1160,1160,42,approved,2026-01-14T17:23:45.345Z,Approved by manager
+1161,1161,43,approved,2026-01-12T21:06:56.879Z,Late arrival noted
+1162,1162,44,approved,2026-01-14T09:56:01.593Z,Late arrival noted
+1163,1163,45,approved,2026-01-16T02:06:44.068Z,Excellent performance
+1164,1164,46,approved,2026-01-16T09:34:05.775Z,Approved by manager
+1165,1165,47,approved,2026-01-12T19:53:34.346Z,
+1166,1166,48,approved,2026-01-12T21:59:26.786Z,
+1167,1167,49,rejected,2026-01-13T21:22:54.714Z,Did not complete full shift
+1168,1168,50,approved,2026-01-16T00:30:28.802Z,Approved by manager
+1169,1169,51,approved,2026-01-13T14:11:27.026Z,
+1170,1170,52,approved,2026-01-13T22:48:26.661Z,Standard approval
+1171,1171,53,approved,2026-01-14T22:47:32.345Z,Approved by manager
+1172,1172,55,approved,2026-01-14T18:58:11.176Z,Excellent performance
+1173,1173,56,approved,2026-01-12T08:59:29.551Z,Standard approval
+1174,1174,57,approved,2026-01-12T00:19:59.386Z,Approved by manager
+1175,1175,58,rejected,2026-01-15T19:52:41.887Z,Did not complete full shift
+1176,1176,59,approved,2026-01-16T04:38:58.976Z,Standard approval
+1177,1177,60,pending,,
+1178,1178,61,approved,2026-01-13T04:39:15.824Z,
+1179,1179,62,rejected,2026-01-14T15:56:42.872Z,Did not complete full shift
+1180,1180,64,approved,2026-01-13T09:56:37.285Z,Approved by manager
+1181,1181,65,approved,2026-01-14T07:09:55.453Z,
+1182,1182,66,approved,2026-01-16T11:48:00.680Z,Approved by manager
+1183,1183,67,approved,2026-01-15T14:07:31.432Z,Late arrival noted
+1184,1184,68,approved,2026-01-15T18:56:19.076Z,
+1185,1185,69,approved,2026-01-11T19:39:46.529Z,
+1186,1186,70,approved,2026-01-16T12:57:47.812Z,
+1187,1187,71,approved,2026-01-14T05:04:23.533Z,Late arrival noted
+1188,1188,72,approved,2026-01-16T06:05:22.700Z,
+1189,1189,73,approved,2026-01-15T20:16:16.423Z,Excellent performance
+1190,1190,74,approved,2026-01-15T16:35:55.006Z,Excellent performance
+1191,1191,75,approved,2026-01-12T09:50:28.252Z,Excellent performance
+1192,1192,77,approved,2026-01-14T22:31:13.163Z,Standard approval
+1193,1193,78,approved,2026-01-16T12:33:02.199Z,Approved by manager
+1194,1194,79,approved,2026-01-13T23:25:56.261Z,Standard approval
+1195,1195,80,approved,2026-01-12T07:48:03.659Z,
+1196,1196,81,approved,2026-01-15T14:04:57.443Z,
+1197,1197,82,approved,2026-01-11T19:30:47.199Z,Late arrival noted
+1198,1198,83,approved,2026-01-13T11:38:06.302Z,
+1199,1199,84,approved,2026-01-13T09:18:15.413Z,Approved by manager
+1200,1200,85,approved,2026-01-15T07:14:38.293Z,Standard approval
+1201,1201,86,approved,2026-01-14T09:58:40.217Z,Approved by manager
+1202,1202,87,approved,2026-01-13T09:04:34.309Z,Standard approval
+1203,1203,89,approved,2026-01-14T18:22:37.921Z,Excellent performance
+1204,1204,90,approved,2026-01-14T02:53:25.401Z,Late arrival noted
+1205,1205,91,pending,,
+1206,1206,92,pending,,
+1207,1207,93,pending,,
+1208,1208,94,approved,2026-01-12T09:45:29.054Z,Late arrival noted
+1209,1209,95,approved,2026-01-12T09:49:32.985Z,Late arrival noted
+1210,1210,96,approved,2026-01-14T13:34:23.783Z,Excellent performance
+1211,1211,97,approved,2026-01-13T22:14:15.961Z,Excellent performance
+1212,1212,98,approved,2026-01-13T21:44:38.287Z,Standard approval
+1213,1213,99,approved,2026-01-14T08:31:32.441Z,Excellent performance
+1214,1214,100,approved,2026-01-14T22:10:00.158Z,
+1215,1215,101,approved,2026-01-13T22:51:35.117Z,
+1216,1216,102,approved,2026-01-13T18:07:40.441Z,Approved by manager
+1217,1217,103,approved,2026-01-13T09:22:32.851Z,Approved by manager
+1218,1218,104,approved,2026-01-12T21:35:25.758Z,Approved by manager
+1219,1219,105,approved,2026-01-14T20:45:03.229Z,Late arrival noted
+1220,1220,106,rejected,2026-01-16T16:10:19.762Z,Did not complete full shift
+1221,1221,107,approved,2026-01-16T11:38:39.636Z,Standard approval
+1222,1222,108,approved,2026-01-16T13:48:29.280Z,
+1223,1223,7,rejected,2026-01-15T02:37:32.167Z,Did not complete full shift
+1224,1224,8,approved,2026-01-12T10:13:24.151Z,Standard approval
+1225,1225,9,pending,,
+1226,1226,10,approved,2026-01-16T01:18:29.265Z,Excellent performance
+1227,1227,11,approved,2026-01-14T13:31:05.230Z,Excellent performance
+1228,1228,14,approved,2026-01-15T13:40:26.882Z,Standard approval
+1229,1229,16,pending,,
+1230,1230,17,approved,2026-01-13T23:53:52.317Z,Late arrival noted
+1231,1231,18,approved,2026-01-11T23:58:31.597Z,Approved by manager
+1232,1232,20,approved,2026-01-12T18:28:45.981Z,
+1233,1233,21,approved,2026-01-16T01:46:51.785Z,
+1234,1234,22,approved,2026-01-13T20:19:17.177Z,Late arrival noted
+1235,1235,23,approved,2026-01-15T18:06:49.588Z,Late arrival noted
+1236,1236,24,approved,2026-01-16T14:33:08.927Z,Standard approval
+1237,1237,25,approved,2026-01-12T12:55:01.746Z,
+1238,1238,26,approved,2026-01-13T06:06:07.216Z,Late arrival noted
+1239,1239,27,pending,,
+1240,1240,28,approved,2026-01-13T22:45:49.796Z,Standard approval
+1241,1241,29,approved,2026-01-13T10:19:16.216Z,Approved by manager
+1242,1242,30,approved,2026-01-15T15:00:09.984Z,Approved by manager
+1243,1243,31,approved,2026-01-13T15:27:09.287Z,Excellent performance
+1244,1244,32,approved,2026-01-13T03:28:48.301Z,
+1245,1245,33,approved,2026-01-16T08:12:48.453Z,Standard approval
+1246,1246,34,approved,2026-01-11T20:29:28.207Z,
+1247,1247,35,approved,2026-01-12T12:13:18.686Z,Approved by manager
+1248,1248,36,pending,,
+1249,1249,37,approved,2026-01-16T13:34:20.726Z,Approved by manager
+1250,1250,38,approved,2026-01-13T00:07:31.115Z,Standard approval
+1251,1251,39,pending,,
+1252,1252,40,approved,2026-01-15T19:23:22.394Z,Late arrival noted
+1253,1253,41,approved,2026-01-15T12:56:02.172Z,Late arrival noted
+1254,1254,42,approved,2026-01-16T01:06:54.516Z,
+1255,1255,43,pending,,
+1256,1256,44,approved,2026-01-11T21:36:00.269Z,Standard approval
+1257,1257,45,approved,2026-01-12T10:54:53.746Z,Approved by manager
+1258,1258,46,approved,2026-01-13T04:12:38.501Z,Late arrival noted
+1259,1259,47,approved,2026-01-16T17:35:04.863Z,
+1260,1260,48,approved,2026-01-12T22:12:19.131Z,Approved by manager
+1261,1261,49,pending,,
+1262,1262,50,approved,2026-01-15T16:19:26.454Z,Approved by manager
+1263,1263,51,approved,2026-01-12T22:52:19.011Z,
+1264,1264,52,rejected,2026-01-14T23:03:49.327Z,Did not complete full shift
+1265,1265,53,approved,2026-01-11T23:25:42.611Z,Approved by manager
+1266,1266,55,approved,2026-01-13T16:33:42.351Z,Excellent performance
+1267,1267,56,approved,2026-01-12T02:11:58.665Z,Approved by manager
+1268,1268,57,approved,2026-01-15T18:44:19.179Z,Approved by manager
+1269,1269,58,approved,2026-01-15T21:21:29.031Z,
+1270,1270,59,approved,2026-01-15T17:35:47.980Z,Approved by manager
+1271,1271,60,approved,2026-01-15T21:53:58.340Z,Excellent performance
+1272,1272,61,approved,2026-01-12T05:47:18.538Z,
+1273,1273,62,approved,2026-01-12T12:09:24.835Z,Excellent performance
+1274,1274,64,approved,2026-01-14T22:26:13.293Z,
+1275,1275,65,approved,2026-01-15T03:38:52.244Z,Late arrival noted
+1276,1276,66,rejected,2026-01-16T08:54:37.805Z,Did not complete full shift
+1277,1277,67,pending,,
+1278,1278,68,approved,2026-01-15T16:07:13.171Z,Excellent performance
+1279,1279,69,approved,2026-01-12T20:53:57.643Z,
+1280,1280,70,approved,2026-01-15T22:46:55.543Z,
+1281,1281,71,approved,2026-01-14T19:14:51.579Z,Approved by manager
+1282,1282,72,approved,2026-01-14T04:32:53.608Z,Standard approval
+1283,1283,73,pending,,
+1284,1284,74,approved,2026-01-13T10:21:47.100Z,Late arrival noted
+1285,1285,75,approved,2026-01-16T06:46:54.074Z,
+1286,1286,77,approved,2026-01-11T23:29:54.312Z,Approved by manager
+1287,1287,78,approved,2026-01-12T10:30:31.542Z,
+1288,1288,79,approved,2026-01-15T12:56:00.173Z,Approved by manager
+1289,1289,80,approved,2026-01-15T18:04:31.906Z,
+1290,1290,81,pending,,
+1291,1291,82,approved,2026-01-13T18:34:13.536Z,
+1292,1292,83,approved,2026-01-13T02:10:24.873Z,
+1293,1293,84,approved,2026-01-14T00:53:10.711Z,Approved by manager
+1294,1294,85,approved,2026-01-16T06:46:35.628Z,Standard approval
+1295,1295,86,pending,,
+1296,1296,87,approved,2026-01-15T23:28:51.959Z,Approved by manager
+1297,1297,89,approved,2026-01-14T14:32:13.168Z,Standard approval
+1298,1298,90,approved,2026-01-12T20:40:33.376Z,
+1299,1299,91,rejected,2026-01-15T14:13:16.480Z,Did not complete full shift
+1300,1300,92,approved,2026-01-13T17:03:23.361Z,Approved by manager
+1301,1301,93,approved,2026-01-14T14:09:01.578Z,Approved by manager
+1302,1302,94,approved,2026-01-15T15:00:19.870Z,
+1303,1303,95,rejected,2026-01-16T08:07:51.845Z,Did not complete full shift
+1304,1304,96,approved,2026-01-12T19:46:18.923Z,Excellent performance
+1305,1305,97,approved,2026-01-13T11:54:49.489Z,
+1306,1306,98,rejected,2026-01-14T14:44:10.633Z,Did not complete full shift
+1307,1307,99,approved,2026-01-13T18:07:51.755Z,Excellent performance
+1308,1308,100,approved,2026-01-14T15:16:19.052Z,Excellent performance
+1309,1309,101,approved,2026-01-12T23:41:48.377Z,Approved by manager
+1310,1310,102,approved,2026-01-15T14:04:15.551Z,Excellent performance
+1311,1311,103,approved,2026-01-15T08:14:01.786Z,Standard approval
+1312,1312,104,approved,2026-01-14T08:26:59.997Z,Late arrival noted
+1313,1313,105,approved,2026-01-14T03:34:39.133Z,Approved by manager
+1314,1314,106,approved,2026-01-14T19:09:29.528Z,
+1315,1315,107,pending,,
+1316,1316,108,approved,2026-01-12T08:03:07.566Z,Standard approval
+1317,1317,7,approved,2026-01-14T18:51:32.307Z,Excellent performance
+1318,1318,8,approved,2026-01-14T13:21:02.523Z,
+1319,1319,9,approved,2026-01-16T16:18:35.560Z,
+1320,1320,10,approved,2026-01-13T00:44:08.160Z,
+1321,1321,11,approved,2026-01-13T17:05:30.384Z,Excellent performance
+1322,1322,14,approved,2026-01-12T19:14:39.202Z,Standard approval
+1323,1323,16,approved,2026-01-13T03:49:08.498Z,Excellent performance
+1324,1324,17,pending,,
+1325,1325,18,approved,2026-01-15T22:11:12.789Z,
+1326,1326,20,approved,2026-01-16T17:57:52.772Z,Standard approval
+1327,1327,21,approved,2026-01-11T20:44:37.344Z,Standard approval
+1328,1328,22,approved,2026-01-15T22:38:30.410Z,Late arrival noted
+1329,1329,23,approved,2026-01-16T10:22:45.488Z,Approved by manager
+1330,1330,24,approved,2026-01-16T06:06:37.301Z,Approved by manager
+1331,1331,25,approved,2026-01-13T02:14:59.374Z,
+1332,1332,26,approved,2026-01-12T22:10:04.793Z,Late arrival noted
+1333,1333,27,approved,2026-01-12T14:09:09.779Z,
+1334,1334,28,approved,2026-01-14T14:59:06.297Z,Late arrival noted
+1335,1335,29,approved,2026-01-15T08:53:03.494Z,Approved by manager
+1336,1336,30,approved,2026-01-11T19:04:03.074Z,
+1337,1337,31,pending,,
+1338,1338,32,pending,,
+1339,1339,33,approved,2026-01-11T20:04:03.921Z,Approved by manager
+1340,1340,34,pending,,
+1341,1341,35,approved,2026-01-14T05:06:52.675Z,Late arrival noted
+1342,1342,36,approved,2026-01-15T09:12:58.588Z,
+1343,1343,37,approved,2026-01-12T01:05:19.529Z,Excellent performance
+1344,1344,38,approved,2026-01-11T18:49:44.929Z,Approved by manager
+1345,1345,39,approved,2026-01-15T08:16:11.445Z,Approved by manager
+1346,1346,40,approved,2026-01-15T10:03:08.198Z,Excellent performance
+1347,1347,41,approved,2026-01-14T09:28:12.873Z,Approved by manager
+1348,1348,42,approved,2026-01-13T22:48:02.692Z,
+1349,1349,43,approved,2026-01-15T04:14:26.522Z,
+1350,1350,44,approved,2026-01-15T13:35:43.717Z,Excellent performance
+1351,1351,45,pending,,
+1352,1352,46,approved,2026-01-12T21:58:17.294Z,
+1353,1353,47,approved,2026-01-12T04:46:22.092Z,
+1354,1354,48,approved,2026-01-13T16:02:01.942Z,Late arrival noted
+1355,1355,49,approved,2026-01-14T08:59:43.057Z,
+1356,1356,50,approved,2026-01-11T21:08:33.118Z,
+1357,1357,51,approved,2026-01-16T03:42:24.390Z,Excellent performance
+1358,1358,52,approved,2026-01-14T22:17:27.317Z,Late arrival noted
+1359,1359,53,approved,2026-01-12T12:19:03.223Z,
+1360,1360,55,pending,,
+1361,1361,56,approved,2026-01-15T13:09:53.860Z,
+1362,1362,57,approved,2026-01-12T20:32:52.182Z,
+1363,1363,58,pending,,
+1364,1364,59,approved,2026-01-12T06:11:55.463Z,Standard approval
+1365,1365,60,approved,2026-01-15T22:53:07.726Z,Late arrival noted
+1366,1366,61,approved,2026-01-12T02:31:34.929Z,Late arrival noted
+1367,1367,62,approved,2026-01-13T02:11:50.506Z,Approved by manager
+1368,1368,64,approved,2026-01-14T21:32:20.593Z,Standard approval
+1369,1369,65,approved,2026-01-12T03:23:53.189Z,Late arrival noted
+1370,1370,66,approved,2026-01-13T15:45:18.059Z,
+1371,1371,67,approved,2026-01-14T17:35:57.858Z,Approved by manager
+1372,1372,68,approved,2026-01-15T05:43:07.139Z,Late arrival noted
+1373,1373,69,approved,2026-01-12T13:11:05.530Z,
+1374,1374,70,pending,,
+1375,1375,71,rejected,2026-01-14T06:15:30.431Z,Did not complete full shift
+1376,1376,72,approved,2026-01-15T19:29:39.650Z,Approved by manager
+1377,1377,73,rejected,2026-01-15T00:14:09.058Z,Did not complete full shift
+1378,1378,74,approved,2026-01-13T04:18:32.371Z,Standard approval
+1379,1379,75,rejected,2026-01-14T18:02:49.275Z,Did not complete full shift
+1380,1380,77,approved,2026-01-12T23:00:43.558Z,Standard approval
+1381,1381,78,approved,2026-01-15T23:09:20.108Z,
+1382,1382,79,pending,,
+1383,1383,80,approved,2026-01-13T12:06:05.513Z,Late arrival noted
+1384,1384,81,approved,2026-01-15T05:41:41.668Z,Late arrival noted
+1385,1385,82,approved,2026-01-15T16:53:26.059Z,Excellent performance
+1386,1386,83,approved,2026-01-12T09:15:25.956Z,
+1387,1387,84,approved,2026-01-12T10:18:15.850Z,Excellent performance
+1388,1388,85,approved,2026-01-12T02:45:38.982Z,Excellent performance
+1389,1389,86,approved,2026-01-12T03:22:29.738Z,
+1390,1390,87,approved,2026-01-15T21:06:43.722Z,Excellent performance
+1391,1391,89,approved,2026-01-14T01:50:56.226Z,
+1392,1392,90,approved,2026-01-13T21:48:05.285Z,Late arrival noted
+1393,1393,91,approved,2026-01-15T21:02:53.428Z,Approved by manager
+1394,1394,92,approved,2026-01-12T06:08:50.504Z,
+1395,1395,93,approved,2026-01-16T10:58:38.478Z,
+1396,1396,94,approved,2026-01-13T08:16:43.242Z,Late arrival noted
+1397,1397,95,approved,2026-01-16T00:35:44.694Z,Excellent performance
+1398,1398,96,approved,2026-01-13T15:27:16.906Z,
+1399,1399,97,approved,2026-01-14T00:11:13.486Z,
+1400,1400,98,pending,,
+1401,1401,99,rejected,2026-01-16T13:26:13.735Z,Did not complete full shift
+1402,1402,100,approved,2026-01-12T17:24:42.293Z,
+1403,1403,101,approved,2026-01-15T20:00:38.877Z,Late arrival noted
+1404,1404,102,approved,2026-01-13T10:03:41.884Z,
+1405,1405,103,approved,2026-01-13T20:53:48.967Z,Standard approval
+1406,1406,104,approved,2026-01-14T11:41:38.134Z,
+1407,1407,105,approved,2026-01-12T10:25:28.789Z,Excellent performance
+1408,1408,106,approved,2026-01-12T05:05:02.387Z,Standard approval
+1409,1409,107,pending,,
+1410,1410,108,approved,2026-01-15T06:37:58.912Z,
+1411,1411,7,approved,2026-01-16T13:10:45.721Z,Late arrival noted
+1412,1412,8,approved,2026-01-13T16:11:06.202Z,Late arrival noted
+1413,1413,9,approved,2026-01-14T06:20:16.107Z,Excellent performance
+1414,1414,10,approved,2026-01-12T16:24:23.775Z,Standard approval
+1415,1415,11,pending,,
+1416,1416,14,approved,2026-01-14T21:42:42.414Z,
+1417,1417,16,approved,2026-01-13T09:50:10.005Z,Excellent performance
+1418,1418,17,approved,2026-01-13T06:55:38.823Z,Excellent performance
+1419,1419,18,approved,2026-01-13T08:15:49.200Z,Standard approval
+1420,1420,20,approved,2026-01-16T17:02:24.325Z,Approved by manager
+1421,1421,21,approved,2026-01-16T18:45:26.134Z,Approved by manager
+1422,1422,22,approved,2026-01-15T17:29:06.051Z,Excellent performance
+1423,1423,23,approved,2026-01-14T21:13:34.076Z,Standard approval
+1424,1424,24,pending,,
+1425,1425,25,approved,2026-01-13T14:54:03.713Z,Late arrival noted
+1426,1426,26,approved,2026-01-12T13:10:50.145Z,Approved by manager
+1427,1427,27,approved,2026-01-13T07:49:49.638Z,Approved by manager
+1428,1428,28,approved,2026-01-14T16:30:38.222Z,
+1429,1429,29,approved,2026-01-15T12:51:50.713Z,
+1430,1430,30,approved,2026-01-11T22:12:16.194Z,
+1431,1431,31,approved,2026-01-15T20:50:16.423Z,Standard approval
+1432,1432,32,approved,2026-01-14T10:23:55.157Z,Approved by manager
+1433,1433,33,approved,2026-01-13T15:38:54.496Z,
+1434,1434,34,rejected,2026-01-16T06:07:05.492Z,Did not complete full shift
+1435,1435,35,approved,2026-01-13T19:59:37.193Z,Late arrival noted
+1436,1436,36,approved,2026-01-14T14:28:11.358Z,Excellent performance
+1437,1437,37,approved,2026-01-15T22:22:49.016Z,Excellent performance
+1438,1438,38,approved,2026-01-15T11:28:18.389Z,
+1439,1439,39,approved,2026-01-14T10:24:32.977Z,
+1440,1440,40,approved,2026-01-16T09:50:19.971Z,
+1441,1441,41,approved,2026-01-13T16:44:14.336Z,Late arrival noted
+1442,1442,42,approved,2026-01-15T23:46:40.858Z,Standard approval
+1443,1443,43,approved,2026-01-12T05:41:40.672Z,Excellent performance
+1444,1444,44,approved,2026-01-13T07:38:52.498Z,Approved by manager
+1445,1445,45,approved,2026-01-12T13:50:01.570Z,Approved by manager
+1446,1446,46,approved,2026-01-15T15:26:32.022Z,Late arrival noted
+1447,1447,47,approved,2026-01-13T12:23:49.693Z,Excellent performance
+1448,1448,48,approved,2026-01-14T07:32:46.180Z,Approved by manager
+1449,1449,49,approved,2026-01-12T08:42:09.286Z,
+1450,1450,50,approved,2026-01-15T13:51:36.131Z,Approved by manager
+1451,1451,51,pending,,
+1452,1452,52,pending,,
+1453,1453,53,approved,2026-01-12T01:12:53.548Z,
+1454,1454,55,approved,2026-01-12T01:59:15.654Z,Late arrival noted
+1455,1455,56,approved,2026-01-15T22:50:33.300Z,
+1456,1456,57,approved,2026-01-12T10:42:27.819Z,
+1457,1457,58,approved,2026-01-16T14:41:03.597Z,
+1458,1458,59,approved,2026-01-15T05:25:55.529Z,
+1459,1459,60,approved,2026-01-11T19:25:06.326Z,Standard approval
+1460,1460,61,pending,,
+1461,1461,62,pending,,
+1462,1462,64,approved,2026-01-14T00:08:54.647Z,
+1463,1463,65,approved,2026-01-16T18:22:34.142Z,Excellent performance
+1464,1464,66,approved,2026-01-12T12:55:44.042Z,Excellent performance
+1465,1465,67,approved,2026-01-14T03:54:17.024Z,
+1466,1466,68,approved,2026-01-15T09:47:15.849Z,Excellent performance
+1467,1467,69,approved,2026-01-14T08:25:13.399Z,Late arrival noted
+1468,1468,70,approved,2026-01-15T18:28:59.482Z,Approved by manager
+1469,1469,71,pending,,
+1470,1470,72,rejected,2026-01-16T00:22:46.014Z,Did not complete full shift
+1471,1471,73,rejected,2026-01-14T08:58:20.393Z,Did not complete full shift
+1472,1472,74,approved,2026-01-16T09:22:09.362Z,Approved by manager
+1473,1473,75,approved,2026-01-15T07:24:41.769Z,Excellent performance
+1474,1474,77,approved,2026-01-12T04:58:14.138Z,
+1475,1475,78,approved,2026-01-12T06:57:55.129Z,Excellent performance
+1476,1476,79,pending,,
+1477,1477,80,approved,2026-01-12T16:54:47.337Z,Late arrival noted
+1478,1478,81,approved,2026-01-13T03:07:38.214Z,Standard approval
+1479,1479,82,pending,,
+1480,1480,83,approved,2026-01-15T22:13:37.495Z,Excellent performance
+1481,1481,84,pending,,
+1482,1482,85,approved,2026-01-13T09:09:57.077Z,Excellent performance
+1483,1483,86,approved,2026-01-14T19:02:59.334Z,Approved by manager
+1484,1484,87,rejected,2026-01-15T12:56:57.056Z,Did not complete full shift
+1485,1485,89,approved,2026-01-12T11:06:44.675Z,
+1486,1486,90,rejected,2026-01-14T16:31:30.922Z,Did not complete full shift
+1487,1487,91,approved,2026-01-13T20:26:27.834Z,Late arrival noted
+1488,1488,92,approved,2026-01-15T02:04:11.402Z,Late arrival noted
+1489,1489,93,approved,2026-01-14T04:15:24.326Z,
+1490,1490,94,approved,2026-01-11T21:27:33.415Z,Approved by manager
+1491,1491,95,approved,2026-01-15T06:18:17.683Z,Excellent performance
+1492,1492,96,approved,2026-01-16T02:26:46.465Z,Approved by manager
+1493,1493,97,approved,2026-01-15T18:16:48.450Z,Approved by manager
+1494,1494,98,approved,2026-01-13T01:07:29.568Z,
+1495,1495,99,approved,2026-01-13T11:38:57.387Z,Standard approval
+1496,1496,100,approved,2026-01-11T22:23:19.369Z,Excellent performance
+1497,1497,101,approved,2026-01-13T17:50:26.742Z,
+1498,1498,102,approved,2026-01-15T20:05:27.887Z,
+1499,1499,103,approved,2026-01-11T20:36:37.917Z,Approved by manager
+1500,1500,104,approved,2026-01-15T08:11:10.252Z,
+1501,1501,105,approved,2026-01-15T11:41:55.591Z,Excellent performance
+1502,1502,106,approved,2026-01-12T00:35:13.646Z,Excellent performance
+1503,1503,107,pending,,
+1504,1504,108,approved,2026-01-13T19:59:22.292Z,Late arrival noted
+1505,1505,7,approved,2026-01-12T07:22:11.702Z,Late arrival noted
+1506,1506,8,approved,2026-01-15T18:46:45.881Z,
+1507,1507,9,approved,2026-01-13T05:12:35.725Z,
+1508,1508,10,approved,2026-01-14T22:42:45.862Z,Standard approval
+1509,1509,11,pending,,
+1510,1510,14,approved,2026-01-14T10:51:02.894Z,Excellent performance
+1511,1511,16,approved,2026-01-16T05:04:07.845Z,Late arrival noted
+1512,1512,17,approved,2026-01-15T01:35:53.048Z,
+1513,1513,18,approved,2026-01-12T18:29:19.040Z,Standard approval
+1514,1514,20,approved,2026-01-15T15:06:08.249Z,Late arrival noted
+1515,1515,21,approved,2026-01-14T00:57:42.078Z,Late arrival noted
+1516,1516,22,approved,2026-01-11T22:29:57.591Z,Standard approval
+1517,1517,23,approved,2026-01-12T10:19:10.073Z,
+1518,1518,24,approved,2026-01-13T19:05:51.375Z,
+1519,1519,25,approved,2026-01-16T08:18:47.990Z,Late arrival noted
+1520,1520,26,approved,2026-01-13T00:43:29.720Z,Standard approval
+1521,1521,27,approved,2026-01-13T05:01:04.972Z,
+1522,1522,28,approved,2026-01-13T04:55:35.580Z,
+1523,1523,29,approved,2026-01-16T02:36:08.791Z,Excellent performance
+1524,1524,30,pending,,
+1525,1525,31,rejected,2026-01-16T00:50:15.529Z,Did not complete full shift
+1526,1526,32,approved,2026-01-14T07:40:18.621Z,
+1527,1527,33,pending,,
+1528,1528,34,approved,2026-01-14T10:39:42.570Z,Late arrival noted
+1529,1529,35,approved,2026-01-12T18:04:41.452Z,
+1530,1530,36,approved,2026-01-15T00:57:21.368Z,Late arrival noted
+1531,1531,37,approved,2026-01-12T03:17:30.395Z,Late arrival noted
+1532,1532,38,approved,2026-01-15T08:48:03.207Z,Standard approval
+1533,1533,39,approved,2026-01-13T01:39:22.784Z,Standard approval
+1534,1534,40,approved,2026-01-14T07:23:36.864Z,Excellent performance
+1535,1535,41,pending,,
+1536,1536,42,approved,2026-01-13T03:39:59.633Z,Late arrival noted
+1537,1537,43,approved,2026-01-15T08:43:42.344Z,
+1538,1538,44,approved,2026-01-14T04:07:28.673Z,Approved by manager
+1539,1539,45,approved,2026-01-13T07:09:32.081Z,Standard approval
+1540,1540,46,approved,2026-01-14T00:07:19.779Z,
+1541,1541,47,approved,2026-01-12T04:12:29.172Z,
+1542,1542,48,pending,,
+1543,1543,49,approved,2026-01-15T16:56:18.318Z,
+1544,1544,50,approved,2026-01-14T07:25:51.067Z,Approved by manager
+1545,1545,51,approved,2026-01-12T19:08:30.926Z,
+1546,1546,52,approved,2026-01-14T15:17:50.930Z,Late arrival noted
+1547,1547,53,approved,2026-01-13T11:18:28.913Z,
+1548,1548,55,approved,2026-01-13T03:10:21.551Z,Excellent performance
+1549,1549,56,approved,2026-01-15T18:42:11.951Z,Standard approval
+1550,1550,57,approved,2026-01-16T02:49:41.090Z,Standard approval
+1551,1551,58,approved,2026-01-13T00:46:19.037Z,Late arrival noted
+1552,1552,59,approved,2026-01-15T08:19:42.299Z,
+1553,1553,60,approved,2026-01-16T05:33:02.240Z,Standard approval
+1554,1554,61,approved,2026-01-15T06:34:09.843Z,
+1555,1555,62,approved,2026-01-13T20:01:48.169Z,
+1556,1556,64,pending,,
+1557,1557,65,approved,2026-01-15T03:39:08.510Z,
+1558,1558,66,approved,2026-01-13T02:48:25.286Z,
+1559,1559,67,approved,2026-01-12T13:00:41.514Z,Approved by manager
+1560,1560,68,approved,2026-01-12T18:12:14.536Z,Approved by manager
+1561,1561,69,approved,2026-01-16T04:27:52.642Z,Standard approval
+1562,1562,70,approved,2026-01-14T09:59:42.446Z,Standard approval
+1563,1563,71,approved,2026-01-11T23:52:44.250Z,
+1564,1564,72,approved,2026-01-14T14:34:19.713Z,
+1565,1565,73,approved,2026-01-14T13:07:49.916Z,Late arrival noted
+1566,1566,74,pending,,
+1567,1567,75,approved,2026-01-14T19:34:26.602Z,
+1568,1568,77,pending,,
+1569,1569,78,approved,2026-01-12T12:11:37.418Z,Excellent performance
+1570,1570,79,approved,2026-01-13T23:24:59.643Z,Approved by manager
+1571,1571,80,approved,2026-01-15T01:41:18.317Z,Approved by manager
+1572,1572,81,pending,,
+1573,1573,82,approved,2026-01-13T17:25:14.386Z,Standard approval
+1574,1574,83,approved,2026-01-15T02:01:03.814Z,
+1575,1575,84,approved,2026-01-15T11:24:40.378Z,Late arrival noted
+1576,1576,85,approved,2026-01-13T00:53:36.850Z,Approved by manager
+1577,1577,86,approved,2026-01-13T00:02:54.594Z,
+1578,1578,87,approved,2026-01-15T18:15:48.722Z,
+1579,1579,89,approved,2026-01-14T22:48:29.893Z,Late arrival noted
+1580,1580,90,approved,2026-01-16T04:10:51.596Z,Standard approval
+1581,1581,91,approved,2026-01-16T08:44:12.234Z,Late arrival noted
+1582,1582,92,approved,2026-01-16T14:27:10.412Z,
+1583,1583,93,approved,2026-01-13T08:32:31.260Z,Excellent performance
+1584,1584,94,approved,2026-01-15T15:54:49.179Z,Excellent performance
+1585,1585,95,approved,2026-01-16T03:40:00.383Z,Standard approval
+1586,1586,96,approved,2026-01-12T00:43:24.331Z,
+1587,1587,97,approved,2026-01-14T17:51:38.913Z,Standard approval
+1588,1588,98,approved,2026-01-14T01:34:04.467Z,Standard approval
+1589,1589,99,approved,2026-01-15T20:53:41.200Z,
+1590,1590,100,approved,2026-01-15T18:34:25.248Z,
+1591,1591,101,approved,2026-01-15T15:08:23.800Z,
+1592,1592,102,pending,,
+1593,1593,103,approved,2026-01-13T03:33:28.245Z,
+1594,1594,104,approved,2026-01-12T08:19:26.419Z,Approved by manager
+1595,1595,105,approved,2026-01-12T22:45:53.677Z,
+1596,1596,106,approved,2026-01-11T18:51:59.074Z,Approved by manager
+1597,1597,107,approved,2026-01-14T22:47:55.492Z,
+1598,1598,108,approved,2026-01-14T23:44:48.715Z,Late arrival noted
+1599,1599,7,approved,2026-01-15T16:40:33.796Z,Approved by manager
+1600,1600,8,approved,2026-01-15T20:18:31.931Z,Excellent performance
+1601,1601,9,approved,2026-01-14T12:01:36.830Z,Approved by manager
+1602,1602,10,approved,2026-01-14T16:02:11.699Z,Excellent performance
+1603,1603,11,approved,2026-01-12T03:37:03.328Z,Excellent performance
+1604,1604,14,approved,2026-01-16T14:44:13.800Z,
+1605,1605,16,approved,2026-01-13T13:41:48.483Z,Standard approval
+1606,1606,17,approved,2026-01-15T22:00:12.985Z,Approved by manager
+1607,1607,18,approved,2026-01-13T22:28:45.980Z,
+1608,1608,20,approved,2026-01-14T20:14:29.516Z,Late arrival noted
+1609,1609,21,approved,2026-01-15T16:26:48.303Z,Excellent performance
+1610,1610,22,approved,2026-01-16T10:52:45.140Z,Approved by manager
+1611,1611,23,rejected,2026-01-14T10:07:44.285Z,Did not complete full shift
+1612,1612,24,approved,2026-01-12T09:01:14.614Z,Late arrival noted
+1613,1613,25,approved,2026-01-16T16:09:03.543Z,Excellent performance
+1614,1614,26,approved,2026-01-14T01:24:49.328Z,Late arrival noted
+1615,1615,27,pending,,
+1616,1616,28,approved,2026-01-13T04:08:14.355Z,Approved by manager
+1617,1617,29,approved,2026-01-16T09:16:29.807Z,Approved by manager
+1618,1618,30,approved,2026-01-16T05:23:49.271Z,Late arrival noted
+1619,1619,31,approved,2026-01-12T02:43:15.500Z,Approved by manager
+1620,1620,32,pending,,
+1621,1621,33,approved,2026-01-12T11:37:02.019Z,
+1622,1622,34,approved,2026-01-16T08:02:53.302Z,Excellent performance
+1623,1623,35,approved,2026-01-12T17:44:18.670Z,Standard approval
+1624,1624,36,approved,2026-01-16T03:28:02.429Z,Standard approval
+1625,1625,37,approved,2026-01-12T01:31:12.963Z,Late arrival noted
+1626,1626,38,approved,2026-01-15T09:05:00.474Z,Excellent performance
+1627,1627,39,approved,2026-01-16T12:57:48.051Z,Standard approval
+1628,1628,40,approved,2026-01-13T08:02:01.262Z,Excellent performance
+1629,1629,41,approved,2026-01-12T03:13:17.386Z,
+1630,1630,42,approved,2026-01-14T00:36:27.597Z,
+1631,1631,43,approved,2026-01-15T06:22:29.228Z,Excellent performance
+1632,1632,44,pending,,
+1633,1633,45,pending,,
+1634,1634,46,approved,2026-01-12T19:12:34.819Z,Excellent performance
+1635,1635,47,approved,2026-01-16T14:33:45.520Z,
+1636,1636,48,approved,2026-01-12T22:03:40.022Z,Late arrival noted
+1637,1637,49,approved,2026-01-13T20:29:33.419Z,Excellent performance
+1638,1638,50,approved,2026-01-16T05:24:44.529Z,Late arrival noted
+1639,1639,51,approved,2026-01-12T10:38:58.338Z,
+1640,1640,52,approved,2026-01-11T21:58:52.207Z,
+1641,1641,53,approved,2026-01-13T15:23:11.244Z,Approved by manager
+1642,1642,55,approved,2026-01-16T08:03:14.865Z,Standard approval
+1643,1643,56,approved,2026-01-13T19:45:07.979Z,Standard approval
+1644,1644,57,approved,2026-01-13T16:08:58.944Z,Excellent performance
+1645,1645,58,approved,2026-01-14T14:51:50.218Z,Approved by manager
+1646,1646,59,approved,2026-01-13T22:32:33.127Z,Standard approval
+1647,1647,60,rejected,2026-01-14T00:22:37.943Z,Did not complete full shift
+1648,1648,61,pending,,
+1649,1649,62,approved,2026-01-14T19:45:05.327Z,Late arrival noted
+1650,1650,64,approved,2026-01-15T04:42:03.210Z,Excellent performance
+1651,1651,65,approved,2026-01-15T02:53:13.476Z,
+1652,1652,66,approved,2026-01-14T14:57:29.559Z,Late arrival noted
+1653,1653,67,approved,2026-01-13T14:43:50.842Z,Approved by manager
+1654,1654,68,approved,2026-01-15T03:24:28.722Z,Late arrival noted
+1655,1655,69,approved,2026-01-16T14:00:02.978Z,
+1656,1656,70,rejected,2026-01-15T17:18:53.665Z,Did not complete full shift
+1657,1657,71,approved,2026-01-14T05:14:35.831Z,Standard approval
+1658,1658,72,pending,,
+1659,1659,73,rejected,2026-01-15T15:11:27.738Z,Did not complete full shift
+1660,1660,74,approved,2026-01-14T04:00:39.711Z,Approved by manager
+1661,1661,75,pending,,
+1662,1662,77,pending,,
+1663,1663,78,approved,2026-01-14T12:12:47.619Z,Late arrival noted
+1664,1664,79,approved,2026-01-13T13:42:56.815Z,Late arrival noted
+1665,1665,80,approved,2026-01-12T01:35:37.811Z,Approved by manager
+1666,1666,81,approved,2026-01-15T01:21:17.587Z,Approved by manager
+1667,1667,82,approved,2026-01-12T11:39:51.526Z,Late arrival noted
+1668,1668,83,approved,2026-01-13T08:31:19.303Z,
+1669,1669,84,approved,2026-01-13T23:27:30.567Z,Approved by manager
+1670,1670,85,approved,2026-01-16T12:04:32.506Z,Excellent performance
+1671,1671,86,pending,,
+1672,1672,87,approved,2026-01-14T16:05:22.360Z,Standard approval
+1673,1673,89,approved,2026-01-14T09:09:46.200Z,Late arrival noted
+1674,1674,90,approved,2026-01-16T08:58:26.248Z,
+1675,1675,91,approved,2026-01-15T09:03:07.877Z,Approved by manager
+1676,1676,92,approved,2026-01-14T05:43:06.668Z,Excellent performance
+1677,1677,93,approved,2026-01-13T07:27:59.736Z,
+1678,1678,94,approved,2026-01-16T06:52:37.195Z,Late arrival noted
+1679,1679,95,pending,,
+1680,1680,96,approved,2026-01-12T17:27:13.806Z,
+1681,1681,97,approved,2026-01-13T15:43:43.780Z,Excellent performance
+1682,1682,98,approved,2026-01-16T18:35:27.203Z,
+1683,1683,99,approved,2026-01-16T09:12:23.495Z,Standard approval
+1684,1684,100,approved,2026-01-13T15:16:04.246Z,Approved by manager
+1685,1685,101,approved,2026-01-16T17:39:55.268Z,Excellent performance
+1686,1686,102,approved,2026-01-16T13:34:55.874Z,Approved by manager
+1687,1687,103,rejected,2026-01-13T23:43:14.171Z,Did not complete full shift
+1688,1688,104,approved,2026-01-12T06:28:55.575Z,
+1689,1689,105,pending,,
+1690,1690,106,approved,2026-01-15T20:09:12.838Z,
+1691,1691,107,pending,,
+1692,1692,108,approved,2026-01-15T02:08:55.745Z,Standard approval
+1693,1693,7,approved,2026-01-14T02:03:50.713Z,
+1694,1694,8,approved,2026-01-16T06:26:23.440Z,Approved by manager
+1695,1695,9,approved,2026-01-14T01:51:48.496Z,
+1696,1696,10,pending,,
+1697,1697,11,approved,2026-01-15T20:15:47.192Z,Standard approval
+1698,1698,14,rejected,2026-01-16T00:53:59.940Z,Did not complete full shift
+1699,1699,16,approved,2026-01-14T10:20:53.250Z,Standard approval
+1700,1700,17,approved,2026-01-12T07:13:45.851Z,
+1701,1701,18,approved,2026-01-15T06:19:24.367Z,Excellent performance
+1702,1702,20,approved,2026-01-15T10:54:21.051Z,Approved by manager
+1703,1703,21,pending,,
+1704,1704,22,approved,2026-01-16T18:16:54.805Z,Excellent performance
+1705,1705,23,approved,2026-01-12T05:01:41.477Z,Approved by manager
+1706,1706,24,approved,2026-01-15T06:09:47.737Z,
+1707,1707,25,approved,2026-01-13T23:33:55.943Z,Excellent performance
+1708,1708,26,pending,,
+1709,1709,27,approved,2026-01-12T13:14:31.789Z,Standard approval
+1710,1710,28,approved,2026-01-15T21:14:41.192Z,Excellent performance
+1711,1711,29,approved,2026-01-14T06:32:31.535Z,
+1712,1712,30,approved,2026-01-11T22:42:17.153Z,Standard approval
+1713,1713,31,approved,2026-01-12T18:11:14.653Z,
+1714,1714,32,approved,2026-01-13T22:28:16.294Z,Excellent performance
+1715,1715,33,approved,2026-01-12T18:47:08.352Z,Excellent performance
+1716,1716,34,pending,,
+1717,1717,35,approved,2026-01-14T06:19:10.581Z,
+1718,1718,36,approved,2026-01-13T03:16:09.412Z,
+1719,1719,37,approved,2026-01-15T18:29:49.482Z,Excellent performance
+1720,1720,38,approved,2026-01-15T13:00:28.584Z,Excellent performance
+1721,1721,39,approved,2026-01-14T18:09:15.301Z,Approved by manager
+1722,1722,40,rejected,2026-01-16T16:28:05.097Z,Did not complete full shift
+1723,1723,41,rejected,2026-01-16T07:33:53.646Z,Did not complete full shift
+1724,1724,42,approved,2026-01-12T02:38:35.310Z,Approved by manager
+1725,1725,43,approved,2026-01-12T08:27:32.235Z,
+1726,1726,44,approved,2026-01-16T08:12:16.483Z,
+1727,1727,45,approved,2026-01-14T09:58:52.692Z,
+1728,1728,46,approved,2026-01-13T22:18:32.892Z,Approved by manager
+1729,1729,47,approved,2026-01-13T03:55:53.143Z,
+1730,1730,48,approved,2026-01-14T19:07:21.657Z,Approved by manager
+1731,1731,49,approved,2026-01-15T19:17:09.283Z,Standard approval
+1732,1732,50,approved,2026-01-13T07:28:53.693Z,
+1733,1733,51,approved,2026-01-14T10:44:39.622Z,Standard approval
+1734,1734,52,approved,2026-01-15T23:43:00.599Z,
+1735,1735,53,approved,2026-01-15T00:40:53.286Z,Approved by manager
+1736,1736,55,approved,2026-01-15T20:03:10.782Z,
+1737,1737,56,approved,2026-01-13T17:27:07.980Z,
+1738,1738,57,approved,2026-01-12T23:54:07.989Z,Approved by manager
+1739,1739,58,approved,2026-01-13T03:07:29.511Z,Approved by manager
+1740,1740,59,pending,,
+1741,1741,60,approved,2026-01-16T06:12:49.189Z,Late arrival noted
+1742,1742,61,pending,,
+1743,1743,62,approved,2026-01-12T13:38:19.029Z,
+1744,1744,64,approved,2026-01-14T09:45:09.371Z,
+1745,1745,65,approved,2026-01-12T15:23:32.174Z,Late arrival noted
+1746,1746,66,pending,,
+1747,1747,67,approved,2026-01-13T02:40:55.929Z,Late arrival noted
+1748,1748,68,pending,,
+1749,1749,69,approved,2026-01-15T15:22:38.894Z,Excellent performance
+1750,1750,70,approved,2026-01-16T01:10:34.052Z,
+1751,1751,71,approved,2026-01-13T09:47:53.320Z,Approved by manager
+1752,1752,72,approved,2026-01-12T04:06:11.953Z,Late arrival noted
+1753,1753,73,approved,2026-01-14T05:47:48.508Z,Excellent performance
+1754,1754,74,approved,2026-01-13T23:04:29.641Z,Excellent performance
+1755,1755,75,approved,2026-01-11T23:38:21.085Z,Standard approval
+1756,1756,77,approved,2026-01-16T17:26:56.128Z,Excellent performance
+1757,1757,78,approved,2026-01-14T16:30:34.674Z,
+1758,1758,79,rejected,2026-01-16T09:15:15.068Z,Did not complete full shift
+1759,1759,80,approved,2026-01-12T06:03:45.376Z,Late arrival noted
+1760,1760,81,approved,2026-01-14T17:11:40.621Z,Late arrival noted
+1761,1761,82,rejected,2026-01-14T19:09:09.458Z,Did not complete full shift
+1762,1762,83,approved,2026-01-15T14:55:28.706Z,Late arrival noted
+1763,1763,84,approved,2026-01-15T21:26:36.264Z,
+1764,1764,85,approved,2026-01-16T04:28:02.509Z,Standard approval
+1765,1765,86,approved,2026-01-13T22:29:57.786Z,
+1766,1766,87,approved,2026-01-14T04:29:58.594Z,Approved by manager
+1767,1767,89,pending,,
+1768,1768,90,approved,2026-01-14T10:03:53.619Z,Excellent performance
+1769,1769,91,approved,2026-01-16T07:22:38.856Z,
+1770,1770,92,approved,2026-01-16T13:00:34.913Z,Approved by manager
+1771,1771,93,approved,2026-01-16T04:01:20.146Z,Late arrival noted
+1772,1772,94,approved,2026-01-14T15:15:39.683Z,Approved by manager
+1773,1773,95,approved,2026-01-14T01:30:42.833Z,Approved by manager
+1774,1774,96,approved,2026-01-15T03:58:06.693Z,Approved by manager
+1775,1775,97,approved,2026-01-14T15:52:53.595Z,Standard approval
+1776,1776,98,approved,2026-01-13T17:26:32.049Z,Late arrival noted
+1777,1777,99,approved,2026-01-15T03:00:36.860Z,Standard approval
+1778,1778,100,rejected,2026-01-14T11:10:10.331Z,Did not complete full shift
+1779,1779,101,approved,2026-01-12T20:41:59.086Z,Standard approval
+1780,1780,102,approved,2026-01-16T10:24:01.383Z,
+1781,1781,103,approved,2026-01-12T04:25:58.273Z,Excellent performance
+1782,1782,104,approved,2026-01-13T09:58:07.647Z,Approved by manager
+1783,1783,105,approved,2026-01-16T04:13:34.248Z,Excellent performance
+1784,1784,106,approved,2026-01-13T00:21:24.197Z,Excellent performance
+1785,1785,107,approved,2026-01-11T21:55:35.075Z,
+1786,1786,108,approved,2026-01-14T14:58:58.462Z,Approved by manager
+1787,1787,7,approved,2026-01-13T20:50:10.157Z,Approved by manager
+1788,1788,8,approved,2026-01-16T12:16:22.576Z,Approved by manager
+1789,1789,9,rejected,2026-01-15T06:20:44.721Z,Did not complete full shift
+1790,1790,10,approved,2026-01-14T16:30:40.660Z,Approved by manager
+1791,1791,11,approved,2026-01-16T02:40:59.371Z,Standard approval
+1792,1792,14,approved,2026-01-15T14:35:20.788Z,Approved by manager
+1793,1793,16,approved,2026-01-11T20:34:12.910Z,
+1794,1794,17,approved,2026-01-15T14:48:56.658Z,Late arrival noted
+1795,1795,18,approved,2026-01-16T06:36:38.879Z,Standard approval
+1796,1796,20,approved,2026-01-12T16:18:08.130Z,
+1797,1797,21,rejected,2026-01-14T22:56:20.898Z,Did not complete full shift
+1798,1798,22,approved,2026-01-16T01:17:41.742Z,
+1799,1799,23,pending,,
+1800,1800,24,approved,2026-01-13T05:49:43.717Z,
+1801,1801,25,approved,2026-01-16T16:49:30.732Z,Approved by manager
+1802,1802,26,approved,2026-01-14T03:51:09.744Z,Standard approval
+1803,1803,27,approved,2026-01-12T15:39:32.007Z,Standard approval
+1804,1804,28,approved,2026-01-16T00:05:32.072Z,Late arrival noted
+1805,1805,29,approved,2026-01-15T03:37:02.645Z,
+1806,1806,30,rejected,2026-01-14T15:13:24.659Z,Did not complete full shift
+1807,1807,31,approved,2026-01-13T01:21:51.517Z,Approved by manager
+1808,1808,32,approved,2026-01-14T22:09:33.649Z,
+1809,1809,33,approved,2026-01-14T00:45:15.730Z,
+1810,1810,34,approved,2026-01-14T22:27:24.787Z,Approved by manager
+1811,1811,35,rejected,2026-01-14T17:52:56.837Z,Did not complete full shift
+1812,1812,36,approved,2026-01-16T02:27:04.724Z,
+1813,1813,37,approved,2026-01-15T14:45:23.264Z,
+1814,1814,38,approved,2026-01-12T03:48:14.766Z,Late arrival noted
+1815,1815,39,approved,2026-01-15T05:32:12.770Z,Late arrival noted
+1816,1816,40,approved,2026-01-16T10:07:13.517Z,
+1817,1817,41,approved,2026-01-15T13:59:04.539Z,
+1818,1818,42,approved,2026-01-12T19:33:00.679Z,Approved by manager
+1819,1819,43,approved,2026-01-12T09:25:07.885Z,Late arrival noted
+1820,1820,44,rejected,2026-01-15T16:27:13.007Z,Did not complete full shift
+1821,1821,45,approved,2026-01-16T09:46:31.902Z,
+1822,1822,46,approved,2026-01-12T01:32:27.811Z,
+1823,1823,47,approved,2026-01-13T05:03:55.080Z,Approved by manager
+1824,1824,48,approved,2026-01-13T06:33:07.319Z,
+1825,1825,49,approved,2026-01-12T10:15:25.214Z,
+1826,1826,50,rejected,2026-01-14T22:53:35.517Z,Did not complete full shift
+1827,1827,51,approved,2026-01-12T12:36:59.172Z,Standard approval
+1828,1828,52,approved,2026-01-16T10:46:09.348Z,Excellent performance
+1829,1829,53,approved,2026-01-14T13:03:17.446Z,Late arrival noted
+1830,1830,55,approved,2026-01-12T05:58:15.260Z,Standard approval
+1831,1831,56,approved,2026-01-15T22:46:58.842Z,
+1832,1832,57,approved,2026-01-15T19:29:54.766Z,Excellent performance
+1833,1833,58,approved,2026-01-15T23:52:24.830Z,Standard approval
+1834,1834,59,approved,2026-01-14T16:27:30.768Z,
+1835,1835,60,approved,2026-01-13T01:53:55.801Z,Standard approval
+1836,1836,61,rejected,2026-01-16T14:19:09.456Z,Did not complete full shift
+1837,1837,62,approved,2026-01-16T16:04:17.216Z,Approved by manager
+1838,1838,64,approved,2026-01-14T03:17:11.342Z,
+1839,1839,65,approved,2026-01-14T23:08:15.773Z,Late arrival noted
+1840,1840,66,pending,,
+1841,1841,67,approved,2026-01-13T15:08:02.868Z,
+1842,1842,68,approved,2026-01-13T10:13:55.157Z,
+1843,1843,69,approved,2026-01-14T07:16:54.628Z,Approved by manager
+1844,1844,70,approved,2026-01-14T01:02:50.602Z,
+1845,1845,71,approved,2026-01-15T23:00:56.959Z,
+1846,1846,72,approved,2026-01-15T19:40:42.407Z,Late arrival noted
+1847,1847,73,approved,2026-01-15T19:48:02.409Z,
+1848,1848,74,approved,2026-01-12T23:48:34.860Z,
+1849,1849,75,approved,2026-01-11T22:56:16.646Z,Standard approval
+1850,1850,77,approved,2026-01-13T14:42:06.946Z,Approved by manager
+1851,1851,78,approved,2026-01-13T23:55:35.311Z,
+1852,1852,79,approved,2026-01-13T06:30:38.509Z,
+1853,1853,80,approved,2026-01-13T15:00:35.164Z,
+1854,1854,81,approved,2026-01-12T19:38:59.538Z,Approved by manager
+1855,1855,82,approved,2026-01-15T20:20:39.373Z,
+1856,1856,83,approved,2026-01-13T01:19:59.244Z,Late arrival noted
+1857,1857,84,pending,,
+1858,1858,85,approved,2026-01-15T21:13:42.809Z,
+1859,1859,86,approved,2026-01-14T19:07:48.565Z,Standard approval
+1860,1860,87,pending,,
+1861,1861,89,approved,2026-01-16T01:34:19.557Z,
+1862,1862,90,approved,2026-01-16T04:49:09.973Z,Approved by manager
+1863,1863,91,pending,,
+1864,1864,92,approved,2026-01-16T08:18:36.970Z,Excellent performance
+1865,1865,93,approved,2026-01-15T11:10:41.430Z,
+1866,1866,94,approved,2026-01-13T23:44:51.072Z,
+1867,1867,95,approved,2026-01-13T21:46:07.616Z,
+1868,1868,96,approved,2026-01-16T02:05:45.729Z,Excellent performance
+1869,1869,97,rejected,2026-01-16T00:45:58.264Z,Did not complete full shift
+1870,1870,98,approved,2026-01-13T16:37:49.260Z,
+1871,1871,99,approved,2026-01-14T14:51:29.154Z,Approved by manager
+1872,1872,100,approved,2026-01-15T16:35:44.374Z,Late arrival noted
+1873,1873,101,approved,2026-01-12T09:35:20.044Z,
+1874,1874,102,approved,2026-01-15T05:30:33.315Z,Excellent performance
+1875,1875,103,approved,2026-01-14T10:16:48.138Z,Standard approval
+1876,1876,104,approved,2026-01-13T12:41:44.015Z,Excellent performance
+1877,1877,105,pending,,
+1878,1878,106,approved,2026-01-15T18:29:48.607Z,Approved by manager
+1879,1879,107,approved,2026-01-15T18:04:43.313Z,Excellent performance
+1880,1880,108,approved,2026-01-12T23:04:18.936Z,
+1881,1881,7,approved,2026-01-11T22:16:25.208Z,Approved by manager
+1882,1882,8,approved,2026-01-13T03:58:25.321Z,
+1883,1883,9,approved,2026-01-12T04:47:08.345Z,Standard approval
+1884,1884,10,approved,2026-01-16T16:26:53.490Z,Approved by manager
+1885,1885,11,approved,2026-01-12T02:10:20.745Z,Late arrival noted
+1886,1886,14,approved,2026-01-14T02:01:39.615Z,
+1887,1887,16,approved,2026-01-15T22:30:14.885Z,Approved by manager
+1888,1888,17,approved,2026-01-13T12:33:04.973Z,Excellent performance
+1889,1889,18,approved,2026-01-12T07:57:10.663Z,
+1890,1890,20,approved,2026-01-16T08:05:37.228Z,Excellent performance
+1891,1891,21,rejected,2026-01-15T03:56:03.018Z,Did not complete full shift
+1892,1892,22,approved,2026-01-12T16:15:29.164Z,
+1893,1893,23,approved,2026-01-14T02:42:25.651Z,Excellent performance
+1894,1894,24,approved,2026-01-14T05:06:58.334Z,
+1895,1895,25,approved,2026-01-13T09:47:17.156Z,
+1896,1896,26,approved,2026-01-12T17:51:43.389Z,Excellent performance
+1897,1897,27,pending,,
+1898,1898,28,pending,,
+1899,1899,29,approved,2026-01-11T21:20:23.960Z,Excellent performance
+1900,1900,30,approved,2026-01-13T00:48:52.302Z,Standard approval
+1901,1901,31,approved,2026-01-12T10:46:04.928Z,Approved by manager
+1902,1902,32,rejected,2026-01-13T22:59:46.117Z,Did not complete full shift
+1903,1903,33,approved,2026-01-15T18:22:50.425Z,Standard approval
+1904,1904,34,rejected,2026-01-14T03:46:17.664Z,Did not complete full shift
+1905,1905,35,approved,2026-01-11T22:35:23.652Z,Late arrival noted
+1906,1906,36,approved,2026-01-13T20:28:57.547Z,Excellent performance
+1907,1907,37,approved,2026-01-15T05:55:40.859Z,Late arrival noted
+1908,1908,38,approved,2026-01-12T08:01:54.571Z,
+1909,1909,39,approved,2026-01-12T13:21:24.655Z,Late arrival noted
+1910,1910,40,approved,2026-01-15T16:02:01.403Z,
+1911,1911,41,approved,2026-01-15T08:56:07.497Z,
+1912,1912,42,approved,2026-01-13T04:26:42.009Z,Late arrival noted
+1913,1913,43,rejected,2026-01-15T03:24:17.004Z,Did not complete full shift
+1914,1914,44,approved,2026-01-16T13:25:22.784Z,Excellent performance
+1915,1915,45,approved,2026-01-13T18:58:45.189Z,Excellent performance
+1916,1916,46,pending,,
+1917,1917,47,pending,,
+1918,1918,48,approved,2026-01-15T23:53:55.832Z,Approved by manager
+1919,1919,49,approved,2026-01-15T20:47:09.020Z,
+1920,1920,50,approved,2026-01-12T17:33:44.224Z,
+1921,1921,51,approved,2026-01-14T12:29:45.575Z,Late arrival noted
+1922,1922,52,rejected,2026-01-14T16:52:37.484Z,Did not complete full shift
+1923,1923,53,approved,2026-01-15T09:55:04.257Z,Approved by manager
+1924,1924,55,approved,2026-01-13T20:32:40.902Z,Excellent performance
+1925,1925,56,approved,2026-01-13T21:43:13.231Z,Excellent performance
+1926,1926,57,approved,2026-01-14T22:12:37.128Z,Excellent performance
+1927,1927,58,approved,2026-01-14T18:23:49.424Z,Approved by manager
+1928,1928,59,approved,2026-01-14T16:10:30.225Z,Excellent performance
+1929,1929,60,approved,2026-01-16T09:33:25.657Z,
+1930,1930,61,approved,2026-01-14T06:52:07.078Z,Excellent performance
+1931,1931,62,approved,2026-01-12T20:48:37.498Z,Approved by manager
+1932,1932,64,approved,2026-01-16T18:06:57.669Z,Standard approval
+1933,1933,65,pending,,
+1934,1934,66,approved,2026-01-13T07:08:16.010Z,Standard approval
+1935,1935,67,approved,2026-01-12T05:59:37.968Z,
+1936,1936,68,approved,2026-01-15T07:31:45.242Z,Approved by manager
+1937,1937,69,approved,2026-01-11T21:40:58.958Z,Approved by manager
+1938,1938,70,approved,2026-01-15T08:06:45.735Z,Excellent performance
+1939,1939,71,approved,2026-01-14T00:41:20.279Z,Standard approval
+1940,1940,72,approved,2026-01-12T16:58:24.378Z,Standard approval
+1941,1941,73,approved,2026-01-14T15:33:36.968Z,Excellent performance
+1942,1942,74,approved,2026-01-13T20:43:11.486Z,Late arrival noted
+1943,1943,75,approved,2026-01-12T11:07:31.007Z,
+1944,1944,77,approved,2026-01-12T22:48:09.942Z,Approved by manager
+1945,1945,78,approved,2026-01-14T05:18:44.830Z,
+1946,1946,79,approved,2026-01-14T10:54:02.891Z,Standard approval
+1947,1947,80,approved,2026-01-12T22:38:07.441Z,Approved by manager
+1948,1948,81,approved,2026-01-13T01:05:48.488Z,Standard approval
+1949,1949,82,pending,,
+1950,1950,83,approved,2026-01-16T04:17:26.351Z,Approved by manager
+1951,1951,84,approved,2026-01-14T00:20:34.201Z,
+1952,1952,85,approved,2026-01-15T19:41:56.730Z,Late arrival noted
+1953,1953,86,approved,2026-01-16T00:07:16.275Z,
+1954,1954,87,rejected,2026-01-14T17:39:23.808Z,Did not complete full shift
+1955,1955,89,approved,2026-01-16T05:11:30.777Z,Late arrival noted
+1956,1956,90,approved,2026-01-15T05:46:34.527Z,Approved by manager
+1957,1957,91,pending,,
+1958,1958,92,rejected,2026-01-15T17:53:04.356Z,Did not complete full shift
+1959,1959,93,approved,2026-01-15T07:42:40.262Z,Excellent performance
+1960,1960,94,approved,2026-01-14T21:15:04.632Z,Late arrival noted
+1961,1961,95,approved,2026-01-12T16:07:05.029Z,Standard approval
+1962,1962,96,pending,,
+1963,1963,97,approved,2026-01-16T02:59:08.871Z,Standard approval
+1964,1964,98,approved,2026-01-16T05:22:17.682Z,Standard approval
+1965,1965,99,approved,2026-01-13T15:17:36.866Z,
+1966,1966,100,pending,,
+1967,1967,101,approved,2026-01-15T12:24:01.073Z,
+1968,1968,102,approved,2026-01-15T10:13:33.412Z,
+1969,1969,103,approved,2026-01-16T08:08:26.932Z,Approved by manager
+1970,1970,104,approved,2026-01-15T08:30:18.690Z,Standard approval
+1971,1971,105,approved,2026-01-13T10:25:32.220Z,Excellent performance
+1972,1972,106,approved,2026-01-12T21:54:39.397Z,
+1973,1973,107,approved,2026-01-16T12:43:28.256Z,
+1974,1974,108,approved,2026-01-13T18:13:27.746Z,Standard approval
+1975,1975,7,approved,2026-01-12T00:27:56.000Z,Approved by manager
+1976,1976,8,pending,,
+1977,1977,9,approved,2026-01-13T12:08:59.668Z,Excellent performance
+1978,1978,10,approved,2026-01-14T14:54:33.456Z,
+1979,1979,11,approved,2026-01-12T07:11:17.475Z,Excellent performance
+1980,1980,14,approved,2026-01-16T10:05:32.939Z,
+1981,1981,16,approved,2026-01-16T00:06:36.128Z,Late arrival noted
+1982,1982,17,approved,2026-01-16T12:11:19.506Z,
+1983,1983,18,approved,2026-01-13T15:35:50.017Z,Excellent performance
+1984,1984,20,pending,,
+1985,1985,21,approved,2026-01-12T00:46:09.155Z,
+1986,1986,22,approved,2026-01-12T21:42:56.121Z,
+1987,1987,23,approved,2026-01-14T03:15:54.553Z,Approved by manager
+1988,1988,24,approved,2026-01-15T23:19:33.999Z,Approved by manager
+1989,1989,25,pending,,
+1990,1990,26,approved,2026-01-12T08:31:19.391Z,Excellent performance
+1991,1991,27,pending,,
+1992,1992,28,approved,2026-01-11T23:51:09.055Z,Approved by manager
+1993,1993,29,approved,2026-01-12T12:10:39.979Z,Late arrival noted
+1994,1994,30,approved,2026-01-13T19:59:42.139Z,Standard approval
+1995,1995,31,approved,2026-01-16T08:54:09.397Z,Standard approval
+1996,1996,32,approved,2026-01-11T19:28:40.572Z,Excellent performance
+1997,1997,33,approved,2026-01-15T11:41:46.809Z,Standard approval
+1998,1998,34,approved,2026-01-12T06:52:29.949Z,
+1999,1999,35,approved,2026-01-14T06:14:50.579Z,Standard approval
+2000,2000,36,approved,2026-01-13T02:03:51.454Z,Standard approval
+2001,2001,37,pending,,
+2002,2002,38,approved,2026-01-15T09:02:00.856Z,Approved by manager
+2003,2003,39,pending,,
+2004,2004,40,approved,2026-01-14T11:13:40.847Z,Late arrival noted
+2005,2005,41,pending,,
+2006,2006,42,pending,,
+2007,2007,43,approved,2026-01-11T21:46:01.439Z,
+2008,2008,44,approved,2026-01-12T20:53:59.177Z,
+2009,2009,45,approved,2026-01-12T14:18:43.895Z,Excellent performance
+2010,2010,46,rejected,2026-01-15T20:17:35.031Z,Did not complete full shift
+2011,2011,47,pending,,
+2012,2012,48,approved,2026-01-14T16:23:03.108Z,Excellent performance
+2013,2013,49,approved,2026-01-14T09:45:35.116Z,Late arrival noted
+2014,2014,50,approved,2026-01-12T15:47:50.737Z,
+2015,2015,51,approved,2026-01-14T16:23:56.976Z,Standard approval
+2016,2016,52,approved,2026-01-11T20:57:49.444Z,Standard approval
+2017,2017,53,approved,2026-01-14T03:09:38.067Z,Excellent performance
+2018,2018,55,approved,2026-01-11T19:05:33.109Z,Approved by manager
+2019,2019,56,approved,2026-01-13T19:29:56.874Z,Excellent performance
+2020,2020,57,approved,2026-01-12T20:43:02.131Z,
+2021,2021,58,approved,2026-01-16T16:23:08.871Z,
+2022,2022,59,approved,2026-01-16T09:12:59.615Z,Late arrival noted
+2023,2023,60,approved,2026-01-13T05:25:50.031Z,Standard approval
+2024,2024,61,approved,2026-01-14T17:18:02.333Z,Approved by manager
+2025,2025,62,pending,,
+2026,2026,64,approved,2026-01-15T07:22:12.622Z,Standard approval
+2027,2027,65,approved,2026-01-14T02:56:47.669Z,Late arrival noted
+2028,2028,66,approved,2026-01-13T13:04:12.918Z,Approved by manager
+2029,2029,67,approved,2026-01-14T09:23:44.307Z,Standard approval
+2030,2030,68,approved,2026-01-15T18:12:29.802Z,
+2031,2031,69,approved,2026-01-12T00:20:44.125Z,Standard approval
+2032,2032,70,rejected,2026-01-14T19:26:51.143Z,Did not complete full shift
+2033,2033,71,pending,,
+2034,2034,72,pending,,
+2035,2035,73,rejected,2026-01-14T06:47:57.650Z,Did not complete full shift
+2036,2036,74,approved,2026-01-16T10:40:53.808Z,Standard approval
+2037,2037,75,approved,2026-01-14T12:36:48.468Z,
+2038,2038,77,rejected,2026-01-15T19:22:30.416Z,Did not complete full shift
+2039,2039,78,approved,2026-01-15T04:37:55.762Z,
+2040,2040,79,pending,,
+2041,2041,80,approved,2026-01-16T17:03:19.025Z,
+2042,2042,81,approved,2026-01-12T17:02:17.506Z,Standard approval
+2043,2043,82,approved,2026-01-15T02:02:45.024Z,Standard approval
+2044,2044,83,rejected,2026-01-15T09:29:48.555Z,Did not complete full shift
+2045,2045,84,approved,2026-01-15T05:51:10.906Z,Excellent performance
+2046,2046,85,approved,2026-01-12T08:58:37.722Z,Late arrival noted
+2047,2047,86,approved,2026-01-13T07:05:39.918Z,Approved by manager
+2048,2048,87,approved,2026-01-16T01:09:08.771Z,
+2049,2049,89,approved,2026-01-15T12:50:28.445Z,
+2050,2050,90,approved,2026-01-14T19:04:32.453Z,
+2051,2051,91,pending,,
+2052,2052,92,approved,2026-01-13T22:08:15.318Z,Standard approval
+2053,2053,93,approved,2026-01-16T04:23:37.124Z,
+2054,2054,94,approved,2026-01-15T14:24:31.096Z,
+2055,2055,95,approved,2026-01-15T15:10:46.638Z,Standard approval
+2056,2056,96,approved,2026-01-13T11:26:03.647Z,Excellent performance
+2057,2057,97,approved,2026-01-13T13:44:33.547Z,Standard approval
+2058,2058,98,approved,2026-01-12T09:21:29.624Z,Late arrival noted
+2059,2059,99,approved,2026-01-14T21:56:47.442Z,Approved by manager
+2060,2060,100,approved,2026-01-15T18:06:54.286Z,Late arrival noted
+2061,2061,101,approved,2026-01-12T07:48:36.068Z,
+2062,2062,102,pending,,
+2063,2063,103,rejected,2026-01-16T08:52:45.887Z,Did not complete full shift
+2064,2064,104,approved,2026-01-12T20:56:01.554Z,Approved by manager
+2065,2065,105,approved,2026-01-15T17:43:53.643Z,Late arrival noted
+2066,2066,106,approved,2026-01-13T16:27:14.213Z,Approved by manager
+2067,2067,107,approved,2026-01-15T16:30:47.579Z,
+2068,2068,108,approved,2026-01-15T03:12:49.964Z,Approved by manager
+2069,2069,7,approved,2026-01-16T18:00:17.325Z,Late arrival noted
+2070,2070,8,approved,2026-01-12T10:11:57.095Z,Excellent performance
+2071,2071,9,approved,2026-01-13T19:12:47.281Z,
+2072,2072,10,approved,2026-01-14T17:51:55.410Z,Approved by manager
+2073,2073,11,approved,2026-01-15T16:56:17.854Z,Standard approval
+2074,2074,14,pending,,
+2075,2075,16,pending,,
+2076,2076,17,approved,2026-01-13T07:47:17.265Z,Excellent performance
+2077,2077,18,approved,2026-01-14T05:12:39.711Z,Standard approval
+2078,2078,20,approved,2026-01-13T09:08:19.538Z,
+2079,2079,21,pending,,
+2080,2080,22,approved,2026-01-16T08:19:26.112Z,Standard approval
+2081,2081,23,approved,2026-01-12T05:40:29.822Z,Approved by manager
+2082,2082,24,approved,2026-01-15T07:48:35.978Z,
+2083,2083,25,approved,2026-01-14T16:39:48.900Z,Excellent performance
+2084,2084,26,approved,2026-01-16T04:06:47.229Z,Excellent performance
+2085,2085,27,approved,2026-01-12T15:50:21.248Z,Standard approval
+2086,2086,28,approved,2026-01-11T22:09:46.721Z,Standard approval
+2087,2087,29,approved,2026-01-12T19:04:12.650Z,Standard approval
+2088,2088,30,approved,2026-01-12T18:48:47.323Z,Excellent performance
+2089,2089,31,approved,2026-01-12T05:54:21.916Z,Approved by manager
+2090,2090,32,approved,2026-01-16T09:59:51.126Z,Excellent performance
+2091,2091,33,approved,2026-01-12T19:25:45.357Z,
+2092,2092,34,pending,,
+2093,2093,35,approved,2026-01-11T22:51:46.695Z,Standard approval
+2094,2094,36,approved,2026-01-13T10:24:56.827Z,Excellent performance
+2095,2095,37,pending,,
+2096,2096,38,approved,2026-01-12T07:47:58.768Z,Approved by manager
+2097,2097,39,approved,2026-01-15T00:15:40.785Z,Standard approval
+2098,2098,40,approved,2026-01-11T20:57:29.349Z,Standard approval
+2099,2099,41,approved,2026-01-14T00:12:08.984Z,Late arrival noted
+2100,2100,42,approved,2026-01-14T12:04:30.787Z,
+2101,2101,43,pending,,
+2102,2102,44,approved,2026-01-12T14:48:50.357Z,Late arrival noted
+2103,2103,45,approved,2026-01-14T00:50:56.269Z,Excellent performance
+2104,2104,46,approved,2026-01-15T15:29:45.906Z,Excellent performance
+2105,2105,47,approved,2026-01-12T23:10:16.634Z,Excellent performance
+2106,2106,48,approved,2026-01-15T15:26:31.261Z,
+2107,2107,49,approved,2026-01-15T10:51:11.977Z,Excellent performance
+2108,2108,50,approved,2026-01-14T15:34:26.105Z,Standard approval
+2109,2109,51,approved,2026-01-14T11:10:47.432Z,
+2110,2110,52,approved,2026-01-14T08:48:22.275Z,Standard approval
+2111,2111,53,approved,2026-01-13T16:00:04.229Z,Late arrival noted
+2112,2112,55,approved,2026-01-15T19:43:50.149Z,
+2113,2113,56,pending,,
+2114,2114,57,approved,2026-01-16T16:57:57.153Z,Approved by manager
+2115,2115,58,approved,2026-01-13T15:21:39.270Z,Excellent performance
+2116,2116,59,approved,2026-01-12T05:34:07.537Z,Approved by manager
+2117,2117,60,approved,2026-01-15T21:51:53.667Z,
+2118,2118,61,rejected,2026-01-14T09:35:05.209Z,Did not complete full shift
+2119,2119,62,approved,2026-01-12T12:42:24.040Z,
+2120,2120,64,approved,2026-01-16T01:28:36.658Z,Standard approval
+2121,2121,65,approved,2026-01-15T08:15:55.500Z,Excellent performance
+2122,2122,66,approved,2026-01-14T07:19:26.728Z,Approved by manager
+2123,2123,67,approved,2026-01-13T04:42:04.078Z,Excellent performance
+2124,2124,68,approved,2026-01-13T17:23:31.139Z,Approved by manager
+2125,2125,69,approved,2026-01-16T11:42:33.526Z,
+2126,2126,70,approved,2026-01-12T05:26:38.209Z,Late arrival noted
+2127,2127,71,rejected,2026-01-15T03:19:07.436Z,Did not complete full shift
+2128,2128,72,approved,2026-01-13T03:39:37.481Z,Approved by manager
+2129,2129,73,approved,2026-01-16T02:39:03.198Z,
+2130,2130,74,approved,2026-01-12T13:40:50.871Z,Excellent performance
+2131,2131,75,approved,2026-01-15T06:18:18.334Z,Excellent performance
+2132,2132,77,approved,2026-01-12T11:51:43.751Z,
+2133,2133,78,approved,2026-01-15T05:12:30.813Z,
+2134,2134,79,approved,2026-01-12T22:12:44.187Z,Approved by manager
+2135,2135,80,approved,2026-01-13T06:23:30.344Z,Standard approval
+2136,2136,81,approved,2026-01-13T20:09:44.672Z,Late arrival noted
+2137,2137,82,approved,2026-01-11T22:45:49.435Z,
+2138,2138,83,approved,2026-01-12T04:35:31.045Z,Excellent performance
+2139,2139,84,approved,2026-01-13T13:58:21.928Z,Approved by manager
+2140,2140,85,approved,2026-01-13T07:25:59.671Z,Standard approval
+2141,2141,86,approved,2026-01-14T06:41:47.088Z,Excellent performance
+2142,2142,87,approved,2026-01-15T13:18:19.165Z,
+2143,2143,89,approved,2026-01-12T04:08:17.633Z,
+2144,2144,90,approved,2026-01-15T22:14:11.891Z,
+2145,2145,91,approved,2026-01-13T17:38:46.408Z,Late arrival noted
+2146,2146,92,pending,,
+2147,2147,93,approved,2026-01-13T02:18:32.699Z,Standard approval
+2148,2148,94,pending,,
+2149,2149,95,rejected,2026-01-15T16:32:47.908Z,Did not complete full shift
+2150,2150,96,pending,,
+2151,2151,97,approved,2026-01-13T10:59:45.442Z,
+2152,2152,98,approved,2026-01-11T22:38:10.929Z,Approved by manager
+2153,2153,99,approved,2026-01-12T17:29:05.340Z,Excellent performance
+2154,2154,100,approved,2026-01-12T02:00:00.593Z,Excellent performance
+2155,2155,101,approved,2026-01-12T14:14:31.670Z,
+2156,2156,102,approved,2026-01-11T22:31:23.249Z,Standard approval
+2157,2157,103,approved,2026-01-12T18:01:14.649Z,Excellent performance
+2158,2158,104,rejected,2026-01-16T05:03:34.364Z,Did not complete full shift
+2159,2159,105,approved,2026-01-16T16:13:12.253Z,Late arrival noted
+2160,2160,106,pending,,
+2161,2161,107,approved,2026-01-15T22:48:32.887Z,Approved by manager
+2162,2162,108,approved,2026-01-15T21:20:17.937Z,Standard approval
+2163,2163,7,approved,2026-01-16T08:58:48.527Z,
+2164,2164,8,approved,2026-01-15T06:04:00.121Z,Approved by manager
+2165,2165,9,approved,2026-01-12T22:30:38.694Z,Standard approval
+2166,2166,10,approved,2026-01-14T00:01:23.201Z,
+2167,2167,11,approved,2026-01-12T18:47:30.834Z,Excellent performance
+2168,2168,14,approved,2026-01-15T13:54:42.373Z,
+2169,2169,16,approved,2026-01-14T13:22:46.339Z,Excellent performance
+2170,2170,17,approved,2026-01-12T00:43:15.634Z,
+2171,2171,18,approved,2026-01-12T01:42:05.999Z,
+2172,2172,20,approved,2026-01-16T11:47:06.259Z,
+2173,2173,21,approved,2026-01-15T01:34:30.426Z,Approved by manager
+2174,2174,22,approved,2026-01-12T05:14:48.599Z,
+2175,2175,23,approved,2026-01-12T09:44:45.139Z,
+2176,2176,24,approved,2026-01-16T08:52:33.817Z,Late arrival noted
+2177,2177,25,approved,2026-01-16T09:05:59.203Z,
+2178,2178,26,approved,2026-01-13T11:41:07.795Z,Standard approval
+2179,2179,27,approved,2026-01-11T20:17:00.822Z,Excellent performance
+2180,2180,28,approved,2026-01-13T04:14:31.471Z,Excellent performance
+2181,2181,29,approved,2026-01-11T23:00:09.219Z,
+2182,2182,30,approved,2026-01-16T02:59:35.966Z,Approved by manager
+2183,2183,31,approved,2026-01-12T18:07:14.047Z,Standard approval
+2184,2184,32,approved,2026-01-15T08:17:05.948Z,Excellent performance
+2185,2185,33,approved,2026-01-14T02:21:24.563Z,
+2186,2186,34,approved,2026-01-13T20:13:25.676Z,Standard approval
+2187,2187,35,pending,,
+2188,2188,36,approved,2026-01-13T00:19:01.776Z,Excellent performance
+2189,2189,37,approved,2026-01-16T12:19:36.655Z,Late arrival noted
+2190,2190,38,approved,2026-01-14T00:08:18.496Z,Excellent performance
+2191,2191,39,approved,2026-01-11T23:29:26.504Z,
+2192,2192,40,pending,,
+2193,2193,41,approved,2026-01-13T14:39:17.517Z,
+2194,2194,42,approved,2026-01-13T08:44:27.981Z,Approved by manager
+2195,2195,43,approved,2026-01-13T14:04:09.372Z,Standard approval
+2196,2196,44,approved,2026-01-12T08:38:04.193Z,
+2197,2197,45,approved,2026-01-12T12:18:00.793Z,
+2198,2198,46,pending,,
+2199,2199,47,approved,2026-01-11T22:42:10.676Z,Standard approval
+2200,2200,48,pending,,
+2201,2201,49,approved,2026-01-15T18:34:48.236Z,
+2202,2202,50,approved,2026-01-12T21:36:42.610Z,
+2203,2203,51,approved,2026-01-12T22:39:37.387Z,Excellent performance
+2204,2204,52,approved,2026-01-14T06:43:30.176Z,Excellent performance
+2205,2205,53,approved,2026-01-16T17:00:32.684Z,
+2206,2206,55,approved,2026-01-15T01:08:41.510Z,Standard approval
+2207,2207,56,approved,2026-01-12T21:24:27.547Z,
+2208,2208,57,approved,2026-01-11T21:18:03.776Z,
+2209,2209,58,approved,2026-01-14T13:45:58.112Z,Excellent performance
+2210,2210,59,approved,2026-01-15T10:03:21.457Z,
+2211,2211,60,approved,2026-01-16T10:27:20.742Z,
+2212,2212,61,approved,2026-01-15T15:54:08.956Z,
+2213,2213,62,approved,2026-01-13T19:00:45.340Z,
+2214,2214,64,approved,2026-01-14T07:17:13.776Z,
+2215,2215,65,approved,2026-01-15T10:25:20.694Z,Late arrival noted
+2216,2216,66,pending,,
+2217,2217,67,approved,2026-01-13T13:34:05.333Z,Excellent performance
+2218,2218,68,approved,2026-01-13T08:28:29.564Z,Late arrival noted
+2219,2219,69,approved,2026-01-13T10:35:43.167Z,
+2220,2220,70,approved,2026-01-16T10:55:49.101Z,Excellent performance
+2221,2221,71,approved,2026-01-12T00:37:33.383Z,
+2222,2222,72,approved,2026-01-15T08:44:56.427Z,Excellent performance
+2223,2223,73,approved,2026-01-15T22:28:59.859Z,Approved by manager
+2224,2224,74,pending,,
+2225,2225,75,approved,2026-01-14T07:23:53.654Z,
+2226,2226,77,approved,2026-01-16T04:45:10.380Z,
+2227,2227,78,approved,2026-01-14T03:49:31.389Z,Late arrival noted
+2228,2228,79,rejected,2026-01-16T14:24:15.103Z,Did not complete full shift
+2229,2229,80,approved,2026-01-13T00:09:10.667Z,Approved by manager
+2230,2230,81,approved,2026-01-16T01:00:33.481Z,Excellent performance
+2231,2231,82,pending,,
+2232,2232,83,approved,2026-01-15T18:56:25.987Z,Standard approval
+2233,2233,84,approved,2026-01-13T07:56:16.136Z,Standard approval
+2234,2234,85,approved,2026-01-15T08:29:35.543Z,Excellent performance
+2235,2235,86,approved,2026-01-13T20:54:50.770Z,Excellent performance
+2236,2236,87,approved,2026-01-12T16:33:35.887Z,Late arrival noted
+2237,2237,89,approved,2026-01-12T18:51:49.770Z,Approved by manager
+2238,2238,90,approved,2026-01-12T20:58:11.534Z,Approved by manager
+2239,2239,91,approved,2026-01-15T01:23:38.572Z,
+2240,2240,92,approved,2026-01-13T14:04:13.508Z,Late arrival noted
+2241,2241,93,approved,2026-01-16T16:53:55.190Z,
+2242,2242,94,approved,2026-01-13T04:16:34.708Z,Approved by manager
+2243,2243,95,approved,2026-01-13T23:05:29.414Z,
+2244,2244,96,approved,2026-01-15T17:43:30.041Z,Excellent performance
+2245,2245,97,approved,2026-01-15T19:53:16.248Z,Excellent performance
+2246,2246,98,approved,2026-01-16T03:25:17.882Z,Late arrival noted
+2247,2247,99,approved,2026-01-13T14:46:51.907Z,Late arrival noted
+2248,2248,100,approved,2026-01-12T00:19:12.329Z,Excellent performance
+2249,2249,101,approved,2026-01-13T04:30:20.237Z,
+2250,2250,102,approved,2026-01-12T23:00:44.482Z,Excellent performance
+2251,2251,103,approved,2026-01-14T10:11:38.943Z,
+2252,2252,104,approved,2026-01-13T10:59:40.230Z,Excellent performance
+2253,2253,105,approved,2026-01-16T15:46:47.529Z,
+2254,2254,106,rejected,2026-01-16T09:47:43.990Z,Did not complete full shift
+2255,2255,107,approved,2026-01-14T18:19:14.721Z,
+2256,2256,108,approved,2026-01-12T21:31:01.284Z,Standard approval
+2257,2257,7,approved,2026-01-11T23:42:34.677Z,Late arrival noted
+2258,2258,8,rejected,2026-01-15T06:10:58.582Z,Did not complete full shift
+2259,2259,9,approved,2026-01-15T06:08:01.221Z,Late arrival noted
+2260,2260,10,approved,2026-01-15T02:25:20.806Z,Late arrival noted
+2261,2261,11,approved,2026-01-15T21:24:45.388Z,Late arrival noted
+2262,2262,14,pending,,
+2263,2263,16,approved,2026-01-13T01:26:14.247Z,
+2264,2264,17,pending,,
+2265,2265,18,pending,,
+2266,2266,20,approved,2026-01-12T00:49:34.764Z,
+2267,2267,21,approved,2026-01-13T09:51:57.223Z,
+2268,2268,22,approved,2026-01-14T21:58:03.100Z,Approved by manager
+2269,2269,23,approved,2026-01-11T18:52:16.600Z,Excellent performance
+2270,2270,24,approved,2026-01-16T09:34:07.383Z,Late arrival noted
+2271,2271,25,approved,2026-01-15T12:16:28.437Z,Excellent performance
+2272,2272,26,pending,,
+2273,2273,27,rejected,2026-01-14T18:35:45.624Z,Did not complete full shift
+2274,2274,28,approved,2026-01-15T19:12:45.721Z,Approved by manager
+2275,2275,29,approved,2026-01-15T18:05:40.665Z,
+2276,2276,30,approved,2026-01-13T04:56:29.941Z,
+2277,2277,31,pending,,
+2278,2278,32,approved,2026-01-16T16:33:22.428Z,Late arrival noted
+2279,2279,33,approved,2026-01-14T00:33:53.711Z,Approved by manager
+2280,2280,34,approved,2026-01-15T15:46:13.981Z,
+2281,2281,35,pending,,
+2282,2282,36,approved,2026-01-16T12:48:58.513Z,Standard approval
+2283,2283,37,approved,2026-01-16T06:48:51.628Z,Late arrival noted
+2284,2284,38,approved,2026-01-14T21:26:26.748Z,Standard approval
+2285,2285,39,approved,2026-01-15T18:03:56.603Z,
+2286,2286,40,approved,2026-01-12T13:48:47.468Z,
+2287,2287,41,approved,2026-01-13T05:51:50.383Z,
+2288,2288,42,approved,2026-01-12T19:14:53.048Z,Standard approval
+2289,2289,43,approved,2026-01-16T05:05:23.313Z,Approved by manager
+2290,2290,44,approved,2026-01-13T04:02:35.223Z,
+2291,2291,45,approved,2026-01-14T16:44:48.348Z,
+2292,2292,46,pending,,
+2293,2293,47,approved,2026-01-16T16:07:59.500Z,
+2294,2294,48,pending,,
+2295,2295,49,approved,2026-01-15T20:15:31.011Z,Approved by manager
+2296,2296,50,approved,2026-01-14T03:19:13.691Z,Standard approval
+2297,2297,51,approved,2026-01-14T02:32:52.063Z,Standard approval
+2298,2298,52,approved,2026-01-12T21:44:07.045Z,Approved by manager
+2299,2299,53,approved,2026-01-15T03:02:26.900Z,
+2300,2300,55,approved,2026-01-13T23:10:50.982Z,
+2301,2301,56,approved,2026-01-12T20:13:16.750Z,Late arrival noted
+2302,2302,57,pending,,
+2303,2303,58,approved,2026-01-13T00:39:58.118Z,Approved by manager
+2304,2304,59,rejected,2026-01-15T06:38:33.390Z,Did not complete full shift
+2305,2305,60,approved,2026-01-16T18:39:55.470Z,
+2306,2306,61,approved,2026-01-14T11:05:47.681Z,Excellent performance
+2307,2307,62,approved,2026-01-16T00:16:51.650Z,Late arrival noted
+2308,2308,64,approved,2026-01-14T13:02:55.907Z,Excellent performance
+2309,2309,65,approved,2026-01-16T13:20:17.172Z,Late arrival noted
+2310,2310,66,approved,2026-01-12T15:15:03.388Z,
+2311,2311,67,approved,2026-01-13T20:14:20.409Z,
+2312,2312,68,approved,2026-01-12T17:49:01.482Z,Approved by manager
+2313,2313,69,approved,2026-01-14T21:19:42.875Z,Standard approval
+2314,2314,70,approved,2026-01-16T13:59:29.748Z,Excellent performance
+2315,2315,71,approved,2026-01-12T10:36:47.559Z,
+2316,2316,72,approved,2026-01-15T14:24:36.996Z,Approved by manager
+2317,2317,73,approved,2026-01-15T23:38:19.826Z,
+2318,2318,74,approved,2026-01-12T18:25:50.516Z,Approved by manager
+2319,2319,75,approved,2026-01-15T05:47:00.418Z,Approved by manager
+2320,2320,77,approved,2026-01-14T13:47:38.987Z,Approved by manager
+2321,2321,78,pending,,
+2322,2322,79,approved,2026-01-14T20:44:25.146Z,Late arrival noted
+2323,2323,80,rejected,2026-01-15T06:17:33.360Z,Did not complete full shift
+2324,2324,81,approved,2026-01-14T06:31:53.831Z,Excellent performance
+2325,2325,82,rejected,2026-01-16T04:59:01.965Z,Did not complete full shift
+2326,2326,83,approved,2026-01-11T21:30:38.360Z,
+2327,2327,84,approved,2026-01-12T18:40:06.486Z,Approved by manager
+2328,2328,85,approved,2026-01-16T07:21:37.620Z,Excellent performance
+2329,2329,86,approved,2026-01-16T11:26:01.970Z,Excellent performance
+2330,2330,87,approved,2026-01-16T14:41:25.707Z,Approved by manager
+2331,2331,89,approved,2026-01-14T14:19:08.863Z,Late arrival noted
+2332,2332,90,approved,2026-01-14T09:17:09.621Z,Late arrival noted
+2333,2333,91,approved,2026-01-16T14:48:45.584Z,
+2334,2334,92,approved,2026-01-13T03:41:49.517Z,
+2335,2335,93,approved,2026-01-12T02:24:27.901Z,Excellent performance
+2336,2336,94,approved,2026-01-15T18:58:43.951Z,Standard approval
+2337,2337,95,approved,2026-01-14T22:56:54.643Z,Approved by manager
+2338,2338,96,approved,2026-01-14T08:21:35.518Z,
+2339,2339,97,approved,2026-01-14T11:47:47.368Z,Excellent performance
+2340,2340,98,approved,2026-01-16T07:48:32.902Z,Excellent performance
+2341,2341,99,approved,2026-01-12T11:31:15.899Z,Excellent performance
+2342,2342,100,approved,2026-01-12T22:07:17.744Z,
+2343,2343,101,pending,,
+2344,2344,102,approved,2026-01-16T08:06:12.665Z,Standard approval
+2345,2345,103,approved,2026-01-14T11:26:04.477Z,
+2346,2346,104,approved,2026-01-12T22:00:48.960Z,Approved by manager
+2347,2347,105,approved,2026-01-13T03:50:04.990Z,
+2348,2348,106,approved,2026-01-13T17:45:46.144Z,Late arrival noted
+2349,2349,107,approved,2026-01-15T01:12:45.655Z,
+2350,2350,108,approved,2026-01-13T21:41:32.232Z,
+2351,2351,7,approved,2026-01-14T04:11:49.008Z,Late arrival noted
+2352,2352,8,pending,,
+2353,2353,9,approved,2026-01-16T11:22:11.918Z,
+2354,2354,10,pending,,
+2355,2355,11,approved,2026-01-13T03:51:50.835Z,
+2356,2356,14,approved,2026-01-16T01:44:04.852Z,
+2357,2357,16,approved,2026-01-14T19:38:00.744Z,
+2358,2358,17,approved,2026-01-13T07:29:25.559Z,
+2359,2359,18,rejected,2026-01-13T19:25:16.404Z,Did not complete full shift
+2360,2360,20,rejected,2026-01-15T17:15:56.619Z,Did not complete full shift
+2361,2361,21,approved,2026-01-13T22:09:29.271Z,
+2362,2362,22,approved,2026-01-16T16:47:23.076Z,Excellent performance
+2363,2363,23,approved,2026-01-14T05:38:57.637Z,Excellent performance
+2364,2364,24,approved,2026-01-13T00:16:08.925Z,Excellent performance
+2365,2365,25,approved,2026-01-12T13:38:15.115Z,
+2366,2366,26,approved,2026-01-15T02:56:36.817Z,
+2367,2367,27,pending,,
+2368,2368,28,pending,,
+2369,2369,29,approved,2026-01-11T21:21:06.414Z,
+2370,2370,30,approved,2026-01-13T16:30:58.117Z,Excellent performance
+2371,2371,31,approved,2026-01-13T17:54:31.639Z,Excellent performance
+2372,2372,32,approved,2026-01-13T22:28:44.755Z,Late arrival noted
+2373,2373,33,approved,2026-01-16T11:54:04.085Z,
+2374,2374,34,approved,2026-01-13T20:26:58.670Z,
+2375,2375,35,approved,2026-01-15T06:14:30.747Z,
+2376,2376,36,approved,2026-01-15T08:53:42.802Z,Late arrival noted
+2377,2377,37,approved,2026-01-14T19:36:05.977Z,Excellent performance
+2378,2378,38,approved,2026-01-12T06:55:16.879Z,Standard approval
+2379,2379,39,approved,2026-01-14T11:03:41.033Z,
+2380,2380,40,approved,2026-01-16T12:15:57.658Z,Approved by manager
+2381,2381,41,pending,,
+2382,2382,42,approved,2026-01-12T20:14:00.091Z,Late arrival noted
+2383,2383,43,approved,2026-01-14T16:42:16.737Z,
+2384,2384,44,approved,2026-01-11T19:52:28.970Z,Approved by manager
+2385,2385,45,rejected,2026-01-16T08:16:05.939Z,Did not complete full shift
+2386,2386,46,approved,2026-01-14T10:55:29.154Z,Excellent performance
+2387,2387,47,approved,2026-01-16T10:27:07.085Z,
+2388,2388,48,approved,2026-01-14T13:05:25.149Z,Late arrival noted
+2389,2389,49,approved,2026-01-15T21:39:14.672Z,
+2390,2390,50,approved,2026-01-13T13:39:19.780Z,Approved by manager
+2391,2391,51,approved,2026-01-16T17:14:15.204Z,
+2392,2392,52,approved,2026-01-12T07:02:52.675Z,
+2393,2393,53,approved,2026-01-13T10:38:15.773Z,Excellent performance
+2394,2394,55,approved,2026-01-14T17:31:45.063Z,
+2395,2395,56,approved,2026-01-11T19:46:26.942Z,
+2396,2396,57,approved,2026-01-13T07:35:33.380Z,
+2397,2397,58,approved,2026-01-16T09:04:01.154Z,Excellent performance
+2398,2398,59,approved,2026-01-13T01:27:40.470Z,Excellent performance
+2399,2399,60,approved,2026-01-14T07:09:31.871Z,Standard approval
+2400,2400,61,approved,2026-01-14T23:49:55.849Z,
+2401,2401,62,approved,2026-01-14T20:31:02.278Z,
+2402,2402,64,approved,2026-01-12T09:51:49.429Z,Excellent performance
+2403,2403,65,approved,2026-01-16T04:20:01.076Z,Standard approval
+2404,2404,66,approved,2026-01-14T01:52:16.287Z,
+2405,2405,67,approved,2026-01-13T11:02:39.690Z,Excellent performance
+2406,2406,68,rejected,2026-01-13T19:54:07.004Z,Did not complete full shift
+2407,2407,69,approved,2026-01-12T05:15:56.375Z,Late arrival noted
+2408,2408,70,approved,2026-01-15T00:09:13.780Z,Standard approval
+2409,2409,71,approved,2026-01-15T08:29:56.598Z,Excellent performance
+2410,2410,72,approved,2026-01-14T05:27:18.339Z,
+2411,2411,73,approved,2026-01-14T17:57:46.789Z,
+2412,2412,74,approved,2026-01-14T22:47:22.181Z,Standard approval
+2413,2413,75,approved,2026-01-13T18:39:15.398Z,Approved by manager
+2414,2414,77,approved,2026-01-15T08:04:27.113Z,
+2415,2415,78,rejected,2026-01-16T14:44:47.905Z,Did not complete full shift
+2416,2416,79,approved,2026-01-12T09:44:16.228Z,Excellent performance
+2417,2417,80,approved,2026-01-15T04:11:25.716Z,
+2418,2418,81,approved,2026-01-16T14:59:17.357Z,
+2419,2419,82,approved,2026-01-14T10:09:24.389Z,
+2420,2420,83,approved,2026-01-14T12:17:05.372Z,
+2421,2421,84,approved,2026-01-12T18:15:40.581Z,
+2422,2422,85,approved,2026-01-11T20:48:04.864Z,
+2423,2423,86,approved,2026-01-15T06:23:37.615Z,Excellent performance
+2424,2424,87,approved,2026-01-16T16:38:35.553Z,Excellent performance
+2425,2425,89,rejected,2026-01-16T03:20:07.408Z,Did not complete full shift
+2426,2426,90,approved,2026-01-15T19:02:10.707Z,Approved by manager
+2427,2427,91,approved,2026-01-12T20:27:06.075Z,
+2428,2428,92,approved,2026-01-12T15:16:28.338Z,
+2429,2429,93,pending,,
+2430,2430,94,rejected,2026-01-16T15:36:53.938Z,Did not complete full shift
+2431,2431,95,approved,2026-01-11T23:23:20.672Z,Excellent performance
+2432,2432,96,approved,2026-01-14T14:01:32.690Z,Approved by manager
+2433,2433,97,pending,,
+2434,2434,98,approved,2026-01-16T04:09:34.339Z,Standard approval
+2435,2435,99,approved,2026-01-15T23:45:19.257Z,Standard approval
+2436,2436,100,approved,2026-01-15T10:54:12.910Z,
+2437,2437,101,approved,2026-01-13T02:44:12.815Z,Excellent performance
+2438,2438,102,pending,,
+2439,2439,103,pending,,
+2440,2440,104,approved,2026-01-12T02:20:02.679Z,Excellent performance
+2441,2441,105,pending,,
+2442,2442,106,pending,,
+2443,2443,107,pending,,
+2444,2444,108,approved,2026-01-16T09:52:53.321Z,
+2445,2445,7,rejected,2026-01-14T10:11:55.001Z,Did not complete full shift
+2446,2446,8,approved,2026-01-14T15:13:08.970Z,Excellent performance
+2447,2447,9,approved,2026-01-14T11:25:10.499Z,Approved by manager
+2448,2448,10,approved,2026-01-13T01:55:42.226Z,Approved by manager
+2449,2449,11,approved,2026-01-16T06:49:03.572Z,Late arrival noted
+2450,2450,14,approved,2026-01-14T07:43:30.116Z,Excellent performance
+2451,2451,16,approved,2026-01-15T10:50:23.727Z,
+2452,2452,17,approved,2026-01-13T16:03:11.720Z,Approved by manager
+2453,2453,18,rejected,2026-01-15T23:57:03.871Z,Did not complete full shift
+2454,2454,20,approved,2026-01-11T23:36:30.376Z,Excellent performance
+2455,2455,21,approved,2026-01-14T13:41:17.021Z,Late arrival noted
+2456,2456,22,approved,2026-01-13T13:04:11.868Z,Excellent performance
+2457,2457,23,approved,2026-01-14T21:38:45.182Z,
+2458,2458,24,approved,2026-01-14T22:05:16.187Z,
+2459,2459,25,approved,2026-01-16T15:02:03.622Z,
+2460,2460,26,approved,2026-01-14T04:38:47.620Z,Standard approval
+2461,2461,27,approved,2026-01-12T20:45:27.648Z,
+2462,2462,28,approved,2026-01-14T06:24:58.274Z,
+2463,2463,29,approved,2026-01-14T12:16:19.885Z,
+2464,2464,30,approved,2026-01-13T09:59:18.183Z,
+2465,2465,31,pending,,
+2466,2466,32,approved,2026-01-13T22:27:26.100Z,Excellent performance
+2467,2467,33,approved,2026-01-14T13:37:58.079Z,Approved by manager
+2468,2468,34,approved,2026-01-16T01:21:34.976Z,Late arrival noted
+2469,2469,35,approved,2026-01-15T03:27:30.352Z,Excellent performance
+2470,2470,36,approved,2026-01-12T16:30:49.898Z,
+2471,2471,37,approved,2026-01-15T07:52:28.821Z,Approved by manager
+2472,2472,38,approved,2026-01-16T15:06:33.334Z,Standard approval
+2473,2473,39,approved,2026-01-13T06:44:22.792Z,Standard approval
+2474,2474,40,approved,2026-01-13T16:00:51.761Z,
+2475,2475,41,approved,2026-01-14T05:41:16.986Z,Standard approval
+2476,2476,42,approved,2026-01-12T20:44:35.424Z,Excellent performance
+2477,2477,43,approved,2026-01-13T12:51:21.107Z,Standard approval
+2478,2478,44,approved,2026-01-16T11:41:54.217Z,
+2479,2479,45,approved,2026-01-15T03:52:33.450Z,Approved by manager
+2480,2480,46,approved,2026-01-16T01:26:13.681Z,Approved by manager
+2481,2481,47,rejected,2026-01-15T09:56:50.924Z,Did not complete full shift
+2482,2482,48,approved,2026-01-13T19:11:45.411Z,Approved by manager
+2483,2483,49,pending,,
+2484,2484,50,approved,2026-01-13T15:54:39.176Z,Excellent performance
+2485,2485,51,approved,2026-01-13T10:29:12.021Z,Standard approval
+2486,2486,52,approved,2026-01-15T04:58:11.232Z,Standard approval
+2487,2487,53,pending,,
+2488,2488,55,approved,2026-01-14T01:59:11.065Z,Excellent performance
+2489,2489,56,approved,2026-01-15T07:48:15.553Z,
+2490,2490,57,approved,2026-01-12T05:47:16.687Z,Excellent performance
+2491,2491,58,approved,2026-01-14T12:13:44.645Z,
+2492,2492,59,approved,2026-01-16T06:08:40.820Z,
+2493,2493,60,approved,2026-01-16T06:32:34.423Z,
+2494,2494,61,approved,2026-01-14T21:36:44.547Z,Late arrival noted
+2495,2495,62,approved,2026-01-16T04:17:25.928Z,Standard approval
+2496,2496,64,approved,2026-01-12T09:15:37.380Z,Approved by manager
+2497,2497,65,approved,2026-01-13T23:36:01.252Z,
+2498,2498,66,approved,2026-01-15T07:02:29.259Z,Approved by manager
+2499,2499,67,approved,2026-01-13T22:49:47.111Z,
+2500,2500,68,approved,2026-01-15T12:50:26.667Z,Standard approval
+2501,2501,69,approved,2026-01-14T14:21:16.297Z,
+2502,2502,70,approved,2026-01-12T12:25:18.294Z,Standard approval
+2503,2503,71,approved,2026-01-13T19:29:33.002Z,
+2504,2504,72,approved,2026-01-12T06:28:42.870Z,Approved by manager
+2505,2505,73,pending,,
+2506,2506,74,approved,2026-01-12T16:58:07.684Z,Excellent performance
+2507,2507,75,approved,2026-01-14T05:50:01.835Z,
+2508,2508,77,approved,2026-01-13T12:14:11.039Z,Standard approval
+2509,2509,78,approved,2026-01-15T00:02:54.438Z,Standard approval
+2510,2510,79,approved,2026-01-14T18:13:53.762Z,
+2511,2511,80,approved,2026-01-13T02:32:48.879Z,Approved by manager
+2512,2512,81,approved,2026-01-12T10:03:12.258Z,Approved by manager
+2513,2513,82,pending,,
+2514,2514,83,pending,,
+2515,2515,84,pending,,
+2516,2516,85,approved,2026-01-16T01:00:50.437Z,Standard approval
+2517,2517,86,pending,,
+2518,2518,87,approved,2026-01-16T07:01:09.092Z,Late arrival noted
+2519,2519,89,approved,2026-01-13T13:46:12.844Z,
+2520,2520,90,approved,2026-01-15T23:00:24.570Z,Approved by manager
+2521,2521,91,approved,2026-01-14T03:04:38.291Z,
+2522,2522,92,approved,2026-01-15T11:27:22.059Z,Late arrival noted
+2523,2523,93,approved,2026-01-14T13:42:48.039Z,
+2524,2524,94,approved,2026-01-15T23:18:20.730Z,Standard approval
+2525,2525,95,approved,2026-01-13T00:05:14.237Z,Approved by manager
+2526,2526,96,pending,,
+2527,2527,97,approved,2026-01-14T04:30:51.502Z,Approved by manager
+2528,2528,98,approved,2026-01-13T03:49:33.719Z,Standard approval
+2529,2529,99,approved,2026-01-12T09:17:05.610Z,
+2530,2530,100,approved,2026-01-15T16:54:32.562Z,
+2531,2531,101,approved,2026-01-14T13:48:58.004Z,
+2532,2532,102,approved,2026-01-14T17:31:30.741Z,
+2533,2533,103,pending,,
+2534,2534,104,approved,2026-01-16T11:48:04.067Z,
+2535,2535,105,approved,2026-01-13T20:46:22.598Z,Excellent performance
+2536,2536,106,approved,2026-01-12T04:31:45.486Z,Late arrival noted
+2537,2537,107,approved,2026-01-14T17:38:12.115Z,Approved by manager
+2538,2538,108,approved,2026-01-13T17:53:27.400Z,
+2539,2539,7,approved,2026-01-14T22:35:48.564Z,
+2540,2540,8,approved,2026-01-14T03:51:40.455Z,Excellent performance
+2541,2541,9,approved,2026-01-12T23:19:05.331Z,Excellent performance
+2542,2542,10,approved,2026-01-14T10:13:12.734Z,Standard approval
+2543,2543,11,approved,2026-01-13T11:09:00.008Z,
+2544,2544,14,approved,2026-01-13T08:20:03.624Z,Approved by manager
+2545,2545,16,approved,2026-01-13T08:00:33.443Z,
+2546,2546,17,approved,2026-01-13T11:01:12.586Z,Excellent performance
+2547,2547,18,approved,2026-01-13T18:18:54.767Z,Excellent performance
+2548,2548,20,approved,2026-01-12T22:10:23.633Z,
+2549,2549,21,approved,2026-01-14T15:52:17.116Z,
+2550,2550,22,approved,2026-01-16T13:52:41.925Z,
+2551,2551,23,approved,2026-01-15T20:59:26.590Z,
+2552,2552,24,approved,2026-01-11T22:45:36.386Z,Excellent performance
+2553,2553,25,approved,2026-01-13T07:50:02.605Z,Late arrival noted
+2554,2554,26,approved,2026-01-12T18:58:01.061Z,Standard approval
+2555,2555,27,approved,2026-01-16T00:29:05.206Z,
+2556,2556,28,approved,2026-01-15T23:04:18.994Z,
+2557,2557,29,approved,2026-01-15T16:17:54.172Z,Late arrival noted
+2558,2558,30,pending,,
+2559,2559,31,approved,2026-01-13T20:30:55.150Z,
+2560,2560,32,approved,2026-01-13T05:08:51.467Z,Excellent performance
+2561,2561,33,pending,,
+2562,2562,34,approved,2026-01-14T22:10:14.127Z,Standard approval
+2563,2563,35,approved,2026-01-16T14:47:56.408Z,
+2564,2564,36,approved,2026-01-13T18:50:12.046Z,
+2565,2565,37,approved,2026-01-16T04:49:46.186Z,Late arrival noted
+2566,2566,38,approved,2026-01-12T01:23:04.370Z,Late arrival noted
+2567,2567,39,approved,2026-01-12T16:40:23.329Z,Standard approval
+2568,2568,40,approved,2026-01-12T22:19:52.674Z,Excellent performance
+2569,2569,41,pending,,
+2570,2570,42,approved,2026-01-16T08:32:21.222Z,Standard approval
+2571,2571,43,approved,2026-01-15T16:31:23.344Z,Excellent performance
+2572,2572,44,approved,2026-01-12T20:59:29.179Z,Excellent performance
+2573,2573,45,approved,2026-01-16T15:04:54.162Z,
+2574,2574,46,pending,,
+2575,2575,47,pending,,
+2576,2576,48,approved,2026-01-12T07:43:44.089Z,Late arrival noted
+2577,2577,49,approved,2026-01-16T18:03:04.893Z,Excellent performance
+2578,2578,50,approved,2026-01-15T14:01:54.808Z,
+2579,2579,51,approved,2026-01-16T16:59:16.590Z,
+2580,2580,52,approved,2026-01-12T21:48:45.178Z,Excellent performance
+2581,2581,53,approved,2026-01-14T04:07:44.106Z,Late arrival noted
+2582,2582,55,approved,2026-01-14T23:40:14.034Z,Excellent performance
+2583,2583,56,approved,2026-01-14T23:34:29.432Z,
+2584,2584,57,approved,2026-01-13T22:37:48.708Z,Approved by manager
+2585,2585,58,approved,2026-01-16T04:05:46.530Z,Excellent performance
+2586,2586,59,approved,2026-01-15T22:29:55.534Z,Excellent performance
+2587,2587,60,approved,2026-01-11T19:38:34.754Z,
+2588,2588,61,approved,2026-01-12T18:11:40.905Z,Standard approval
+2589,2589,62,rejected,2026-01-14T20:59:55.832Z,Did not complete full shift
+2590,2590,64,approved,2026-01-14T04:46:35.434Z,Late arrival noted
+2591,2591,65,pending,,
+2592,2592,66,approved,2026-01-16T07:05:42.093Z,
+2593,2593,67,approved,2026-01-13T04:59:03.706Z,Standard approval
+2594,2594,68,approved,2026-01-15T23:46:23.383Z,
+2595,2595,69,approved,2026-01-14T00:31:28.924Z,Excellent performance
+2596,2596,70,pending,,
+2597,2597,71,pending,,
+2598,2598,72,approved,2026-01-12T14:50:20.748Z,Standard approval
+2599,2599,73,pending,,
+2600,2600,74,approved,2026-01-16T14:06:26.425Z,Approved by manager
+2601,2601,75,approved,2026-01-15T19:16:58.865Z,Standard approval
+2602,2602,77,pending,,
+2603,2603,78,pending,,
+2604,2604,79,approved,2026-01-11T21:32:44.817Z,
+2605,2605,80,approved,2026-01-11T22:24:38.405Z,Late arrival noted
+2606,2606,81,pending,,
+2607,2607,82,approved,2026-01-14T05:58:19.778Z,
+2608,2608,83,approved,2026-01-13T06:09:17.676Z,Late arrival noted
+2609,2609,84,approved,2026-01-13T19:11:55.187Z,Approved by manager
+2610,2610,85,approved,2026-01-16T02:00:16.160Z,
+2611,2611,86,approved,2026-01-14T11:11:48.248Z,Late arrival noted
+2612,2612,87,approved,2026-01-14T14:55:02.783Z,
+2613,2613,89,approved,2026-01-12T23:41:11.461Z,Excellent performance
+2614,2614,90,approved,2026-01-16T15:39:30.495Z,Late arrival noted
+2615,2615,91,rejected,2026-01-14T14:53:16.201Z,Did not complete full shift
+2616,2616,92,approved,2026-01-13T12:28:23.830Z,Late arrival noted
+2617,2617,93,rejected,2026-01-15T01:37:41.061Z,Did not complete full shift
+2618,2618,94,approved,2026-01-14T07:43:10.785Z,Standard approval
+2619,2619,95,approved,2026-01-14T16:47:46.169Z,Approved by manager
+2620,2620,96,approved,2026-01-14T16:25:59.666Z,Approved by manager
+2621,2621,97,approved,2026-01-16T02:31:58.572Z,Excellent performance
+2622,2622,98,approved,2026-01-15T09:54:15.604Z,
+2623,2623,99,rejected,2026-01-15T16:14:10.450Z,Did not complete full shift
+2624,2624,100,approved,2026-01-16T01:26:39.043Z,
+2625,2625,101,approved,2026-01-12T19:06:02.064Z,
+2626,2626,102,approved,2026-01-16T18:08:29.190Z,Standard approval
+2627,2627,103,approved,2026-01-16T11:14:23.385Z,Late arrival noted
+2628,2628,104,approved,2026-01-12T13:54:23.259Z,Late arrival noted
+2629,2629,105,approved,2026-01-14T16:26:58.619Z,Standard approval
+2630,2630,106,approved,2026-01-16T13:34:52.187Z,
+2631,2631,107,approved,2026-01-13T06:48:09.963Z,
+2632,2632,108,approved,2026-01-13T18:01:49.770Z,Excellent performance
+2633,2633,7,approved,2026-01-12T12:35:11.817Z,Excellent performance
+2634,2634,8,approved,2026-01-16T18:39:03.887Z,Standard approval
+2635,2635,9,approved,2026-01-12T18:30:00.115Z,Standard approval
+2636,2636,10,pending,,
+2637,2637,11,rejected,2026-01-14T22:07:29.519Z,Did not complete full shift
+2638,2638,14,rejected,2026-01-14T22:36:01.859Z,Did not complete full shift
+2639,2639,16,approved,2026-01-13T05:46:09.158Z,Excellent performance
+2640,2640,17,approved,2026-01-16T00:38:56.212Z,
+2641,2641,18,pending,,
+2642,2642,20,approved,2026-01-12T12:08:42.065Z,
+2643,2643,21,approved,2026-01-13T02:07:21.641Z,Late arrival noted
+2644,2644,22,approved,2026-01-16T14:51:41.970Z,
+2645,2645,23,pending,,
+2646,2646,24,approved,2026-01-14T11:00:32.715Z,Approved by manager
+2647,2647,25,approved,2026-01-16T10:25:48.724Z,
+2648,2648,26,approved,2026-01-12T11:37:06.785Z,
+2649,2649,27,approved,2026-01-13T04:51:52.324Z,
+2650,2650,28,approved,2026-01-12T07:46:33.172Z,Excellent performance
+2651,2651,29,approved,2026-01-11T19:03:45.919Z,Standard approval
+2652,2652,30,approved,2026-01-12T00:57:32.270Z,Approved by manager
+2653,2653,31,approved,2026-01-12T10:34:58.872Z,
+2654,2654,32,approved,2026-01-15T09:54:10.251Z,Approved by manager
+2655,2655,33,approved,2026-01-15T19:42:09.972Z,Approved by manager
+2656,2656,34,approved,2026-01-12T15:20:47.410Z,
+2657,2657,35,pending,,
+2658,2658,36,approved,2026-01-15T11:57:16.490Z,Excellent performance
+2659,2659,37,approved,2026-01-13T08:43:51.547Z,Excellent performance
+2660,2660,38,approved,2026-01-15T08:32:07.511Z,Late arrival noted
+2661,2661,39,approved,2026-01-14T21:59:32.015Z,
+2662,2662,40,rejected,2026-01-15T12:34:16.855Z,Did not complete full shift
+2663,2663,41,approved,2026-01-11T21:38:16.971Z,Excellent performance
+2664,2664,42,approved,2026-01-13T05:48:38.085Z,Excellent performance
+2665,2665,43,approved,2026-01-14T02:54:27.054Z,Approved by manager
+2666,2666,44,approved,2026-01-15T05:53:16.184Z,
+2667,2667,45,approved,2026-01-16T03:14:50.451Z,
+2668,2668,46,approved,2026-01-16T10:41:09.633Z,Approved by manager
+2669,2669,47,approved,2026-01-14T19:56:19.379Z,Late arrival noted
+2670,2670,48,approved,2026-01-16T10:58:01.830Z,Excellent performance
+2671,2671,49,approved,2026-01-12T20:07:41.762Z,
+2672,2672,50,approved,2026-01-12T13:44:08.796Z,Late arrival noted
+2673,2673,51,pending,,
+2674,2674,52,approved,2026-01-14T10:35:16.734Z,Excellent performance
+2675,2675,53,approved,2026-01-12T21:48:43.401Z,
+2676,2676,55,approved,2026-01-13T14:53:18.445Z,Standard approval
+2677,2677,56,approved,2026-01-13T20:50:01.734Z,Standard approval
+2678,2678,57,approved,2026-01-12T13:13:03.512Z,Standard approval
+2679,2679,58,approved,2026-01-15T11:54:23.537Z,
+2680,2680,59,rejected,2026-01-16T00:24:13.473Z,Did not complete full shift
+2681,2681,60,rejected,2026-01-16T14:07:49.658Z,Did not complete full shift
+2682,2682,61,approved,2026-01-12T20:56:13.398Z,Standard approval
+2683,2683,62,pending,,
+2684,2684,64,rejected,2026-01-14T22:50:53.689Z,Did not complete full shift
+2685,2685,65,approved,2026-01-12T08:08:29.650Z,Approved by manager
+2686,2686,66,approved,2026-01-12T10:40:11.722Z,Late arrival noted
+2687,2687,67,pending,,
+2688,2688,68,approved,2026-01-15T11:22:11.036Z,Standard approval
+2689,2689,69,approved,2026-01-16T00:49:40.560Z,
+2690,2690,70,pending,,
+2691,2691,71,approved,2026-01-11T20:53:28.321Z,Approved by manager
+2692,2692,72,approved,2026-01-12T15:45:09.505Z,Late arrival noted
+2693,2693,73,approved,2026-01-16T10:15:03.542Z,Standard approval
+2694,2694,74,approved,2026-01-12T12:49:41.158Z,Standard approval
+2695,2695,75,approved,2026-01-12T20:22:44.107Z,
+2696,2696,77,approved,2026-01-14T06:48:12.995Z,Excellent performance
+2697,2697,78,approved,2026-01-16T01:44:13.218Z,
+2698,2698,79,approved,2026-01-16T13:42:37.097Z,Late arrival noted
+2699,2699,80,approved,2026-01-12T08:09:05.262Z,Excellent performance
+2700,2700,81,approved,2026-01-15T13:06:50.190Z,Excellent performance
+2701,2701,82,approved,2026-01-11T19:28:00.375Z,
+2702,2702,83,approved,2026-01-12T19:07:18.918Z,
+2703,2703,84,approved,2026-01-15T18:11:30.906Z,
+2704,2704,85,pending,,
+2705,2705,86,approved,2026-01-13T22:47:11.418Z,Excellent performance
+2706,2706,87,approved,2026-01-13T05:58:06.154Z,
+2707,2707,89,pending,,
+2708,2708,90,approved,2026-01-14T13:23:22.451Z,Late arrival noted
+2709,2709,91,approved,2026-01-12T18:17:09.962Z,Approved by manager
+2710,2710,92,approved,2026-01-15T15:27:48.798Z,
+2711,2711,93,approved,2026-01-15T12:48:25.537Z,Excellent performance
+2712,2712,94,approved,2026-01-15T01:03:06.125Z,Approved by manager
+2713,2713,95,approved,2026-01-16T07:39:57.309Z,Excellent performance
+2714,2714,96,approved,2026-01-16T02:59:45.990Z,Excellent performance
+2715,2715,97,approved,2026-01-14T16:25:28.146Z,
+2716,2716,98,approved,2026-01-14T00:18:10.242Z,
+2717,2717,99,approved,2026-01-12T14:34:17.597Z,Standard approval
+2718,2718,100,approved,2026-01-14T09:34:15.632Z,
+2719,2719,101,approved,2026-01-11T18:47:57.965Z,
+2720,2720,102,approved,2026-01-13T00:31:35.754Z,
+2721,2721,103,approved,2026-01-15T16:32:34.952Z,Approved by manager
+2722,2722,104,approved,2026-01-16T02:54:15.755Z,
+2723,2723,105,approved,2026-01-13T15:50:44.638Z,
+2724,2724,106,rejected,2026-01-14T03:39:20.289Z,Did not complete full shift
+2725,2725,107,approved,2026-01-13T00:53:46.115Z,
+2726,2726,108,approved,2026-01-13T12:56:26.919Z,Approved by manager
+2727,2727,7,approved,2026-01-14T02:34:39.238Z,Approved by manager
+2728,2728,8,approved,2026-01-16T10:33:55.472Z,Approved by manager
+2729,2729,9,approved,2026-01-14T13:35:32.346Z,Standard approval
+2730,2730,10,approved,2026-01-16T00:10:13.130Z,Approved by manager
+2731,2731,11,approved,2026-01-16T04:02:23.587Z,
+2732,2732,14,approved,2026-01-14T10:52:34.874Z,Standard approval
+2733,2733,16,approved,2026-01-13T20:55:08.433Z,Standard approval
+2734,2734,17,approved,2026-01-13T07:46:21.427Z,
+2735,2735,18,approved,2026-01-15T14:11:44.595Z,Standard approval
+2736,2736,20,approved,2026-01-15T16:12:33.086Z,Excellent performance
+2737,2737,21,approved,2026-01-12T23:50:43.857Z,Late arrival noted
+2738,2738,22,approved,2026-01-14T04:32:56.307Z,
+2739,2739,23,approved,2026-01-13T17:21:23.843Z,
+2740,2740,24,approved,2026-01-15T23:56:07.848Z,Standard approval
+2741,2741,25,approved,2026-01-13T07:02:13.654Z,Late arrival noted
+2742,2742,26,approved,2026-01-13T12:41:53.379Z,
+2743,2743,27,pending,,
+2744,2744,28,approved,2026-01-15T16:43:15.881Z,Late arrival noted
+2745,2745,29,approved,2026-01-15T13:01:55.395Z,
+2746,2746,30,approved,2026-01-14T14:56:28.113Z,
+2747,2747,31,approved,2026-01-15T20:18:45.830Z,
+2748,2748,32,approved,2026-01-15T23:56:54.714Z,
+2749,2749,33,approved,2026-01-15T21:19:13.711Z,
+2750,2750,34,approved,2026-01-13T21:19:08.878Z,Late arrival noted
+2751,2751,35,approved,2026-01-11T22:48:16.083Z,
+2752,2752,36,approved,2026-01-16T05:10:08.456Z,Approved by manager
+2753,2753,37,pending,,
+2754,2754,38,approved,2026-01-16T06:18:09.291Z,Approved by manager
+2755,2755,39,approved,2026-01-12T14:33:17.822Z,Late arrival noted
+2756,2756,40,approved,2026-01-13T17:11:51.768Z,Standard approval
+2757,2757,41,approved,2026-01-16T14:10:14.877Z,Late arrival noted
+2758,2758,42,approved,2026-01-16T17:37:56.359Z,Standard approval
+2759,2759,43,approved,2026-01-13T20:49:10.457Z,Standard approval
+2760,2760,44,approved,2026-01-11T21:20:09.382Z,Standard approval
+2761,2761,45,approved,2026-01-11T23:05:03.560Z,Late arrival noted
+2762,2762,46,approved,2026-01-12T08:13:41.643Z,
+2763,2763,47,approved,2026-01-16T02:50:07.188Z,
+2764,2764,48,approved,2026-01-13T21:41:08.629Z,
+2765,2765,49,approved,2026-01-13T08:01:29.774Z,Excellent performance
+2766,2766,50,approved,2026-01-12T09:54:46.001Z,Approved by manager
+2767,2767,51,approved,2026-01-15T07:15:51.345Z,Standard approval
+2768,2768,52,approved,2026-01-13T16:13:37.900Z,
+2769,2769,53,approved,2026-01-13T15:45:35.110Z,
+2770,2770,55,approved,2026-01-15T05:01:43.133Z,Approved by manager
+2771,2771,56,approved,2026-01-14T09:25:12.068Z,Standard approval
+2772,2772,57,approved,2026-01-13T14:01:33.055Z,
+2773,2773,58,approved,2026-01-15T11:14:40.648Z,Approved by manager
+2774,2774,59,approved,2026-01-15T21:56:04.174Z,Late arrival noted
+2775,2775,60,approved,2026-01-15T09:53:17.917Z,Standard approval
+2776,2776,61,approved,2026-01-14T21:01:06.312Z,Excellent performance
+2777,2777,62,rejected,2026-01-14T09:43:33.172Z,Did not complete full shift
+2778,2778,64,approved,2026-01-13T22:49:51.070Z,Excellent performance
+2779,2779,65,approved,2026-01-14T03:55:25.680Z,
+2780,2780,66,approved,2026-01-14T13:50:15.875Z,Standard approval
+2781,2781,67,approved,2026-01-12T21:00:40.875Z,
+2782,2782,68,approved,2026-01-15T11:51:09.299Z,Late arrival noted
+2783,2783,69,approved,2026-01-13T00:49:23.557Z,Standard approval
+2784,2784,70,approved,2026-01-13T12:43:56.385Z,Approved by manager
+2785,2785,71,approved,2026-01-13T12:04:41.301Z,Standard approval
+2786,2786,72,approved,2026-01-12T08:49:50.754Z,Standard approval
+2787,2787,73,approved,2026-01-14T08:21:58.770Z,Standard approval
+2788,2788,74,approved,2026-01-12T11:46:51.995Z,Standard approval
+2789,2789,75,pending,,
+2790,2790,77,approved,2026-01-13T01:56:24.378Z,Excellent performance
+2791,2791,78,rejected,2026-01-15T14:57:58.046Z,Did not complete full shift
+2792,2792,79,pending,,
+2793,2793,80,approved,2026-01-14T03:27:28.758Z,Approved by manager
+2794,2794,81,approved,2026-01-15T06:58:39.510Z,Standard approval
+2795,2795,82,approved,2026-01-15T14:41:49.363Z,Standard approval
+2796,2796,83,approved,2026-01-15T04:10:29.180Z,Standard approval
+2797,2797,84,approved,2026-01-16T10:32:40.798Z,
+2798,2798,85,approved,2026-01-12T04:25:02.263Z,Approved by manager
+2799,2799,86,approved,2026-01-16T06:02:24.005Z,Late arrival noted
+2800,2800,87,approved,2026-01-16T07:11:52.599Z,
+2801,2801,89,approved,2026-01-16T06:04:31.427Z,Standard approval
+2802,2802,90,approved,2026-01-15T18:57:36.323Z,Approved by manager
+2803,2803,91,approved,2026-01-15T03:15:51.244Z,Approved by manager
+2804,2804,92,approved,2026-01-16T09:44:32.544Z,Standard approval
+2805,2805,93,approved,2026-01-13T21:22:53.079Z,Excellent performance
+2806,2806,94,approved,2026-01-15T16:19:34.333Z,Standard approval
+2807,2807,95,rejected,2026-01-16T11:41:11.612Z,Did not complete full shift
+2808,2808,96,approved,2026-01-12T06:42:46.615Z,Excellent performance
+2809,2809,97,approved,2026-01-13T06:14:34.564Z,
+2810,2810,98,approved,2026-01-13T21:08:26.018Z,Late arrival noted
+2811,2811,99,approved,2026-01-15T10:01:16.900Z,Excellent performance
+2812,2812,100,approved,2026-01-15T12:58:04.605Z,Excellent performance
+2813,2813,101,approved,2026-01-15T05:20:53.358Z,Late arrival noted
+2814,2814,102,rejected,2026-01-15T23:21:30.564Z,Did not complete full shift
+2815,2815,103,rejected,2026-01-16T15:58:46.354Z,Did not complete full shift
+2816,2816,104,approved,2026-01-12T14:11:18.171Z,Standard approval
+2817,2817,105,pending,,
+2818,2818,106,approved,2026-01-14T22:40:01.516Z,Standard approval
+2819,2819,107,approved,2026-01-12T16:09:27.721Z,Excellent performance
+2820,2820,108,approved,2026-01-15T08:51:40.497Z,
+2821,2821,7,approved,2026-01-13T12:15:24.807Z,Excellent performance
+2822,2822,8,approved,2026-01-15T20:56:05.936Z,Standard approval
+2823,2823,9,approved,2026-01-13T15:22:48.120Z,Late arrival noted
+2824,2824,10,approved,2026-01-12T00:17:17.489Z,Excellent performance
+2825,2825,11,approved,2026-01-12T17:16:58.241Z,
+2826,2826,14,approved,2026-01-14T14:18:38.736Z,Late arrival noted
+2827,2827,16,approved,2026-01-13T05:10:32.303Z,
+2828,2828,17,approved,2026-01-16T01:47:24.263Z,Excellent performance
+2829,2829,18,approved,2026-01-13T03:18:18.124Z,
+2830,2830,20,rejected,2026-01-16T04:45:08.719Z,Did not complete full shift
+2831,2831,21,approved,2026-01-14T10:28:23.216Z,Excellent performance
+2832,2832,22,approved,2026-01-14T06:42:18.794Z,
+2833,2833,23,approved,2026-01-11T20:11:59.743Z,
+2834,2834,24,approved,2026-01-13T05:28:43.229Z,
+2835,2835,25,approved,2026-01-12T10:45:20.154Z,
+2836,2836,26,rejected,2026-01-14T15:47:43.670Z,Did not complete full shift
+2837,2837,27,approved,2026-01-15T19:02:44.882Z,Approved by manager
+2838,2838,28,pending,,
+2839,2839,29,approved,2026-01-13T11:49:16.876Z,Standard approval
+2840,2840,30,approved,2026-01-15T19:45:42.564Z,
+2841,2841,31,approved,2026-01-12T20:53:58.100Z,Standard approval
+2842,2842,32,approved,2026-01-12T03:40:32.431Z,Excellent performance
+2843,2843,33,approved,2026-01-14T18:42:01.469Z,Late arrival noted
+2844,2844,34,approved,2026-01-13T23:26:47.948Z,
+2845,2845,35,approved,2026-01-12T09:39:43.769Z,Standard approval
+2846,2846,36,approved,2026-01-12T13:20:21.668Z,Standard approval
+2847,2847,37,approved,2026-01-15T14:29:39.963Z,
+2848,2848,38,rejected,2026-01-16T09:31:11.187Z,Did not complete full shift
+2849,2849,39,approved,2026-01-14T15:34:36.141Z,Approved by manager
+2850,2850,40,approved,2026-01-13T16:31:12.230Z,Excellent performance
+2851,2851,41,approved,2026-01-15T12:30:18.110Z,Late arrival noted
+2852,2852,42,approved,2026-01-14T10:05:32.538Z,Excellent performance
+2853,2853,43,approved,2026-01-11T20:25:40.052Z,Standard approval
+2854,2854,44,approved,2026-01-15T18:36:05.267Z,Excellent performance
+2855,2855,45,approved,2026-01-14T12:01:46.278Z,Standard approval
+2856,2856,46,approved,2026-01-14T03:48:42.979Z,Late arrival noted
+2857,2857,47,approved,2026-01-16T04:12:33.813Z,Excellent performance
+2858,2858,48,approved,2026-01-12T23:56:13.367Z,Excellent performance
+2859,2859,49,pending,,
+2860,2860,50,approved,2026-01-14T22:35:29.337Z,Approved by manager
+2861,2861,51,approved,2026-01-11T19:38:55.583Z,Approved by manager
+2862,2862,52,approved,2026-01-16T02:08:11.076Z,Excellent performance
+2863,2863,53,approved,2026-01-15T09:28:44.185Z,Standard approval
+2864,2864,55,approved,2026-01-13T12:16:55.296Z,
+2865,2865,56,approved,2026-01-13T14:56:26.950Z,
+2866,2866,57,approved,2026-01-14T21:38:30.235Z,Standard approval
+2867,2867,58,approved,2026-01-15T06:29:39.279Z,Standard approval
+2868,2868,59,approved,2026-01-13T03:41:14.558Z,Approved by manager
+2869,2869,60,approved,2026-01-11T22:29:13.661Z,Standard approval
+2870,2870,61,approved,2026-01-12T20:15:36.765Z,Late arrival noted
+2871,2871,62,approved,2026-01-12T18:59:35.610Z,Standard approval
+2872,2872,64,pending,,
+2873,2873,65,approved,2026-01-13T18:06:58.473Z,Approved by manager
+2874,2874,66,rejected,2026-01-15T03:55:38.051Z,Did not complete full shift
+2875,2875,67,pending,,
+2876,2876,68,approved,2026-01-11T19:59:38.233Z,Approved by manager
+2877,2877,69,approved,2026-01-15T21:21:02.846Z,Excellent performance
+2878,2878,70,pending,,
+2879,2879,71,approved,2026-01-14T00:49:08.301Z,
+2880,2880,72,approved,2026-01-14T02:18:01.149Z,Standard approval
+2881,2881,73,approved,2026-01-14T02:03:49.879Z,Excellent performance
+2882,2882,74,approved,2026-01-12T22:10:15.131Z,Approved by manager
+2883,2883,75,approved,2026-01-14T22:37:22.831Z,Late arrival noted
+2884,2884,77,approved,2026-01-14T11:37:58.913Z,Excellent performance
+2885,2885,78,approved,2026-01-13T20:22:40.510Z,Approved by manager
+2886,2886,79,approved,2026-01-12T17:34:55.437Z,Excellent performance
+2887,2887,80,approved,2026-01-16T13:51:36.226Z,Standard approval
+2888,2888,81,rejected,2026-01-14T02:27:19.900Z,Did not complete full shift
+2889,2889,82,approved,2026-01-13T23:56:01.526Z,
+2890,2890,83,approved,2026-01-12T18:40:57.390Z,Excellent performance
+2891,2891,84,approved,2026-01-15T01:54:56.244Z,Excellent performance
+2892,2892,85,approved,2026-01-15T01:58:09.299Z,
+2893,2893,86,approved,2026-01-13T10:12:31.998Z,
+2894,2894,87,approved,2026-01-15T20:41:54.032Z,Approved by manager
+2895,2895,89,approved,2026-01-12T11:51:02.821Z,Late arrival noted
+2896,2896,90,approved,2026-01-12T15:11:05.519Z,Late arrival noted
+2897,2897,91,approved,2026-01-12T22:16:35.592Z,
+2898,2898,92,approved,2026-01-16T06:08:21.360Z,Late arrival noted
+2899,2899,93,approved,2026-01-16T05:02:38.102Z,Approved by manager
+2900,2900,94,pending,,
+2901,2901,95,approved,2026-01-15T00:25:55.146Z,
+2902,2902,96,approved,2026-01-15T18:48:13.521Z,
+2903,2903,97,approved,2026-01-14T18:52:27.283Z,
+2904,2904,98,approved,2026-01-12T06:24:38.259Z,Excellent performance
+2905,2905,99,approved,2026-01-16T09:31:44.495Z,
+2906,2906,100,rejected,2026-01-14T21:10:22.541Z,Did not complete full shift
+2907,2907,101,approved,2026-01-15T19:03:24.209Z,Late arrival noted
+2908,2908,102,approved,2026-01-11T21:27:40.926Z,Standard approval
+2909,2909,103,approved,2026-01-12T06:53:33.658Z,
+2910,2910,104,approved,2026-01-13T11:53:48.070Z,Approved by manager
+2911,2911,105,approved,2026-01-13T04:56:50.762Z,
+2912,2912,106,approved,2026-01-13T13:50:17.899Z,Standard approval
+2913,2913,107,pending,,
+2914,2914,108,approved,2026-01-12T12:38:31.696Z,
+2915,2915,7,approved,2026-01-13T21:54:45.796Z,Approved by manager
+2916,2916,8,approved,2026-01-13T21:20:56.992Z,
+2917,2917,9,approved,2026-01-13T06:09:04.411Z,
+2918,2918,10,approved,2026-01-15T01:27:40.790Z,Excellent performance
+2919,2919,11,approved,2026-01-12T10:27:59.262Z,Late arrival noted
+2920,2920,14,approved,2026-01-12T03:37:25.456Z,Standard approval
+2921,2921,16,approved,2026-01-16T10:29:42.252Z,Late arrival noted
+2922,2922,17,rejected,2026-01-16T10:10:27.763Z,Did not complete full shift
+2923,2923,18,approved,2026-01-11T22:16:46.845Z,Excellent performance
+2924,2924,20,approved,2026-01-13T20:44:07.440Z,
+2925,2925,21,approved,2026-01-14T03:53:24.187Z,Standard approval
+2926,2926,22,approved,2026-01-14T20:01:36.844Z,
+2927,2927,23,pending,,
+2928,2928,24,approved,2026-01-16T06:45:02.607Z,Excellent performance
+2929,2929,25,approved,2026-01-16T04:45:27.731Z,Approved by manager
+2930,2930,26,pending,,
+2931,2931,27,approved,2026-01-11T22:02:02.676Z,
+2932,2932,28,approved,2026-01-14T17:26:29.850Z,Late arrival noted
+2933,2933,29,approved,2026-01-14T18:13:07.880Z,Approved by manager
+2934,2934,30,approved,2026-01-14T17:39:42.577Z,
+2935,2935,31,approved,2026-01-11T22:26:46.798Z,Excellent performance
+2936,2936,32,approved,2026-01-15T23:01:27.944Z,
+2937,2937,33,approved,2026-01-13T16:07:49.444Z,Standard approval
+2938,2938,34,approved,2026-01-16T15:42:01.510Z,Approved by manager
+2939,2939,35,approved,2026-01-12T01:53:19.659Z,Approved by manager
+2940,2940,36,pending,,
+2941,2941,37,rejected,2026-01-16T18:14:54.515Z,Did not complete full shift
+2942,2942,38,approved,2026-01-13T02:00:23.945Z,Late arrival noted
+2943,2943,39,approved,2026-01-13T08:20:51.540Z,Excellent performance
+2944,2944,40,approved,2026-01-16T03:47:28.576Z,Standard approval
+2945,2945,41,approved,2026-01-15T13:34:05.961Z,Excellent performance
+2946,2946,42,approved,2026-01-13T15:16:29.921Z,Excellent performance
+2947,2947,43,approved,2026-01-11T19:04:16.485Z,Approved by manager
+2948,2948,44,approved,2026-01-15T14:36:54.350Z,
+2949,2949,45,approved,2026-01-13T01:14:17.673Z,Approved by manager
+2950,2950,46,approved,2026-01-13T01:05:36.561Z,Excellent performance
+2951,2951,47,approved,2026-01-13T04:42:15.218Z,Excellent performance
+2952,2952,48,approved,2026-01-13T00:47:49.578Z,Standard approval
+2953,2953,49,approved,2026-01-14T23:57:18.750Z,Approved by manager
+2954,2954,50,approved,2026-01-13T10:55:14.608Z,
+2955,2955,51,approved,2026-01-12T23:47:52.284Z,Late arrival noted
+2956,2956,52,pending,,
+2957,2957,53,approved,2026-01-13T14:57:10.932Z,
+2958,2958,55,approved,2026-01-14T23:45:06.845Z,Excellent performance
+2959,2959,56,approved,2026-01-15T07:40:46.668Z,
+2960,2960,57,approved,2026-01-13T04:10:21.738Z,
+2961,2961,58,approved,2026-01-16T09:03:01.404Z,Excellent performance
+2962,2962,59,rejected,2026-01-13T23:45:46.313Z,Did not complete full shift
+2963,2963,60,approved,2026-01-15T04:14:03.072Z,
+2964,2964,61,rejected,2026-01-14T06:46:56.139Z,Did not complete full shift
+2965,2965,62,approved,2026-01-14T19:14:47.280Z,Late arrival noted
+2966,2966,64,approved,2026-01-15T05:21:24.023Z,
+2967,2967,65,approved,2026-01-14T18:38:02.189Z,
+2968,2968,66,approved,2026-01-11T23:24:44.204Z,Excellent performance
+2969,2969,67,approved,2026-01-15T13:46:09.584Z,Late arrival noted
+2970,2970,68,approved,2026-01-13T05:01:59.282Z,Approved by manager
+2971,2971,69,approved,2026-01-14T16:00:00.235Z,Excellent performance
+2972,2972,70,approved,2026-01-11T23:04:50.649Z,
+2973,2973,71,approved,2026-01-12T21:15:39.684Z,Approved by manager
+2974,2974,72,approved,2026-01-13T05:28:42.806Z,Approved by manager
+2975,2975,73,approved,2026-01-15T18:03:00.129Z,
+2976,2976,74,approved,2026-01-16T12:18:58.385Z,
+2977,2977,75,approved,2026-01-14T11:24:43.392Z,
+2978,2978,77,approved,2026-01-14T08:31:12.019Z,Late arrival noted
+2979,2979,78,approved,2026-01-12T09:32:54.808Z,
+2980,2980,79,approved,2026-01-15T01:01:47.830Z,Late arrival noted
+2981,2981,80,approved,2026-01-16T05:36:18.600Z,
+2982,2982,81,approved,2026-01-11T21:54:09.563Z,Late arrival noted
+2983,2983,82,approved,2026-01-15T08:08:38.744Z,Approved by manager
+2984,2984,83,rejected,2026-01-14T03:01:28.876Z,Did not complete full shift
+2985,2985,84,pending,,
+2986,2986,85,approved,2026-01-13T11:35:13.002Z,
+2987,2987,86,approved,2026-01-15T15:05:53.882Z,Approved by manager
+2988,2988,87,approved,2026-01-13T18:38:59.776Z,
+2989,2989,89,approved,2026-01-13T15:01:47.716Z,Standard approval
+2990,2990,90,approved,2026-01-14T00:56:03.930Z,Late arrival noted
+2991,2991,91,approved,2026-01-14T03:35:30.993Z,
+2992,2992,92,approved,2026-01-14T14:23:49.327Z,
+2993,2993,93,pending,,
+2994,2994,94,approved,2026-01-11T21:51:35.604Z,Approved by manager
+2995,2995,95,approved,2026-01-15T23:32:09.489Z,Approved by manager
+2996,2996,96,approved,2026-01-16T04:04:49.164Z,Standard approval
+2997,2997,97,approved,2026-01-15T10:08:19.925Z,Approved by manager
+2998,2998,98,approved,2026-01-15T10:07:15.661Z,Standard approval
+2999,2999,99,pending,,
+3000,3000,100,approved,2026-01-13T01:07:40.871Z,Standard approval
+3001,3001,101,approved,2026-01-15T06:55:42.883Z,Late arrival noted
+3002,3002,102,approved,2026-01-13T05:10:05.524Z,Late arrival noted
+3003,3003,103,approved,2026-01-13T07:06:18.551Z,Approved by manager
+3004,3004,104,pending,,
+3005,3005,105,approved,2026-01-13T06:34:11.192Z,
+3006,3006,106,approved,2026-01-14T09:18:25.157Z,
+3007,3007,107,approved,2026-01-14T15:38:26.201Z,Late arrival noted
+3008,3008,108,rejected,2026-01-15T15:43:02.367Z,Did not complete full shift
+3009,3009,7,approved,2026-01-12T12:35:03.706Z,Late arrival noted
+3010,3010,8,pending,,
+3011,3011,9,approved,2026-01-15T15:30:54.842Z,
+3012,3012,10,approved,2026-01-15T07:08:32.102Z,Standard approval
+3013,3013,11,approved,2026-01-16T13:54:47.698Z,
+3014,3014,14,approved,2026-01-12T07:55:34.529Z,Approved by manager
+3015,3015,16,rejected,2026-01-15T04:39:15.907Z,Did not complete full shift
+3016,3016,17,approved,2026-01-12T17:24:44.352Z,
+3017,3017,18,approved,2026-01-16T02:27:19.252Z,
+3018,3018,20,rejected,2026-01-16T07:42:13.356Z,Did not complete full shift
+3019,3019,21,approved,2026-01-14T10:43:35.005Z,Late arrival noted
+3020,3020,22,approved,2026-01-15T17:53:32.015Z,Late arrival noted
+3021,3021,23,approved,2026-01-14T11:01:45.481Z,Excellent performance
+3022,3022,24,approved,2026-01-14T19:36:45.356Z,Late arrival noted
+3023,3023,25,pending,,
+3024,3024,26,pending,,
+3025,3025,27,approved,2026-01-16T15:08:12.465Z,Excellent performance
+3026,3026,28,approved,2026-01-15T20:56:02.251Z,
+3027,3027,29,approved,2026-01-13T01:00:50.302Z,
+3028,3028,30,approved,2026-01-14T15:54:52.342Z,
+3029,3029,31,approved,2026-01-11T19:51:12.352Z,Approved by manager
+3030,3030,32,pending,,
+3031,3031,33,approved,2026-01-12T02:52:43.203Z,Standard approval
+3032,3032,34,approved,2026-01-14T16:28:24.632Z,
+3033,3033,35,pending,,
+3034,3034,36,approved,2026-01-13T11:07:28.373Z,
+3035,3035,37,approved,2026-01-15T13:43:12.677Z,Late arrival noted
+3036,3036,38,approved,2026-01-13T15:09:19.319Z,Standard approval
+3037,3037,39,approved,2026-01-16T04:27:36.758Z,Standard approval
+3038,3038,40,approved,2026-01-15T03:30:45.029Z,
+3039,3039,41,approved,2026-01-13T05:38:34.642Z,
+3040,3040,42,approved,2026-01-13T14:24:12.755Z,
+3041,3041,43,approved,2026-01-12T11:07:14.573Z,Excellent performance
+3042,3042,44,approved,2026-01-11T19:18:38.638Z,
+3043,3043,45,approved,2026-01-11T22:03:30.786Z,Standard approval
+3044,3044,46,approved,2026-01-11T22:13:26.018Z,Approved by manager
+3045,3045,47,approved,2026-01-15T13:09:35.674Z,
+3046,3046,48,approved,2026-01-14T23:28:38.037Z,Excellent performance
+3047,3047,49,pending,,
+3048,3048,50,approved,2026-01-15T06:40:10.493Z,Standard approval
+3049,3049,51,approved,2026-01-16T00:36:03.091Z,Standard approval
+3050,3050,52,approved,2026-01-13T16:31:34.611Z,
+3051,3051,53,approved,2026-01-16T15:18:19.495Z,
+3052,3052,55,approved,2026-01-14T05:41:06.866Z,
+3053,3053,56,approved,2026-01-14T07:16:58.813Z,
+3054,3054,57,pending,,
+3055,3055,58,pending,,
+3056,3056,59,approved,2026-01-15T23:59:16.867Z,Standard approval
+3057,3057,60,approved,2026-01-13T22:23:23.226Z,Standard approval
+3058,3058,61,approved,2026-01-16T08:30:35.941Z,Excellent performance
+3059,3059,62,approved,2026-01-13T19:27:13.034Z,Late arrival noted
+3060,3060,64,approved,2026-01-14T01:45:22.174Z,
+3061,3061,65,approved,2026-01-15T02:46:04.854Z,Standard approval
+3062,3062,66,approved,2026-01-15T14:32:40.880Z,Approved by manager
+3063,3063,67,approved,2026-01-15T10:46:37.793Z,
+3064,3064,68,pending,,
+3065,3065,69,approved,2026-01-12T02:55:01.600Z,Standard approval
+3066,3066,70,approved,2026-01-12T09:52:49.795Z,
+3067,3067,71,approved,2026-01-13T01:17:43.998Z,Standard approval
+3068,3068,72,approved,2026-01-13T06:39:34.378Z,Approved by manager
+3069,3069,73,approved,2026-01-13T05:53:13.481Z,Standard approval
+3070,3070,74,approved,2026-01-13T11:28:32.186Z,Standard approval
+3071,3071,75,approved,2026-01-16T01:21:57.117Z,Late arrival noted
+3072,3072,77,approved,2026-01-12T16:31:37.691Z,Approved by manager
+3073,3073,78,approved,2026-01-14T08:59:30.754Z,
+3074,3074,79,approved,2026-01-12T10:18:02.769Z,
+3075,3075,80,approved,2026-01-15T03:27:48.439Z,
+3076,3076,81,approved,2026-01-13T04:07:34.133Z,Standard approval
+3077,3077,82,approved,2026-01-16T17:17:42.295Z,Late arrival noted
+3078,3078,83,approved,2026-01-15T17:45:49.261Z,
+3079,3079,84,approved,2026-01-15T06:03:44.253Z,
+3080,3080,85,approved,2026-01-13T00:21:58.658Z,
+3081,3081,86,approved,2026-01-14T00:55:48.553Z,Late arrival noted
+3082,3082,87,approved,2026-01-12T00:42:57.215Z,
+3083,3083,89,approved,2026-01-15T00:33:55.216Z,Standard approval
+3084,3084,90,approved,2026-01-12T05:22:36.554Z,Approved by manager
+3085,3085,91,approved,2026-01-14T16:35:16.638Z,Excellent performance
+3086,3086,92,approved,2026-01-15T06:44:09.060Z,Standard approval
+3087,3087,93,rejected,2026-01-15T06:21:03.259Z,Did not complete full shift
+3088,3088,94,pending,,
+3089,3089,95,approved,2026-01-13T04:58:37.562Z,
+3090,3090,96,approved,2026-01-14T23:19:07.232Z,
+3091,3091,97,approved,2026-01-14T10:09:14.699Z,Approved by manager
+3092,3092,98,pending,,
+3093,3093,99,approved,2026-01-16T17:26:43.538Z,Approved by manager
+3094,3094,100,rejected,2026-01-15T20:10:13.399Z,Did not complete full shift
+3095,3095,101,approved,2026-01-14T15:25:04.941Z,Excellent performance
+3096,3096,102,approved,2026-01-12T21:51:06.619Z,Approved by manager
+3097,3097,103,approved,2026-01-15T02:11:29.692Z,Excellent performance
+3098,3098,104,approved,2026-01-11T19:02:11.492Z,Standard approval
+3099,3099,105,approved,2026-01-15T09:51:20.286Z,Excellent performance
+3100,3100,106,approved,2026-01-12T09:00:07.027Z,
+3101,3101,107,approved,2026-01-12T14:06:06.377Z,Late arrival noted
+3102,3102,108,approved,2026-01-16T11:37:52.199Z,
+3103,3103,7,approved,2026-01-12T13:37:44.193Z,Late arrival noted
+3104,3104,8,approved,2026-01-14T01:01:57.473Z,
+3105,3105,9,approved,2026-01-15T15:12:21.237Z,Late arrival noted
+3106,3106,10,approved,2026-01-13T08:26:01.754Z,Standard approval
+3107,3107,11,approved,2026-01-12T05:17:24.961Z,
+3108,3108,14,approved,2026-01-12T08:24:38.700Z,Standard approval
+3109,3109,16,approved,2026-01-16T15:26:31.087Z,Excellent performance
+3110,3110,17,approved,2026-01-13T12:42:08.892Z,Late arrival noted
+3111,3111,18,approved,2026-01-15T22:37:43.800Z,Excellent performance
+3112,3112,20,approved,2026-01-15T08:22:42.662Z,
+3113,3113,21,approved,2026-01-12T11:05:51.019Z,Excellent performance
+3114,3114,22,approved,2026-01-15T22:14:53.306Z,Late arrival noted
+3115,3115,23,approved,2026-01-14T10:30:42.983Z,Late arrival noted
+3116,3116,24,approved,2026-01-14T02:26:11.351Z,Late arrival noted
+3117,3117,25,approved,2026-01-14T08:20:10.948Z,Standard approval
+3118,3118,26,approved,2026-01-15T14:49:38.477Z,Late arrival noted
+3119,3119,27,approved,2026-01-13T02:19:24.275Z,
+3120,3120,28,approved,2026-01-13T12:45:42.073Z,
+3121,3121,29,pending,,
+3122,3122,30,approved,2026-01-12T09:16:28.897Z,Standard approval
+3123,3123,31,approved,2026-01-12T05:08:00.381Z,Excellent performance
+3124,3124,32,approved,2026-01-12T06:07:46.390Z,Late arrival noted
+3125,3125,33,approved,2026-01-16T08:03:15.846Z,
+3126,3126,34,approved,2026-01-13T22:53:07.715Z,Excellent performance
+3127,3127,35,approved,2026-01-12T13:50:30.893Z,Approved by manager
+3128,3128,36,approved,2026-01-13T07:14:00.167Z,Excellent performance
+3129,3129,37,approved,2026-01-14T03:13:26.353Z,Late arrival noted
+3130,3130,38,pending,,
+3131,3131,39,approved,2026-01-14T06:56:44.054Z,Standard approval
+3132,3132,40,approved,2026-01-12T19:10:05.789Z,Standard approval
+3133,3133,41,approved,2026-01-13T06:45:05.631Z,Approved by manager
+3134,3134,42,approved,2026-01-15T07:50:57.958Z,Excellent performance
+3135,3135,43,approved,2026-01-16T05:23:23.045Z,Approved by manager
+3136,3136,44,pending,,
+3137,3137,45,approved,2026-01-12T00:03:24.998Z,Late arrival noted
+3138,3138,46,approved,2026-01-13T08:14:25.787Z,Late arrival noted
+3139,3139,47,pending,,
+3140,3140,48,approved,2026-01-13T12:00:01.488Z,Standard approval
+3141,3141,49,approved,2026-01-13T00:57:40.774Z,
+3142,3142,50,approved,2026-01-12T02:58:11.825Z,Excellent performance
+3143,3143,51,approved,2026-01-14T16:55:26.647Z,Approved by manager
+3144,3144,52,pending,,
+3145,3145,53,approved,2026-01-13T00:04:26.217Z,Approved by manager
+3146,3146,55,approved,2026-01-12T12:14:08.243Z,Approved by manager
+3147,3147,56,approved,2026-01-16T08:06:02.519Z,
+3148,3148,57,approved,2026-01-12T23:35:25.559Z,Approved by manager
+3149,3149,58,approved,2026-01-13T06:57:59.971Z,
+3150,3150,59,rejected,2026-01-16T14:51:03.382Z,Did not complete full shift
+3151,3151,60,approved,2026-01-15T14:23:11.759Z,Late arrival noted
+3152,3152,61,approved,2026-01-14T15:18:19.393Z,
+3153,3153,62,approved,2026-01-12T10:22:57.702Z,
+3154,3154,64,approved,2026-01-14T04:28:37.362Z,Approved by manager
+3155,3155,65,approved,2026-01-15T17:32:22.329Z,
+3156,3156,66,approved,2026-01-14T17:21:35.365Z,Approved by manager
+3157,3157,67,approved,2026-01-13T18:15:57.461Z,Excellent performance
+3158,3158,68,approved,2026-01-13T14:23:33.596Z,
+3159,3159,69,approved,2026-01-12T20:37:42.722Z,Standard approval
+3160,3160,70,rejected,2026-01-13T21:37:52.618Z,Did not complete full shift
+3161,3161,71,approved,2026-01-14T16:37:16.835Z,Late arrival noted
+3162,3162,72,approved,2026-01-12T23:52:14.513Z,Late arrival noted
+3163,3163,73,approved,2026-01-12T01:06:00.308Z,Excellent performance
+3164,3164,74,approved,2026-01-12T20:42:21.221Z,Approved by manager
+3165,3165,75,approved,2026-01-13T12:18:36.464Z,Excellent performance
+3166,3166,77,approved,2026-01-13T19:27:35.604Z,Approved by manager
+3167,3167,78,approved,2026-01-13T11:19:24.323Z,Excellent performance
+3168,3168,79,approved,2026-01-15T18:52:24.256Z,Late arrival noted
+3169,3169,80,approved,2026-01-13T17:50:22.301Z,
+3170,3170,81,approved,2026-01-13T10:53:09.492Z,
+3171,3171,82,approved,2026-01-15T00:41:38.563Z,Standard approval
+3172,3172,83,approved,2026-01-14T19:20:54.110Z,
+3173,3173,84,pending,,
+3174,3174,85,approved,2026-01-14T19:37:16.563Z,
+3175,3175,86,rejected,2026-01-15T01:44:56.639Z,Did not complete full shift
+3176,3176,87,approved,2026-01-14T12:18:56.158Z,Excellent performance
+3177,3177,89,approved,2026-01-15T15:04:03.465Z,Approved by manager
+3178,3178,90,approved,2026-01-16T09:22:42.857Z,Excellent performance
+3179,3179,91,approved,2026-01-12T02:19:32.351Z,
+3180,3180,92,approved,2026-01-11T22:42:31.078Z,Late arrival noted
+3181,3181,93,approved,2026-01-12T22:08:36.215Z,Excellent performance
+3182,3182,94,approved,2026-01-13T23:59:39.413Z,Excellent performance
+3183,3183,95,approved,2026-01-16T06:20:10.501Z,Late arrival noted
+3184,3184,96,pending,,
+3185,3185,97,approved,2026-01-16T07:39:13.796Z,Late arrival noted
+3186,3186,98,approved,2026-01-14T23:42:52.435Z,
+3187,3187,99,approved,2026-01-12T20:58:16.006Z,Excellent performance
+3188,3188,100,approved,2026-01-12T08:35:34.120Z,Approved by manager
+3189,3189,101,approved,2026-01-13T13:14:00.011Z,Standard approval
+3190,3190,102,approved,2026-01-13T07:54:23.580Z,
+3191,3191,103,approved,2026-01-11T22:39:04.612Z,Excellent performance
+3192,3192,104,approved,2026-01-12T14:14:38.139Z,Standard approval
+3193,3193,105,approved,2026-01-13T10:31:23.025Z,Approved by manager
+3194,3194,106,approved,2026-01-12T10:04:50.337Z,Excellent performance
+3195,3195,107,approved,2026-01-15T23:46:13.969Z,
+3196,3196,108,approved,2026-01-15T23:00:22.589Z,Standard approval
+3197,3197,7,approved,2026-01-12T15:04:47.804Z,Approved by manager
+3198,3198,8,approved,2026-01-13T12:27:51.927Z,Late arrival noted
+3199,3199,9,pending,,
+3200,3200,10,approved,2026-01-12T09:38:16.872Z,Late arrival noted
+3201,3201,11,approved,2026-01-16T18:24:30.026Z,
+3202,3202,14,pending,,
+3203,3203,16,approved,2026-01-12T15:21:46.591Z,
+3204,3204,17,approved,2026-01-15T19:34:38.171Z,Approved by manager
+3205,3205,18,approved,2026-01-16T12:36:21.951Z,
+3206,3206,20,approved,2026-01-12T21:22:56.446Z,
+3207,3207,21,pending,,
+3208,3208,22,approved,2026-01-14T08:46:39.277Z,
+3209,3209,23,pending,,
+3210,3210,24,approved,2026-01-12T03:38:22.346Z,Late arrival noted
+3211,3211,25,approved,2026-01-13T13:07:59.868Z,Late arrival noted
+3212,3212,26,approved,2026-01-15T19:57:16.901Z,Late arrival noted
+3213,3213,27,pending,,
+3214,3214,28,approved,2026-01-14T12:18:58.898Z,Excellent performance
+3215,3215,29,approved,2026-01-12T08:29:52.920Z,Late arrival noted
+3216,3216,30,approved,2026-01-12T11:43:26.850Z,Excellent performance
+3217,3217,31,approved,2026-01-15T00:13:17.865Z,
+3218,3218,32,approved,2026-01-11T23:48:35.385Z,Approved by manager
+3219,3219,33,approved,2026-01-16T04:15:38.171Z,Late arrival noted
+3220,3220,34,approved,2026-01-14T08:52:15.824Z,Standard approval
+3221,3221,35,approved,2026-01-16T10:35:43.029Z,Excellent performance
+3222,3222,36,approved,2026-01-12T01:52:24.234Z,Excellent performance
+3223,3223,37,approved,2026-01-14T07:54:05.969Z,Standard approval
+3224,3224,38,approved,2026-01-15T03:47:23.907Z,
+3225,3225,39,pending,,
+3226,3226,40,approved,2026-01-13T22:52:10.049Z,Excellent performance
+3227,3227,41,approved,2026-01-15T21:59:31.149Z,
+3228,3228,42,approved,2026-01-12T04:11:22.788Z,Late arrival noted
+3229,3229,43,approved,2026-01-15T20:16:53.143Z,Late arrival noted
+3230,3230,44,pending,,
+3231,3231,45,approved,2026-01-12T13:49:05.722Z,
+3232,3232,46,approved,2026-01-16T01:38:30.844Z,
+3233,3233,47,approved,2026-01-12T15:41:17.948Z,Late arrival noted
+3234,3234,48,approved,2026-01-14T04:40:21.629Z,
+3235,3235,49,approved,2026-01-16T12:00:27.741Z,
+3236,3236,50,approved,2026-01-12T22:19:39.886Z,
+3237,3237,51,approved,2026-01-15T23:28:21.597Z,
+3238,3238,52,approved,2026-01-12T00:54:37.308Z,Excellent performance
+3239,3239,53,approved,2026-01-14T11:14:08.958Z,
+3240,3240,55,approved,2026-01-13T16:18:18.721Z,Approved by manager
+3241,3241,56,approved,2026-01-15T04:55:46.727Z,Approved by manager
+3242,3242,57,approved,2026-01-16T03:10:02.506Z,Standard approval
+3243,3243,58,approved,2026-01-12T03:24:25.502Z,
+3244,3244,59,approved,2026-01-12T13:19:46.603Z,
+3245,3245,60,approved,2026-01-15T17:51:03.115Z,Late arrival noted
+3246,3246,61,approved,2026-01-13T06:48:24.183Z,
+3247,3247,62,approved,2026-01-12T18:52:25.852Z,Approved by manager
+3248,3248,64,approved,2026-01-13T05:04:46.427Z,Approved by manager
+3249,3249,65,approved,2026-01-16T17:52:01.135Z,Excellent performance
+3250,3250,66,approved,2026-01-16T03:48:33.248Z,
+3251,3251,67,pending,,
+3252,3252,68,pending,,
+3253,3253,69,rejected,2026-01-16T18:25:57.640Z,Did not complete full shift
+3254,3254,70,pending,,
+3255,3255,71,pending,,
+3256,3256,72,rejected,2026-01-15T20:01:41.470Z,Did not complete full shift
+3257,3257,73,approved,2026-01-15T17:30:22.879Z,Standard approval
+3258,3258,74,approved,2026-01-14T13:49:58.737Z,
+3259,3259,75,approved,2026-01-13T00:59:26.983Z,
+3260,3260,77,pending,,
+3261,3261,78,approved,2026-01-16T00:05:18.941Z,Late arrival noted
+3262,3262,79,approved,2026-01-14T07:59:11.629Z,
+3263,3263,80,pending,,
+3264,3264,81,approved,2026-01-15T01:25:21.345Z,Late arrival noted
+3265,3265,82,approved,2026-01-14T03:22:22.891Z,Standard approval
+3266,3266,83,approved,2026-01-14T06:19:01.486Z,Standard approval
+3267,3267,84,approved,2026-01-14T10:07:38.508Z,
+3268,3268,85,approved,2026-01-13T20:38:43.019Z,
+3269,3269,86,approved,2026-01-14T04:06:19.730Z,Approved by manager
+3270,3270,87,approved,2026-01-15T10:28:17.675Z,Standard approval
+3271,3271,89,approved,2026-01-14T19:03:47.952Z,Late arrival noted
+3272,3272,90,pending,,
+3273,3273,91,pending,,
+3274,3274,92,approved,2026-01-12T21:21:30.703Z,Excellent performance
+3275,3275,93,approved,2026-01-13T12:24:45.612Z,Standard approval
+3276,3276,94,approved,2026-01-15T23:06:02.310Z,
+3277,3277,95,approved,2026-01-14T02:26:30.079Z,Late arrival noted
+3278,3278,96,approved,2026-01-13T21:09:16.342Z,
+3279,3279,97,approved,2026-01-16T00:00:42.181Z,Late arrival noted
+3280,3280,98,approved,2026-01-15T07:20:31.476Z,
+3281,3281,99,approved,2026-01-13T18:40:39.520Z,Approved by manager
+3282,3282,100,approved,2026-01-14T21:41:52.422Z,
+3283,3283,101,approved,2026-01-13T10:19:54.054Z,
+3284,3284,102,approved,2026-01-15T02:57:20.470Z,Excellent performance
+3285,3285,103,approved,2026-01-16T12:20:09.292Z,Approved by manager
+3286,3286,104,rejected,2026-01-16T11:26:40.534Z,Did not complete full shift
+3287,3287,105,approved,2026-01-15T19:40:01.268Z,
+3288,3288,106,approved,2026-01-12T05:55:19.010Z,
+3289,3289,107,pending,,
+3290,3290,108,pending,,

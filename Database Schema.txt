@@ -1,0 +1,74 @@
+Looking at your AutoOps system, here's a simple database schema that supports the core functionality:
+
+## Core Tables
+
+**employees**
+- id (primary key)
+- name
+- role (manager | employee)
+- hire_date
+- status (active | inactive)
+- created_at
+- updated_at
+
+**shifts**
+- id (primary key)
+- employee_id (foreign key → employees.id)
+- scheduled_start
+- scheduled_end
+- actual_start (nullable)
+- actual_end (nullable)
+- status (scheduled | in_progress | completed | cancelled | no_show)
+- created_at
+- updated_at
+
+**shift_callouts**
+- id (primary key)
+- shift_id (foreign key → shifts.id)
+- employee_id (foreign key → employees.id)
+- reason (text, nullable)
+- replacement_employee_id (foreign key → employees.id, nullable)
+- resolved_at (nullable)
+- created_at
+
+**onboarding_plans**
+- id (primary key)
+- employee_id (foreign key → employees.id)
+- training_checklist (json/text)
+- status (in_progress | completed)
+- created_at
+- completed_at (nullable)
+
+**feedback**
+- id (primary key)
+- employee_id (foreign key → employees.id)
+- submitted_by_employee_id (foreign key → employees.id)
+- shift_id (foreign key → shifts.id, nullable)
+- feedback_text
+- rating (1-5 or similar scale)
+- created_at
+
+**performance_ratings**
+- id (primary key)
+- employee_id (foreign key → employees.id)
+- weighted_score (decimal)
+- last_calculated_at
+- updated_at
+
+**shift_payouts**
+- id (primary key)
+- shift_id (foreign key → shifts.id)
+- employee_id (foreign key → employees.id)
+- approval_status (pending | approved | rejected)
+- approved_at (nullable)
+- notes (text, nullable)
+
+**agent_decisions**
+- id (primary key)
+- event_type (onboarding | shift_coverage | payout_approval | feedback_processing)
+- related_entity_id (the shift_id, employee_id, etc.)
+- decision_output (json)
+- explanation (text)
+- created_at
+
+This schema keeps things simple and focused on your core use cases. The `agent_decisions` table is particularly useful for explainability and auditing what the supervisor agent decided and why.

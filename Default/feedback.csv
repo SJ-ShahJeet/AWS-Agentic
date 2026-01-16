@@ -1,0 +1,151 @@
+id,employee_id,submitted_by_employee_id,shift_id,feedback_text,rating,created_at
+1,100,98,86,Excellent customer service,5,2026-01-13T00:49:44.913Z
+2,23,70,389,Positive attitude throughout the shift,3,2025-12-05T20:34:28.146Z
+3,40,38,500,Arrived on time and ready to work,3,2026-01-04T19:28:18.140Z
+4,95,102,175,Could improve communication,5,2025-12-25T14:06:54.931Z
+5,97,57,83,Outstanding performance today,4,2026-01-07T13:30:28.832Z
+6,92,8,172,Could improve communication,3,2025-12-10T07:53:07.951Z
+7,89,59,263,Great teamwork today!,3,2025-12-03T03:39:17.777Z
+8,7,57,377,Could improve communication,3,2026-01-11T00:59:36.653Z
+9,36,24,402,Helped cover extra duties,5,2025-12-22T05:35:50.699Z
+10,53,97,137,Positive attitude throughout the shift,5,2025-12-27T11:13:48.335Z
+11,93,36,267,Very reliable and dependable,4,2025-12-25T23:53:58.933Z
+12,20,92,292,Needs improvement on punctuality,4,2025-12-23T23:21:14.427Z
+13,17,69,290,Great teamwork today!,4,2026-01-09T20:32:23.856Z
+14,47,53,225,Outstanding performance today,4,2026-01-15T01:23:50.030Z
+15,57,85,234,Could improve communication,4,2025-12-08T01:19:36.975Z
+16,53,57,325,Helped cover extra duties,4,2025-12-13T09:07:57.140Z
+17,60,95,425,Arrived on time and ready to work,5,2025-12-30T09:51:39.172Z
+18,38,21,310,Good collaboration with team members,5,2025-12-19T08:49:06.294Z
+19,30,9,114,Needs improvement on punctuality,3,2026-01-12T20:42:23.959Z
+20,101,101,369,Good collaboration with team members,3,2026-01-01T18:37:13.359Z
+21,23,49,13,Good collaboration with team members,3,2026-01-04T18:54:54.445Z
+22,39,25,405,Excellent customer service,5,2026-01-05T09:15:39.487Z
+23,93,33,455,Good collaboration with team members,5,2026-01-02T09:30:49.237Z
+24,91,67,359,Excellent customer service,4,2025-12-22T12:57:14.861Z
+25,57,53,328,Very reliable and dependable,4,2026-01-16T12:55:45.024Z
+26,77,98,346,Very reliable and dependable,3,2025-12-16T12:11:15.240Z
+27,71,22,435,Great teamwork today!,4,2025-12-03T10:49:59.501Z
+28,80,46,255,Needs improvement on punctuality,4,2026-01-05T06:39:23.684Z
+29,44,36,410,Needs improvement on punctuality,3,2025-12-17T09:29:29.425Z
+30,86,31,73,Helped cover extra duties,4,2025-12-02T23:36:23.893Z
+31,97,61,177,Arrived on time and ready to work,4,2025-12-08T05:17:13.496Z
+32,78,45,159,Needs improvement on punctuality,5,2025-12-17T05:48:56.201Z
+33,38,58,216,Helped cover extra duties,4,2025-12-15T07:49:22.491Z
+34,52,68,42,Positive attitude throughout the shift,5,2026-01-08T09:51:54.893Z
+35,48,24,38,Helped cover extra duties,4,2026-01-10T16:14:53.688Z
+36,92,49,172,Could improve communication,4,2025-12-20T18:51:41.810Z
+37,11,29,287,Needs improvement on punctuality,5,2025-12-12T23:55:50.100Z
+38,92,75,360,Excellent customer service,3,2025-12-16T19:46:00.145Z
+39,31,62,303,Could improve communication,4,2025-12-31T20:33:51.087Z
+40,66,66,54,Excellent customer service,3,2026-01-14T18:09:54.594Z
+41,96,46,176,Very reliable and dependable,3,2026-01-14T19:06:43.500Z
+42,27,90,299,Good collaboration with team members,5,2026-01-03T04:27:12.591Z
+43,18,61,291,Could improve communication,5,2026-01-14T14:34:41.527Z
+44,32,22,398,Needs improvement on punctuality,4,2025-12-30T20:36:13.340Z
+45,58,6,329,Arrived on time and ready to work,5,2025-12-26T13:27:19.302Z
+46,49,35,227,Good collaboration with team members,3,2025-12-29T19:14:50.967Z
+47,27,18,111,Very reliable and dependable,5,2025-12-16T11:26:00.854Z
+48,21,9,199,Needs improvement on punctuality,5,2025-12-28T18:13:14.950Z
+49,59,72,142,Good collaboration with team members,4,2025-12-03T20:54:30.181Z
+50,39,71,29,Could improve communication,3,2025-12-08T10:07:00.285Z
+51,23,64,389,Great teamwork today!,4,2026-01-06T19:56:41.531Z
+52,39,106,217,Good collaboration with team members,5,2025-12-18T18:58:21.316Z
+53,17,71,290,Needs improvement on punctuality,4,2026-01-01T13:25:46.229Z
+54,101,38,181,Positive attitude throughout the shift,4,2026-01-09T12:30:45.342Z
+55,28,37,206,Helped cover extra duties,5,2025-12-30T05:19:48.136Z
+56,79,20,442,Good collaboration with team members,4,2025-12-05T16:48:30.750Z
+57,52,4,324,Very reliable and dependable,3,2025-12-04T18:19:25.534Z
+58,70,16,152,Could improve communication,5,2025-12-29T08:31:59.958Z
+59,40,31,312,Outstanding performance today,4,2025-12-17T23:25:25.011Z
+60,103,25,465,Very reliable and dependable,5,2025-12-06T14:55:09.630Z
+61,67,103,243,Great teamwork today!,5,2026-01-03T10:30:49.103Z
+62,82,56,257,Good collaboration with team members,4,2025-12-04T17:48:30.769Z
+63,57,2,328,Needs improvement on punctuality,3,2025-12-11T00:03:50.077Z
+64,86,47,167,Positive attitude throughout the shift,5,2026-01-13T09:44:03.917Z
+65,74,74,344,Excellent customer service,3,2025-12-24T18:17:10.918Z
+66,85,22,72,Outstanding performance today,3,2025-12-31T11:44:25.443Z
+67,102,70,464,Good collaboration with team members,4,2026-01-04T19:42:10.803Z
+68,94,32,456,Positive attitude throughout the shift,3,2025-12-30T21:51:21.670Z
+69,100,40,368,Positive attitude throughout the shift,5,2026-01-09T13:30:12.910Z
+70,26,14,204,Outstanding performance today,5,2025-12-16T04:27:49.931Z
+71,43,62,33,Positive attitude throughout the shift,4,2025-12-26T00:50:30.951Z
+72,28,3,300,Positive attitude throughout the shift,4,2026-01-05T19:33:37.668Z
+73,51,46,417,Needs improvement on punctuality,4,2025-12-09T11:43:27.693Z
+74,108,58,94,Great teamwork today!,5,2025-12-31T19:27:15.205Z
+75,24,60,296,Outstanding performance today,5,2025-12-23T13:57:38.793Z
+76,84,60,165,Very reliable and dependable,3,2026-01-11T00:54:39.224Z
+77,102,99,464,Needs improvement on punctuality,5,2026-01-04T04:12:38.086Z
+78,89,37,75,Arrived on time and ready to work,5,2026-01-02T13:41:25.506Z
+79,27,43,17,Helped cover extra duties,5,2025-12-04T05:06:40.914Z
+80,21,89,481,Needs improvement on punctuality,3,2026-01-06T16:34:02.209Z
+81,100,91,368,Outstanding performance today,3,2025-12-07T21:22:02.452Z
+82,29,104,113,Arrived on time and ready to work,5,2025-12-19T03:51:06.187Z
+83,7,39,377,Outstanding performance today,5,2026-01-01T18:48:56.706Z
+84,89,18,169,Very reliable and dependable,4,2025-12-11T12:33:32.611Z
+85,89,73,357,Arrived on time and ready to work,3,2026-01-14T05:18:56.551Z
+86,67,22,55,Could improve communication,3,2025-12-15T21:23:38.571Z
+87,46,18,412,Could improve communication,4,2026-01-05T08:03:34.470Z
+88,21,81,11,Positive attitude throughout the shift,5,2025-12-29T02:49:32.511Z
+89,40,56,312,Arrived on time and ready to work,5,2025-12-10T23:55:45.447Z
+90,72,61,60,Needs improvement on punctuality,4,2026-01-14T17:52:34.498Z
+91,64,90,240,Positive attitude throughout the shift,4,2025-12-22T08:00:59.261Z
+92,41,69,407,Arrived on time and ready to work,4,2025-12-06T18:37:12.094Z
+93,23,31,107,Excellent customer service,4,2025-12-02T21:20:46.471Z
+94,45,70,129,Could improve communication,3,2025-12-06T18:43:54.492Z
+95,107,26,93,Needs improvement on punctuality,4,2025-12-31T21:52:11.570Z
+96,40,44,406,Helped cover extra duties,5,2025-12-06T14:33:13.191Z
+97,61,49,144,Could improve communication,4,2025-12-03T04:41:55.019Z
+98,22,18,12,Excellent customer service,3,2025-12-15T17:12:39.245Z
+99,79,86,254,Good collaboration with team members,3,2026-01-16T03:28:36.382Z
+100,81,92,256,Helped cover extra duties,3,2025-12-26T12:53:41.930Z
+101,35,66,307,Positive attitude throughout the shift,4,2025-12-25T19:41:48.187Z
+102,31,79,491,Could improve communication,5,2026-01-01T14:47:00.085Z
+103,53,25,419,Needs improvement on punctuality,4,2025-12-21T05:02:24.077Z
+104,87,96,74,Very reliable and dependable,4,2026-01-09T19:19:40.876Z
+105,92,97,454,Very reliable and dependable,5,2026-01-05T05:43:31.966Z
+106,61,99,144,Could improve communication,3,2025-12-21T02:36:27.639Z
+107,73,7,343,Needs improvement on punctuality,3,2025-12-22T22:50:53.794Z
+108,95,80,457,Arrived on time and ready to work,4,2025-12-29T08:43:17.653Z
+109,75,79,345,Arrived on time and ready to work,4,2025-12-21T15:06:35.459Z
+110,60,98,237,Positive attitude throughout the shift,3,2025-12-11T20:45:30.662Z
+111,22,11,200,Arrived on time and ready to work,5,2025-12-19T21:49:09.220Z
+112,55,49,138,Arrived on time and ready to work,4,2025-12-05T06:33:18.258Z
+113,42,52,408,Very reliable and dependable,5,2025-12-03T02:23:33.784Z
+114,30,104,20,Good collaboration with team members,5,2026-01-03T06:52:21.654Z
+115,41,69,313,Could improve communication,4,2025-12-31T01:51:57.910Z
+116,48,73,38,Positive attitude throughout the shift,3,2025-12-30T02:48:43.727Z
+117,30,48,20,Excellent customer service,5,2025-12-27T23:18:24.401Z
+118,64,91,146,Good collaboration with team members,5,2026-01-04T11:18:31.749Z
+119,92,31,360,Very reliable and dependable,5,2025-12-04T20:12:59.100Z
+120,73,69,155,Great teamwork today!,4,2026-01-05T10:50:24.945Z
+121,60,45,425,Needs improvement on punctuality,3,2025-12-17T05:17:05.328Z
+122,7,85,1,Outstanding performance today,5,2025-12-21T23:29:43.130Z
+123,95,30,457,Very reliable and dependable,5,2025-12-14T17:03:10.363Z
+124,69,99,433,Helped cover extra duties,3,2026-01-02T16:41:25.850Z
+125,60,107,49,Helped cover extra duties,5,2025-12-07T05:32:37.842Z
+126,73,27,61,Helped cover extra duties,3,2025-12-03T08:07:09.335Z
+127,56,4,139,Great teamwork today!,5,2025-12-29T15:59:15.229Z
+128,101,58,87,Needs improvement on punctuality,5,2025-12-15T10:16:52.602Z
+129,74,66,344,Very reliable and dependable,4,2026-01-12T06:01:48.042Z
+130,52,60,230,Could improve communication,5,2025-12-23T07:35:45.761Z
+131,35,42,25,Very reliable and dependable,3,2025-12-07T01:14:50.861Z
+132,56,4,139,Good collaboration with team members,5,2026-01-04T14:00:48.054Z
+133,61,102,332,Outstanding performance today,4,2025-12-04T06:04:49.982Z
+134,50,7,322,Very reliable and dependable,3,2025-12-25T18:38:27.592Z
+135,83,91,352,Arrived on time and ready to work,4,2026-01-09T03:13:29.998Z
+136,55,60,232,Positive attitude throughout the shift,3,2025-12-31T08:14:39.866Z
+137,41,16,313,Helped cover extra duties,5,2025-12-28T08:04:28.152Z
+138,77,30,252,Could improve communication,5,2025-12-08T21:13:47.505Z
+139,83,23,164,Positive attitude throughout the shift,5,2025-12-18T05:15:30.707Z
+140,100,104,368,Arrived on time and ready to work,3,2026-01-07T14:50:03.973Z
+141,65,46,147,Very reliable and dependable,4,2025-12-15T01:21:03.654Z
+142,58,89,47,Arrived on time and ready to work,3,2026-01-03T21:48:03.677Z
+143,18,5,291,Excellent customer service,4,2025-12-13T02:30:02.837Z
+144,21,43,481,Excellent customer service,3,2025-12-05T21:55:31.322Z
+145,33,4,399,Helped cover extra duties,4,2026-01-05T23:44:16.165Z
+146,72,34,154,Very reliable and dependable,5,2025-12-17T19:26:21.971Z
+147,66,47,242,Arrived on time and ready to work,3,2025-12-25T05:47:40.499Z
+148,24,18,202,Helped cover extra duties,4,2026-01-04T19:27:17.314Z
+149,25,27,109,Positive attitude throughout the shift,3,2026-01-07T11:57:45.684Z
+150,36,50,120,Could improve communication,4,2025-12-22T16:53:32.051Z

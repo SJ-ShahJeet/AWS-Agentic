@@ -1,0 +1,15 @@
+
+
+Project Name: Agentic Orchestration Hack
+Database password: AutoOps2026
+
+
+Project ID: stncrqeinqandouzfgoe
+
+SUPABASE_CLIENT_API_KEY= https://stncrqeinqandouzfgoe.supabase.co
+
+anon public: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InN0bmNycWVpbnFhbmRvdXpmZ29lIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Njg1ODI4MzksImV4cCI6MjA4NDE1ODgzOX0.xMV8BbweejekxloVRHtjL078BaegOEFQ9VXKCnBrlo4
+
+service_role secret: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InN0bmNycWVpbnFhbmRvdXpmZ29lIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2ODU4MjgzOSwiZXhwIjoyMDg0MTU4ODM5fQ.TjDP8lPat0KBulUv_cxJTZMFR3LO8wPRkWvz6CqJCo0
+
+

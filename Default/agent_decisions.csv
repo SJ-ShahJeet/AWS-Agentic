@@ -1,0 +1,551 @@
+id,event_type,related_entity_id,decision_output,explanation,created_at
+1,onboarding,7,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-19T01:36:07.838Z
+2,onboarding,8,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-21T01:45:12.290Z
+3,onboarding,9,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2026-01-13T08:16:32.310Z
+4,onboarding,10,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-23T23:20:23.632Z
+5,onboarding,11,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-13T03:11:48.172Z
+6,onboarding,12,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2026-01-10T18:04:17.624Z
+7,onboarding,13,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2026-01-15T01:07:08.431Z
+8,onboarding,14,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-17T08:55:56.633Z
+9,onboarding,15,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-11T17:05:55.944Z
+10,onboarding,16,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2026-01-13T03:53:44.907Z
+11,onboarding,17,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-05T02:39:30.934Z
+12,onboarding,18,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-12T20:20:31.231Z
+13,onboarding,19,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2026-01-16T17:52:25.340Z
+14,onboarding,20,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-10T01:22:53.303Z
+15,onboarding,21,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2026-01-15T11:23:32.664Z
+16,onboarding,22,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2026-01-01T10:28:37.672Z
+17,onboarding,23,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-12T01:07:10.359Z
+18,onboarding,24,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-28T12:43:48.795Z
+19,onboarding,25,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-19T03:00:45.060Z
+20,onboarding,26,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-08T23:30:03.466Z
+21,onboarding,27,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-30T12:54:21.768Z
+22,onboarding,28,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-11T15:20:00.241Z
+23,onboarding,29,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-31T06:36:36.381Z
+24,onboarding,30,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-11T10:56:38.645Z
+25,onboarding,31,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2026-01-16T17:07:22.400Z
+26,onboarding,32,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2026-01-08T20:43:06.400Z
+27,onboarding,33,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-25T22:30:27.504Z
+28,onboarding,34,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-05T09:08:44.347Z
+29,onboarding,35,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2026-01-07T01:12:50.982Z
+30,onboarding,36,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-23T15:48:17.790Z
+31,onboarding,37,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2026-01-10T11:58:56.521Z
+32,onboarding,38,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2026-01-05T20:08:06.138Z
+33,onboarding,39,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2026-01-10T04:25:27.641Z
+34,onboarding,40,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2026-01-02T05:29:48.405Z
+35,onboarding,41,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-04T12:22:32.686Z
+36,onboarding,42,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-21T13:58:01.580Z
+37,onboarding,43,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2026-01-09T06:41:24.959Z
+38,onboarding,44,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2026-01-15T18:49:28.513Z
+39,onboarding,45,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-21T23:10:34.006Z
+40,onboarding,46,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-15T15:54:45.172Z
+41,onboarding,47,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-30T02:04:32.469Z
+42,onboarding,48,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-17T20:44:50.970Z
+43,onboarding,49,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2026-01-12T16:49:41.616Z
+44,onboarding,50,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2026-01-14T19:12:52.685Z
+45,onboarding,51,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-17T08:47:03.000Z
+46,onboarding,52,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2026-01-04T03:51:17.144Z
+47,onboarding,53,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2026-01-07T08:33:39.563Z
+48,onboarding,54,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2026-01-16T03:54:43.265Z
+49,onboarding,55,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2026-01-13T02:41:11.241Z
+50,onboarding,56,"{""action"":""create_onboarding_plan"",""tasks_assigned"":6,""mentor_assigned"":true}",Created comprehensive onboarding plan based on employee role and department needs,2025-12-09T08:16:18.852Z
+51,shift_coverage,1,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":284}",Found suitable replacement based on availability and performance rating,2025-12-12T13:42:42.980Z
+52,shift_coverage,2,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":100}",Found suitable replacement based on availability and performance rating,2025-12-12T06:47:58.170Z
+53,shift_coverage,3,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":222}",Found suitable replacement based on availability and performance rating,2025-12-21T07:50:31.809Z
+54,shift_coverage,4,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":125}",Found suitable replacement based on availability and performance rating,2025-12-20T23:33:17.607Z
+55,shift_coverage,5,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":287}",Found suitable replacement based on availability and performance rating,2025-12-20T00:13:55.979Z
+56,shift_coverage,6,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":319}",Found suitable replacement based on availability and performance rating,2026-01-15T18:24:43.534Z
+57,shift_coverage,7,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":146}",Found suitable replacement based on availability and performance rating,2025-12-15T15:42:00.501Z
+58,shift_coverage,8,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":171}",Found suitable replacement based on availability and performance rating,2025-12-08T10:31:32.891Z
+59,shift_coverage,9,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":70}","Unable to find replacement, escalated to manager",2025-12-19T21:31:50.020Z
+60,shift_coverage,10,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":137}",Found suitable replacement based on availability and performance rating,2025-12-23T06:52:52.134Z
+61,shift_coverage,11,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":49}",Found suitable replacement based on availability and performance rating,2025-12-16T02:29:54.052Z
+62,shift_coverage,12,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":106}",Found suitable replacement based on availability and performance rating,2026-01-02T01:43:30.384Z
+63,shift_coverage,13,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":268}",Found suitable replacement based on availability and performance rating,2025-12-12T02:13:06.781Z
+64,shift_coverage,14,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":94}",Found suitable replacement based on availability and performance rating,2025-12-23T15:30:18.008Z
+65,shift_coverage,15,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":88}",Found suitable replacement based on availability and performance rating,2025-12-21T12:43:17.378Z
+66,shift_coverage,16,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":76}",Found suitable replacement based on availability and performance rating,2026-01-05T10:48:13.940Z
+67,shift_coverage,17,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":250}",Found suitable replacement based on availability and performance rating,2026-01-07T08:20:43.598Z
+68,shift_coverage,18,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":32}",Found suitable replacement based on availability and performance rating,2025-12-23T08:11:46.444Z
+69,shift_coverage,19,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":245}",Found suitable replacement based on availability and performance rating,2025-12-11T06:03:01.645Z
+70,shift_coverage,20,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":281}",Found suitable replacement based on availability and performance rating,2025-12-15T11:32:11.416Z
+71,shift_coverage,21,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":54}",Found suitable replacement based on availability and performance rating,2025-12-19T12:13:09.265Z
+72,shift_coverage,22,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":113}","Unable to find replacement, escalated to manager",2026-01-01T19:23:35.660Z
+73,shift_coverage,23,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":220}",Found suitable replacement based on availability and performance rating,2026-01-11T23:04:53.263Z
+74,shift_coverage,24,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":89}",Found suitable replacement based on availability and performance rating,2025-12-31T14:54:18.498Z
+75,shift_coverage,25,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":304}",Found suitable replacement based on availability and performance rating,2025-12-24T14:16:43.910Z
+76,shift_coverage,26,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":273}",Found suitable replacement based on availability and performance rating,2026-01-08T20:04:55.920Z
+77,shift_coverage,27,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":123}",Found suitable replacement based on availability and performance rating,2026-01-06T05:40:34.462Z
+78,shift_coverage,28,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":138}",Found suitable replacement based on availability and performance rating,2026-01-02T14:06:11.300Z
+79,shift_coverage,29,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":54}",Found suitable replacement based on availability and performance rating,2025-12-23T01:25:24.427Z
+80,shift_coverage,30,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":53}",Found suitable replacement based on availability and performance rating,2026-01-14T23:09:17.633Z
+81,shift_coverage,31,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":221}","Unable to find replacement, escalated to manager",2025-12-29T11:14:24.069Z
+82,shift_coverage,32,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":162}",Found suitable replacement based on availability and performance rating,2025-12-28T04:12:26.374Z
+83,shift_coverage,33,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":288}",Found suitable replacement based on availability and performance rating,2025-12-25T05:29:10.276Z
+84,shift_coverage,34,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":78}",Found suitable replacement based on availability and performance rating,2025-12-12T18:51:25.728Z
+85,shift_coverage,35,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":76}",Found suitable replacement based on availability and performance rating,2025-12-23T02:56:54.166Z
+86,shift_coverage,36,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":278}",Found suitable replacement based on availability and performance rating,2026-01-01T23:05:07.473Z
+87,shift_coverage,37,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":37}",Found suitable replacement based on availability and performance rating,2026-01-02T02:04:20.743Z
+88,shift_coverage,38,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":94}",Found suitable replacement based on availability and performance rating,2026-01-06T09:15:10.159Z
+89,shift_coverage,39,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":284}",Found suitable replacement based on availability and performance rating,2025-12-24T21:53:47.088Z
+90,shift_coverage,40,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":225}",Found suitable replacement based on availability and performance rating,2025-12-19T06:06:35.605Z
+91,shift_coverage,41,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":50}",Found suitable replacement based on availability and performance rating,2026-01-09T03:08:10.874Z
+92,shift_coverage,42,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":125}",Found suitable replacement based on availability and performance rating,2025-12-29T20:21:20.757Z
+93,shift_coverage,43,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":135}",Found suitable replacement based on availability and performance rating,2025-12-09T22:13:39.603Z
+94,shift_coverage,44,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":294}",Found suitable replacement based on availability and performance rating,2025-12-10T06:34:46.715Z
+95,shift_coverage,45,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":49}","Unable to find replacement, escalated to manager",2026-01-07T06:22:05.356Z
+96,shift_coverage,46,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":132}",Found suitable replacement based on availability and performance rating,2026-01-05T18:12:48.994Z
+97,shift_coverage,47,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":288}",Found suitable replacement based on availability and performance rating,2025-12-21T00:21:58.296Z
+98,shift_coverage,48,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":51}",Found suitable replacement based on availability and performance rating,2026-01-16T04:49:17.855Z
+99,shift_coverage,49,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":96}",Found suitable replacement based on availability and performance rating,2026-01-14T13:05:10.069Z
+100,shift_coverage,50,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":84}",Found suitable replacement based on availability and performance rating,2026-01-06T09:44:56.002Z
+101,shift_coverage,51,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":215}","Unable to find replacement, escalated to manager",2026-01-04T00:29:12.350Z
+102,shift_coverage,52,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":209}",Found suitable replacement based on availability and performance rating,2026-01-13T01:53:51.563Z
+103,shift_coverage,53,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":179}",Found suitable replacement based on availability and performance rating,2026-01-06T11:38:40.697Z
+104,shift_coverage,54,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":118}",Found suitable replacement based on availability and performance rating,2025-12-21T18:40:00.464Z
+105,shift_coverage,55,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":142}",Found suitable replacement based on availability and performance rating,2025-12-20T10:45:07.120Z
+106,shift_coverage,56,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":34}",Found suitable replacement based on availability and performance rating,2025-12-17T06:05:42.036Z
+107,shift_coverage,57,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":328}",Found suitable replacement based on availability and performance rating,2026-01-16T14:02:56.362Z
+108,shift_coverage,58,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":223}",Found suitable replacement based on availability and performance rating,2025-12-29T05:52:18.693Z
+109,shift_coverage,59,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":273}","Unable to find replacement, escalated to manager",2025-12-30T04:16:11.232Z
+110,shift_coverage,60,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":69}",Found suitable replacement based on availability and performance rating,2026-01-01T21:50:40.442Z
+111,shift_coverage,61,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":106}",Found suitable replacement based on availability and performance rating,2026-01-14T21:48:21.356Z
+112,shift_coverage,62,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":117}","Unable to find replacement, escalated to manager",2025-12-09T07:18:18.550Z
+113,shift_coverage,63,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":235}",Found suitable replacement based on availability and performance rating,2026-01-12T22:01:47.010Z
+114,shift_coverage,64,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":37}",Found suitable replacement based on availability and performance rating,2026-01-02T09:16:23.879Z
+115,shift_coverage,65,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":189}",Found suitable replacement based on availability and performance rating,2025-12-09T12:27:56.646Z
+116,shift_coverage,66,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":293}","Unable to find replacement, escalated to manager",2026-01-06T17:03:14.507Z
+117,shift_coverage,67,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":115}",Found suitable replacement based on availability and performance rating,2025-12-26T13:02:46.195Z
+118,shift_coverage,68,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":234}",Found suitable replacement based on availability and performance rating,2025-12-21T05:24:34.097Z
+119,shift_coverage,69,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":173}","Unable to find replacement, escalated to manager",2025-12-27T21:47:55.121Z
+120,shift_coverage,70,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":254}","Unable to find replacement, escalated to manager",2026-01-14T07:59:45.800Z
+121,shift_coverage,71,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":208}",Found suitable replacement based on availability and performance rating,2025-12-17T10:52:45.213Z
+122,shift_coverage,72,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":99}","Unable to find replacement, escalated to manager",2025-12-19T13:55:45.027Z
+123,shift_coverage,73,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":205}","Unable to find replacement, escalated to manager",2025-12-18T04:18:00.085Z
+124,shift_coverage,74,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":235}",Found suitable replacement based on availability and performance rating,2026-01-15T08:58:16.866Z
+125,shift_coverage,75,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":38}",Found suitable replacement based on availability and performance rating,2026-01-12T18:59:11.033Z
+126,shift_coverage,76,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":157}",Found suitable replacement based on availability and performance rating,2025-12-15T02:55:07.830Z
+127,shift_coverage,77,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":171}",Found suitable replacement based on availability and performance rating,2025-12-21T22:04:52.272Z
+128,shift_coverage,78,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":252}",Found suitable replacement based on availability and performance rating,2025-12-20T11:25:08.153Z
+129,shift_coverage,79,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":265}",Found suitable replacement based on availability and performance rating,2025-12-07T20:17:50.776Z
+130,shift_coverage,80,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":229}","Unable to find replacement, escalated to manager",2026-01-06T12:59:57.934Z
+131,shift_coverage,81,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":94}",Found suitable replacement based on availability and performance rating,2026-01-07T01:50:40.378Z
+132,shift_coverage,82,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":47}","Unable to find replacement, escalated to manager",2026-01-05T03:47:30.337Z
+133,shift_coverage,83,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":294}",Found suitable replacement based on availability and performance rating,2025-12-22T04:42:52.576Z
+134,shift_coverage,84,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":227}","Unable to find replacement, escalated to manager",2025-12-26T14:21:20.906Z
+135,shift_coverage,85,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":98}",Found suitable replacement based on availability and performance rating,2025-12-23T14:43:42.698Z
+136,shift_coverage,86,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":266}",Found suitable replacement based on availability and performance rating,2026-01-16T00:57:22.495Z
+137,shift_coverage,87,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":88}",Found suitable replacement based on availability and performance rating,2025-12-12T01:20:01.270Z
+138,shift_coverage,88,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":216}","Unable to find replacement, escalated to manager",2025-12-24T17:46:43.289Z
+139,shift_coverage,89,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":210}","Unable to find replacement, escalated to manager",2026-01-08T23:28:59.428Z
+140,shift_coverage,90,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":308}","Unable to find replacement, escalated to manager",2026-01-02T13:42:59.023Z
+141,shift_coverage,91,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":185}","Unable to find replacement, escalated to manager",2026-01-14T21:07:25.738Z
+142,shift_coverage,92,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":31}",Found suitable replacement based on availability and performance rating,2025-12-10T16:05:33.569Z
+143,shift_coverage,93,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":295}",Found suitable replacement based on availability and performance rating,2025-12-18T04:55:49.250Z
+144,shift_coverage,94,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":253}","Unable to find replacement, escalated to manager",2026-01-16T04:00:43.949Z
+145,shift_coverage,95,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":201}",Found suitable replacement based on availability and performance rating,2026-01-08T05:27:40.642Z
+146,shift_coverage,96,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":107}","Unable to find replacement, escalated to manager",2026-01-13T09:34:00.491Z
+147,shift_coverage,97,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":104}",Found suitable replacement based on availability and performance rating,2025-12-21T07:49:17.048Z
+148,shift_coverage,98,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":262}",Found suitable replacement based on availability and performance rating,2025-12-09T19:05:52.878Z
+149,shift_coverage,99,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":43}",Found suitable replacement based on availability and performance rating,2026-01-03T14:43:18.999Z
+150,shift_coverage,100,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":184}",Found suitable replacement based on availability and performance rating,2026-01-03T15:37:34.437Z
+151,shift_coverage,101,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":166}",Found suitable replacement based on availability and performance rating,2026-01-08T18:47:38.804Z
+152,shift_coverage,102,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":34}",Found suitable replacement based on availability and performance rating,2025-12-29T05:00:45.450Z
+153,shift_coverage,103,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":42}","Unable to find replacement, escalated to manager",2026-01-08T13:29:57.237Z
+154,shift_coverage,104,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":179}","Unable to find replacement, escalated to manager",2025-12-12T01:59:33.025Z
+155,shift_coverage,105,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":274}","Unable to find replacement, escalated to manager",2026-01-05T05:11:25.038Z
+156,shift_coverage,106,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":326}",Found suitable replacement based on availability and performance rating,2026-01-07T16:06:51.150Z
+157,shift_coverage,107,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":72}","Unable to find replacement, escalated to manager",2025-12-23T20:05:21.091Z
+158,shift_coverage,108,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":45}",Found suitable replacement based on availability and performance rating,2025-12-10T01:35:32.706Z
+159,shift_coverage,109,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":318}",Found suitable replacement based on availability and performance rating,2025-12-14T23:46:45.451Z
+160,shift_coverage,110,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":274}",Found suitable replacement based on availability and performance rating,2025-12-15T13:49:34.009Z
+161,shift_coverage,111,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":307}",Found suitable replacement based on availability and performance rating,2026-01-12T19:36:56.719Z
+162,shift_coverage,112,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":76}","Unable to find replacement, escalated to manager",2025-12-12T01:04:46.044Z
+163,shift_coverage,113,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":283}","Unable to find replacement, escalated to manager",2025-12-17T21:39:01.692Z
+164,shift_coverage,114,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":306}",Found suitable replacement based on availability and performance rating,2025-12-23T19:54:13.547Z
+165,shift_coverage,115,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":226}",Found suitable replacement based on availability and performance rating,2025-12-20T00:51:38.780Z
+166,shift_coverage,116,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":210}",Found suitable replacement based on availability and performance rating,2025-12-13T04:01:08.458Z
+167,shift_coverage,117,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":213}",Found suitable replacement based on availability and performance rating,2026-01-01T06:01:28.970Z
+168,shift_coverage,118,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":316}",Found suitable replacement based on availability and performance rating,2026-01-16T11:35:28.200Z
+169,shift_coverage,119,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":31}",Found suitable replacement based on availability and performance rating,2025-12-29T13:03:27.446Z
+170,shift_coverage,120,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":134}",Found suitable replacement based on availability and performance rating,2025-12-28T08:45:37.091Z
+171,shift_coverage,121,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":242}",Found suitable replacement based on availability and performance rating,2026-01-02T19:59:00.161Z
+172,shift_coverage,122,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":104}",Found suitable replacement based on availability and performance rating,2026-01-11T08:49:21.114Z
+173,shift_coverage,123,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":270}",Found suitable replacement based on availability and performance rating,2026-01-03T04:43:58.032Z
+174,shift_coverage,124,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":46}","Unable to find replacement, escalated to manager",2025-12-09T16:03:09.921Z
+175,shift_coverage,125,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":308}",Found suitable replacement based on availability and performance rating,2025-12-22T21:17:21.356Z
+176,shift_coverage,126,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":148}",Found suitable replacement based on availability and performance rating,2026-01-10T18:22:45.752Z
+177,shift_coverage,127,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":266}",Found suitable replacement based on availability and performance rating,2025-12-13T09:16:48.246Z
+178,shift_coverage,128,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":82}",Found suitable replacement based on availability and performance rating,2025-12-14T20:57:33.973Z
+179,shift_coverage,129,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":124}",Found suitable replacement based on availability and performance rating,2026-01-06T03:51:08.751Z
+180,shift_coverage,130,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":168}",Found suitable replacement based on availability and performance rating,2025-12-08T13:57:54.992Z
+181,shift_coverage,131,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":225}",Found suitable replacement based on availability and performance rating,2025-12-25T08:53:44.560Z
+182,shift_coverage,132,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":313}",Found suitable replacement based on availability and performance rating,2026-01-11T01:38:07.180Z
+183,shift_coverage,133,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":193}",Found suitable replacement based on availability and performance rating,2026-01-07T07:39:59.813Z
+184,shift_coverage,134,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":168}","Unable to find replacement, escalated to manager",2026-01-07T19:14:03.141Z
+185,shift_coverage,135,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":239}",Found suitable replacement based on availability and performance rating,2025-12-27T17:14:06.878Z
+186,shift_coverage,136,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":164}",Found suitable replacement based on availability and performance rating,2025-12-12T00:42:07.554Z
+187,shift_coverage,137,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":144}",Found suitable replacement based on availability and performance rating,2026-01-03T08:00:11.666Z
+188,shift_coverage,138,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":261}",Found suitable replacement based on availability and performance rating,2025-12-28T03:50:19.455Z
+189,shift_coverage,139,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":166}",Found suitable replacement based on availability and performance rating,2025-12-27T21:12:43.071Z
+190,shift_coverage,140,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":83}","Unable to find replacement, escalated to manager",2026-01-05T21:42:00.530Z
+191,shift_coverage,141,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":47}",Found suitable replacement based on availability and performance rating,2025-12-08T20:16:28.087Z
+192,shift_coverage,142,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":234}",Found suitable replacement based on availability and performance rating,2025-12-26T19:26:39.175Z
+193,shift_coverage,143,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":231}",Found suitable replacement based on availability and performance rating,2025-12-18T01:00:29.156Z
+194,shift_coverage,144,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":309}","Unable to find replacement, escalated to manager",2025-12-16T00:03:32.626Z
+195,shift_coverage,145,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":243}",Found suitable replacement based on availability and performance rating,2026-01-12T19:09:36.285Z
+196,shift_coverage,146,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":209}",Found suitable replacement based on availability and performance rating,2025-12-11T09:56:41.078Z
+197,shift_coverage,147,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":140}",Found suitable replacement based on availability and performance rating,2026-01-10T10:08:25.865Z
+198,shift_coverage,148,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":204}",Found suitable replacement based on availability and performance rating,2025-12-29T12:49:28.446Z
+199,shift_coverage,149,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":268}",Found suitable replacement based on availability and performance rating,2025-12-12T18:10:52.141Z
+200,shift_coverage,150,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":77}",Found suitable replacement based on availability and performance rating,2025-12-09T01:41:44.823Z
+201,shift_coverage,151,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":161}",Found suitable replacement based on availability and performance rating,2026-01-03T00:18:08.303Z
+202,shift_coverage,152,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":248}",Found suitable replacement based on availability and performance rating,2026-01-14T17:41:23.018Z
+203,shift_coverage,153,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":167}","Unable to find replacement, escalated to manager",2026-01-06T18:11:31.568Z
+204,shift_coverage,154,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":281}",Found suitable replacement based on availability and performance rating,2025-12-09T19:59:57.602Z
+205,shift_coverage,155,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":130}",Found suitable replacement based on availability and performance rating,2026-01-14T09:23:07.083Z
+206,shift_coverage,156,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":182}",Found suitable replacement based on availability and performance rating,2025-12-10T22:10:41.939Z
+207,shift_coverage,157,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":241}",Found suitable replacement based on availability and performance rating,2026-01-13T21:23:59.226Z
+208,shift_coverage,158,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":113}",Found suitable replacement based on availability and performance rating,2026-01-08T18:17:36.692Z
+209,shift_coverage,159,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":197}","Unable to find replacement, escalated to manager",2026-01-16T14:59:01.189Z
+210,shift_coverage,160,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":30}",Found suitable replacement based on availability and performance rating,2025-12-25T03:20:08.563Z
+211,shift_coverage,161,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":104}",Found suitable replacement based on availability and performance rating,2025-12-20T08:47:43.336Z
+212,shift_coverage,162,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":291}",Found suitable replacement based on availability and performance rating,2026-01-10T08:23:27.127Z
+213,shift_coverage,163,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":208}",Found suitable replacement based on availability and performance rating,2026-01-14T00:08:28.105Z
+214,shift_coverage,164,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":243}",Found suitable replacement based on availability and performance rating,2025-12-31T10:54:57.605Z
+215,shift_coverage,165,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":163}",Found suitable replacement based on availability and performance rating,2025-12-30T19:24:21.793Z
+216,shift_coverage,166,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":168}","Unable to find replacement, escalated to manager",2025-12-30T19:04:24.483Z
+217,shift_coverage,167,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":229}","Unable to find replacement, escalated to manager",2026-01-16T16:54:52.809Z
+218,shift_coverage,168,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":85}",Found suitable replacement based on availability and performance rating,2025-12-15T23:25:14.540Z
+219,shift_coverage,169,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":308}",Found suitable replacement based on availability and performance rating,2026-01-12T05:54:38.438Z
+220,shift_coverage,170,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":262}",Found suitable replacement based on availability and performance rating,2025-12-18T12:20:44.193Z
+221,shift_coverage,171,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":317}",Found suitable replacement based on availability and performance rating,2025-12-25T03:27:03.399Z
+222,shift_coverage,172,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":132}",Found suitable replacement based on availability and performance rating,2026-01-16T06:45:31.194Z
+223,shift_coverage,173,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":267}",Found suitable replacement based on availability and performance rating,2025-12-10T15:03:34.825Z
+224,shift_coverage,174,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":74}",Found suitable replacement based on availability and performance rating,2025-12-14T16:19:03.368Z
+225,shift_coverage,175,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":71}",Found suitable replacement based on availability and performance rating,2026-01-08T14:21:50.894Z
+226,shift_coverage,176,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":275}",Found suitable replacement based on availability and performance rating,2025-12-13T09:33:06.121Z
+227,shift_coverage,177,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":325}",Found suitable replacement based on availability and performance rating,2025-12-09T05:11:41.581Z
+228,shift_coverage,178,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":231}","Unable to find replacement, escalated to manager",2025-12-29T18:35:17.497Z
+229,shift_coverage,179,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":300}","Unable to find replacement, escalated to manager",2025-12-25T19:00:09.238Z
+230,shift_coverage,180,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":169}",Found suitable replacement based on availability and performance rating,2025-12-30T04:52:19.259Z
+231,shift_coverage,181,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":66}",Found suitable replacement based on availability and performance rating,2025-12-20T11:50:42.545Z
+232,shift_coverage,182,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":306}",Found suitable replacement based on availability and performance rating,2025-12-27T09:44:39.064Z
+233,shift_coverage,183,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":208}",Found suitable replacement based on availability and performance rating,2026-01-09T14:01:50.190Z
+234,shift_coverage,184,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":151}","Unable to find replacement, escalated to manager",2026-01-03T06:55:03.899Z
+235,shift_coverage,185,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":293}",Found suitable replacement based on availability and performance rating,2025-12-28T01:19:02.100Z
+236,shift_coverage,186,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":297}",Found suitable replacement based on availability and performance rating,2026-01-03T12:57:41.092Z
+237,shift_coverage,187,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":62}",Found suitable replacement based on availability and performance rating,2026-01-13T04:29:52.876Z
+238,shift_coverage,188,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":63}","Unable to find replacement, escalated to manager",2026-01-04T05:31:11.842Z
+239,shift_coverage,189,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":119}","Unable to find replacement, escalated to manager",2025-12-18T17:13:47.458Z
+240,shift_coverage,190,"{""action"":""assign_replacement"",""replacement_found"":false,""search_time_seconds"":177}","Unable to find replacement, escalated to manager",2026-01-12T11:37:19.424Z
+241,shift_coverage,191,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":326}",Found suitable replacement based on availability and performance rating,2025-12-15T09:23:00.307Z
+242,shift_coverage,192,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":159}",Found suitable replacement based on availability and performance rating,2026-01-14T16:56:22.068Z
+243,shift_coverage,193,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":65}",Found suitable replacement based on availability and performance rating,2026-01-01T22:43:27.479Z
+244,shift_coverage,194,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":139}",Found suitable replacement based on availability and performance rating,2026-01-08T01:02:35.282Z
+245,shift_coverage,195,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":65}",Found suitable replacement based on availability and performance rating,2025-12-30T08:36:47.880Z
+246,shift_coverage,196,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":314}",Found suitable replacement based on availability and performance rating,2026-01-12T23:50:59.653Z
+247,shift_coverage,197,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":46}",Found suitable replacement based on availability and performance rating,2025-12-25T16:43:32.957Z
+248,shift_coverage,198,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":121}",Found suitable replacement based on availability and performance rating,2025-12-15T10:07:57.240Z
+249,shift_coverage,199,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":171}",Found suitable replacement based on availability and performance rating,2026-01-14T10:40:02.260Z
+250,shift_coverage,200,"{""action"":""assign_replacement"",""replacement_found"":true,""search_time_seconds"":53}",Found suitable replacement based on availability and performance rating,2026-01-14T01:47:57.088Z
+251,payout_approval,1,"{""action"":""approve_payout"",""approved"":true,""amount"":184}","Shift completed satisfactorily, attendance verified",2026-01-05T04:37:17.375Z
+252,payout_approval,2,"{""action"":""approve_payout"",""approved"":true,""amount"":139}","Shift completed satisfactorily, attendance verified",2025-12-24T06:26:06.677Z
+253,payout_approval,3,"{""action"":""approve_payout"",""approved"":false,""amount"":155}",Payout rejected due to incomplete shift or attendance issues,2026-01-01T01:06:09.480Z
+254,payout_approval,4,"{""action"":""approve_payout"",""approved"":true,""amount"":198}","Shift completed satisfactorily, attendance verified",2026-01-13T22:08:21.032Z
+255,payout_approval,5,"{""action"":""approve_payout"",""approved"":false,""amount"":137}",Payout rejected due to incomplete shift or attendance issues,2026-01-07T11:47:03.117Z
+256,payout_approval,6,"{""action"":""approve_payout"",""approved"":true,""amount"":184}","Shift completed satisfactorily, attendance verified",2026-01-08T00:38:18.371Z
+257,payout_approval,7,"{""action"":""approve_payout"",""approved"":true,""amount"":206}","Shift completed satisfactorily, attendance verified",2026-01-16T02:53:07.696Z
+258,payout_approval,8,"{""action"":""approve_payout"",""approved"":true,""amount"":205}","Shift completed satisfactorily, attendance verified",2026-01-13T08:52:55.326Z
+259,payout_approval,9,"{""action"":""approve_payout"",""approved"":false,""amount"":132}",Payout rejected due to incomplete shift or attendance issues,2026-01-12T00:24:17.581Z
+260,payout_approval,10,"{""action"":""approve_payout"",""approved"":true,""amount"":135}","Shift completed satisfactorily, attendance verified",2026-01-04T20:12:02.634Z
+261,payout_approval,11,"{""action"":""approve_payout"",""approved"":true,""amount"":165}","Shift completed satisfactorily, attendance verified",2025-12-17T19:19:54.207Z
+262,payout_approval,12,"{""action"":""approve_payout"",""approved"":true,""amount"":137}","Shift completed satisfactorily, attendance verified",2026-01-02T06:00:07.537Z
+263,payout_approval,13,"{""action"":""approve_payout"",""approved"":true,""amount"":178}","Shift completed satisfactorily, attendance verified",2026-01-12T20:43:04.879Z
+264,payout_approval,14,"{""action"":""approve_payout"",""approved"":true,""amount"":179}","Shift completed satisfactorily, attendance verified",2025-12-18T18:48:51.359Z
+265,payout_approval,15,"{""action"":""approve_payout"",""approved"":true,""amount"":153}","Shift completed satisfactorily, attendance verified",2026-01-11T08:26:30.340Z
+266,payout_approval,16,"{""action"":""approve_payout"",""approved"":true,""amount"":186}","Shift completed satisfactorily, attendance verified",2026-01-04T10:28:46.762Z
+267,payout_approval,17,"{""action"":""approve_payout"",""approved"":true,""amount"":183}","Shift completed satisfactorily, attendance verified",2026-01-09T16:14:47.000Z
+268,payout_approval,18,"{""action"":""approve_payout"",""approved"":true,""amount"":169}","Shift completed satisfactorily, attendance verified",2025-12-31T03:24:34.103Z
+269,payout_approval,19,"{""action"":""approve_payout"",""approved"":true,""amount"":167}","Shift completed satisfactorily, attendance verified",2025-12-20T18:34:19.561Z
+270,payout_approval,20,"{""action"":""approve_payout"",""approved"":true,""amount"":211}","Shift completed satisfactorily, attendance verified",2025-12-27T22:27:50.402Z
+271,payout_approval,21,"{""action"":""approve_payout"",""approved"":true,""amount"":181}","Shift completed satisfactorily, attendance verified",2025-12-24T04:13:33.271Z
+272,payout_approval,22,"{""action"":""approve_payout"",""approved"":true,""amount"":186}","Shift completed satisfactorily, attendance verified",2026-01-12T01:42:09.571Z
+273,payout_approval,23,"{""action"":""approve_payout"",""approved"":true,""amount"":128}","Shift completed satisfactorily, attendance verified",2026-01-02T01:59:29.392Z
+274,payout_approval,24,"{""action"":""approve_payout"",""approved"":true,""amount"":206}","Shift completed satisfactorily, attendance verified",2026-01-05T06:04:55.852Z
+275,payout_approval,25,"{""action"":""approve_payout"",""approved"":true,""amount"":144}","Shift completed satisfactorily, attendance verified",2026-01-09T10:15:40.503Z
+276,payout_approval,26,"{""action"":""approve_payout"",""approved"":true,""amount"":131}","Shift completed satisfactorily, attendance verified",2026-01-13T23:43:45.026Z
+277,payout_approval,27,"{""action"":""approve_payout"",""approved"":true,""amount"":215}","Shift completed satisfactorily, attendance verified",2026-01-11T09:19:44.949Z
+278,payout_approval,28,"{""action"":""approve_payout"",""approved"":true,""amount"":166}","Shift completed satisfactorily, attendance verified",2025-12-21T18:47:42.827Z
+279,payout_approval,29,"{""action"":""approve_payout"",""approved"":true,""amount"":148}","Shift completed satisfactorily, attendance verified",2026-01-05T14:30:18.394Z
+280,payout_approval,30,"{""action"":""approve_payout"",""approved"":true,""amount"":156}","Shift completed satisfactorily, attendance verified",2025-12-14T20:11:25.296Z
+281,payout_approval,31,"{""action"":""approve_payout"",""approved"":true,""amount"":168}","Shift completed satisfactorily, attendance verified",2025-12-12T19:10:11.842Z
+282,payout_approval,32,"{""action"":""approve_payout"",""approved"":true,""amount"":190}","Shift completed satisfactorily, attendance verified",2026-01-04T17:41:55.304Z
+283,payout_approval,33,"{""action"":""approve_payout"",""approved"":false,""amount"":148}",Payout rejected due to incomplete shift or attendance issues,2025-12-14T09:08:17.358Z
+284,payout_approval,34,"{""action"":""approve_payout"",""approved"":true,""amount"":214}","Shift completed satisfactorily, attendance verified",2026-01-09T01:40:25.674Z
+285,payout_approval,35,"{""action"":""approve_payout"",""approved"":true,""amount"":204}","Shift completed satisfactorily, attendance verified",2026-01-09T12:53:15.083Z
+286,payout_approval,36,"{""action"":""approve_payout"",""approved"":false,""amount"":147}",Payout rejected due to incomplete shift or attendance issues,2026-01-14T15:47:08.389Z
+287,payout_approval,37,"{""action"":""approve_payout"",""approved"":true,""amount"":216}","Shift completed satisfactorily, attendance verified",2026-01-09T18:05:56.833Z
+288,payout_approval,38,"{""action"":""approve_payout"",""approved"":true,""amount"":204}","Shift completed satisfactorily, attendance verified",2026-01-10T14:42:28.333Z
+289,payout_approval,39,"{""action"":""approve_payout"",""approved"":true,""amount"":204}","Shift completed satisfactorily, attendance verified",2025-12-24T19:12:47.384Z
+290,payout_approval,40,"{""action"":""approve_payout"",""approved"":true,""amount"":179}","Shift completed satisfactorily, attendance verified",2026-01-08T13:52:35.016Z
+291,payout_approval,41,"{""action"":""approve_payout"",""approved"":true,""amount"":217}","Shift completed satisfactorily, attendance verified",2026-01-15T16:39:53.031Z
+292,payout_approval,42,"{""action"":""approve_payout"",""approved"":true,""amount"":121}","Shift completed satisfactorily, attendance verified",2025-12-13T00:52:29.016Z
+293,payout_approval,43,"{""action"":""approve_payout"",""approved"":true,""amount"":219}","Shift completed satisfactorily, attendance verified",2026-01-11T04:21:02.071Z
+294,payout_approval,44,"{""action"":""approve_payout"",""approved"":false,""amount"":156}",Payout rejected due to incomplete shift or attendance issues,2026-01-07T11:44:44.652Z
+295,payout_approval,45,"{""action"":""approve_payout"",""approved"":true,""amount"":128}","Shift completed satisfactorily, attendance verified",2025-12-16T16:45:10.855Z
+296,payout_approval,46,"{""action"":""approve_payout"",""approved"":true,""amount"":200}","Shift completed satisfactorily, attendance verified",2026-01-06T05:31:09.285Z
+297,payout_approval,47,"{""action"":""approve_payout"",""approved"":true,""amount"":154}","Shift completed satisfactorily, attendance verified",2025-12-24T12:08:33.227Z
+298,payout_approval,48,"{""action"":""approve_payout"",""approved"":true,""amount"":125}","Shift completed satisfactorily, attendance verified",2026-01-13T23:59:43.779Z
+299,payout_approval,49,"{""action"":""approve_payout"",""approved"":true,""amount"":121}","Shift completed satisfactorily, attendance verified",2026-01-11T16:05:40.440Z
+300,payout_approval,50,"{""action"":""approve_payout"",""approved"":true,""amount"":183}","Shift completed satisfactorily, attendance verified",2025-12-19T02:08:03.698Z
+301,payout_approval,51,"{""action"":""approve_payout"",""approved"":true,""amount"":194}","Shift completed satisfactorily, attendance verified",2025-12-13T14:02:28.030Z
+302,payout_approval,52,"{""action"":""approve_payout"",""approved"":true,""amount"":123}","Shift completed satisfactorily, attendance verified",2026-01-15T21:07:43.629Z
+303,payout_approval,53,"{""action"":""approve_payout"",""approved"":true,""amount"":213}","Shift completed satisfactorily, attendance verified",2025-12-16T08:36:02.186Z
+304,payout_approval,54,"{""action"":""approve_payout"",""approved"":true,""amount"":190}","Shift completed satisfactorily, attendance verified",2025-12-17T05:19:06.339Z
+305,payout_approval,55,"{""action"":""approve_payout"",""approved"":true,""amount"":127}","Shift completed satisfactorily, attendance verified",2025-12-21T19:20:03.635Z
+306,payout_approval,56,"{""action"":""approve_payout"",""approved"":true,""amount"":156}","Shift completed satisfactorily, attendance verified",2025-12-21T00:38:22.863Z
+307,payout_approval,57,"{""action"":""approve_payout"",""approved"":true,""amount"":124}","Shift completed satisfactorily, attendance verified",2025-12-25T15:13:44.197Z
+308,payout_approval,58,"{""action"":""approve_payout"",""approved"":true,""amount"":150}","Shift completed satisfactorily, attendance verified",2026-01-15T12:07:33.116Z
+309,payout_approval,59,"{""action"":""approve_payout"",""approved"":true,""amount"":164}","Shift completed satisfactorily, attendance verified",2026-01-05T15:36:29.255Z
+310,payout_approval,60,"{""action"":""approve_payout"",""approved"":true,""amount"":191}","Shift completed satisfactorily, attendance verified",2026-01-01T22:13:46.056Z
+311,payout_approval,61,"{""action"":""approve_payout"",""approved"":true,""amount"":191}","Shift completed satisfactorily, attendance verified",2025-12-25T13:50:18.775Z
+312,payout_approval,62,"{""action"":""approve_payout"",""approved"":true,""amount"":178}","Shift completed satisfactorily, attendance verified",2026-01-08T19:26:35.480Z
+313,payout_approval,63,"{""action"":""approve_payout"",""approved"":true,""amount"":155}","Shift completed satisfactorily, attendance verified",2025-12-31T01:07:20.946Z
+314,payout_approval,64,"{""action"":""approve_payout"",""approved"":true,""amount"":182}","Shift completed satisfactorily, attendance verified",2025-12-28T01:45:14.761Z
+315,payout_approval,65,"{""action"":""approve_payout"",""approved"":true,""amount"":187}","Shift completed satisfactorily, attendance verified",2026-01-07T12:28:55.001Z
+316,payout_approval,66,"{""action"":""approve_payout"",""approved"":false,""amount"":212}",Payout rejected due to incomplete shift or attendance issues,2025-12-19T22:50:03.795Z
+317,payout_approval,67,"{""action"":""approve_payout"",""approved"":false,""amount"":133}",Payout rejected due to incomplete shift or attendance issues,2025-12-30T13:08:16.693Z
+318,payout_approval,68,"{""action"":""approve_payout"",""approved"":true,""amount"":197}","Shift completed satisfactorily, attendance verified",2025-12-31T02:51:27.765Z
+319,payout_approval,69,"{""action"":""approve_payout"",""approved"":true,""amount"":192}","Shift completed satisfactorily, attendance verified",2025-12-30T19:37:29.119Z
+320,payout_approval,70,"{""action"":""approve_payout"",""approved"":true,""amount"":219}","Shift completed satisfactorily, attendance verified",2025-12-20T03:14:32.137Z
+321,payout_approval,71,"{""action"":""approve_payout"",""approved"":true,""amount"":149}","Shift completed satisfactorily, attendance verified",2025-12-15T03:08:05.417Z
+322,payout_approval,72,"{""action"":""approve_payout"",""approved"":true,""amount"":185}","Shift completed satisfactorily, attendance verified",2026-01-02T18:43:19.198Z
+323,payout_approval,73,"{""action"":""approve_payout"",""approved"":false,""amount"":188}",Payout rejected due to incomplete shift or attendance issues,2025-12-21T12:08:58.074Z
+324,payout_approval,74,"{""action"":""approve_payout"",""approved"":true,""amount"":140}","Shift completed satisfactorily, attendance verified",2025-12-23T14:16:00.703Z
+325,payout_approval,75,"{""action"":""approve_payout"",""approved"":true,""amount"":128}","Shift completed satisfactorily, attendance verified",2025-12-17T04:05:47.625Z
+326,payout_approval,76,"{""action"":""approve_payout"",""approved"":true,""amount"":205}","Shift completed satisfactorily, attendance verified",2025-12-31T09:48:44.922Z
+327,payout_approval,77,"{""action"":""approve_payout"",""approved"":true,""amount"":159}","Shift completed satisfactorily, attendance verified",2026-01-16T10:03:17.071Z
+328,payout_approval,78,"{""action"":""approve_payout"",""approved"":true,""amount"":127}","Shift completed satisfactorily, attendance verified",2026-01-05T23:30:49.096Z
+329,payout_approval,79,"{""action"":""approve_payout"",""approved"":true,""amount"":175}","Shift completed satisfactorily, attendance verified",2025-12-22T06:00:04.912Z
+330,payout_approval,80,"{""action"":""approve_payout"",""approved"":false,""amount"":195}",Payout rejected due to incomplete shift or attendance issues,2025-12-15T10:12:14.252Z
+331,payout_approval,81,"{""action"":""approve_payout"",""approved"":false,""amount"":195}",Payout rejected due to incomplete shift or attendance issues,2025-12-27T22:54:31.830Z
+332,payout_approval,82,"{""action"":""approve_payout"",""approved"":true,""amount"":176}","Shift completed satisfactorily, attendance verified",2026-01-14T13:45:41.040Z
+333,payout_approval,83,"{""action"":""approve_payout"",""approved"":false,""amount"":139}",Payout rejected due to incomplete shift or attendance issues,2025-12-21T13:39:16.551Z
+334,payout_approval,84,"{""action"":""approve_payout"",""approved"":true,""amount"":198}","Shift completed satisfactorily, attendance verified",2025-12-27T23:46:05.573Z
+335,payout_approval,85,"{""action"":""approve_payout"",""approved"":true,""amount"":156}","Shift completed satisfactorily, attendance verified",2026-01-11T13:59:00.363Z
+336,payout_approval,86,"{""action"":""approve_payout"",""approved"":false,""amount"":161}",Payout rejected due to incomplete shift or attendance issues,2026-01-10T06:32:14.491Z
+337,payout_approval,87,"{""action"":""approve_payout"",""approved"":true,""amount"":126}","Shift completed satisfactorily, attendance verified",2025-12-30T13:37:03.526Z
+338,payout_approval,88,"{""action"":""approve_payout"",""approved"":true,""amount"":207}","Shift completed satisfactorily, attendance verified",2025-12-14T10:59:17.760Z
+339,payout_approval,89,"{""action"":""approve_payout"",""approved"":true,""amount"":178}","Shift completed satisfactorily, attendance verified",2025-12-30T14:58:26.895Z
+340,payout_approval,90,"{""action"":""approve_payout"",""approved"":true,""amount"":194}","Shift completed satisfactorily, attendance verified",2026-01-09T13:21:25.469Z
+341,payout_approval,91,"{""action"":""approve_payout"",""approved"":false,""amount"":142}",Payout rejected due to incomplete shift or attendance issues,2025-12-22T04:13:48.790Z
+342,payout_approval,92,"{""action"":""approve_payout"",""approved"":true,""amount"":194}","Shift completed satisfactorily, attendance verified",2026-01-03T10:02:13.381Z
+343,payout_approval,93,"{""action"":""approve_payout"",""approved"":true,""amount"":189}","Shift completed satisfactorily, attendance verified",2026-01-13T09:22:22.923Z
+344,payout_approval,94,"{""action"":""approve_payout"",""approved"":true,""amount"":120}","Shift completed satisfactorily, attendance verified",2026-01-08T03:29:20.322Z
+345,payout_approval,95,"{""action"":""approve_payout"",""approved"":true,""amount"":168}","Shift completed satisfactorily, attendance verified",2026-01-01T12:56:28.605Z
+346,payout_approval,96,"{""action"":""approve_payout"",""approved"":true,""amount"":178}","Shift completed satisfactorily, attendance verified",2026-01-02T07:57:28.982Z
+347,payout_approval,97,"{""action"":""approve_payout"",""approved"":true,""amount"":158}","Shift completed satisfactorily, attendance verified",2025-12-22T16:08:25.073Z
+348,payout_approval,98,"{""action"":""approve_payout"",""approved"":true,""amount"":178}","Shift completed satisfactorily, attendance verified",2025-12-21T12:39:56.104Z
+349,payout_approval,99,"{""action"":""approve_payout"",""approved"":true,""amount"":156}","Shift completed satisfactorily, attendance verified",2025-12-13T11:35:35.302Z
+350,payout_approval,100,"{""action"":""approve_payout"",""approved"":true,""amount"":212}","Shift completed satisfactorily, attendance verified",2025-12-13T10:58:12.811Z
+351,payout_approval,101,"{""action"":""approve_payout"",""approved"":true,""amount"":124}","Shift completed satisfactorily, attendance verified",2025-12-25T22:31:47.346Z
+352,payout_approval,102,"{""action"":""approve_payout"",""approved"":true,""amount"":154}","Shift completed satisfactorily, attendance verified",2025-12-19T03:40:29.032Z
+353,payout_approval,103,"{""action"":""approve_payout"",""approved"":true,""amount"":196}","Shift completed satisfactorily, attendance verified",2025-12-22T05:52:16.690Z
+354,payout_approval,104,"{""action"":""approve_payout"",""approved"":true,""amount"":153}","Shift completed satisfactorily, attendance verified",2026-01-08T04:42:09.702Z
+355,payout_approval,105,"{""action"":""approve_payout"",""approved"":true,""amount"":204}","Shift completed satisfactorily, attendance verified",2026-01-03T17:02:30.468Z
+356,payout_approval,106,"{""action"":""approve_payout"",""approved"":true,""amount"":123}","Shift completed satisfactorily, attendance verified",2026-01-14T19:38:11.209Z
+357,payout_approval,107,"{""action"":""approve_payout"",""approved"":true,""amount"":131}","Shift completed satisfactorily, attendance verified",2026-01-16T12:03:46.421Z
+358,payout_approval,108,"{""action"":""approve_payout"",""approved"":true,""amount"":198}","Shift completed satisfactorily, attendance verified",2025-12-18T22:18:31.458Z
+359,payout_approval,109,"{""action"":""approve_payout"",""approved"":true,""amount"":188}","Shift completed satisfactorily, attendance verified",2025-12-31T07:44:14.554Z
+360,payout_approval,110,"{""action"":""approve_payout"",""approved"":false,""amount"":145}",Payout rejected due to incomplete shift or attendance issues,2025-12-27T07:40:45.406Z
+361,payout_approval,111,"{""action"":""approve_payout"",""approved"":true,""amount"":201}","Shift completed satisfactorily, attendance verified",2025-12-19T12:55:44.931Z
+362,payout_approval,112,"{""action"":""approve_payout"",""approved"":true,""amount"":144}","Shift completed satisfactorily, attendance verified",2026-01-03T20:04:48.015Z
+363,payout_approval,113,"{""action"":""approve_payout"",""approved"":true,""amount"":127}","Shift completed satisfactorily, attendance verified",2026-01-10T22:56:00.612Z
+364,payout_approval,114,"{""action"":""approve_payout"",""approved"":true,""amount"":142}","Shift completed satisfactorily, attendance verified",2026-01-05T22:31:08.735Z
+365,payout_approval,115,"{""action"":""approve_payout"",""approved"":true,""amount"":162}","Shift completed satisfactorily, attendance verified",2025-12-21T23:10:20.958Z
+366,payout_approval,116,"{""action"":""approve_payout"",""approved"":true,""amount"":177}","Shift completed satisfactorily, attendance verified",2025-12-18T21:50:07.145Z
+367,payout_approval,117,"{""action"":""approve_payout"",""approved"":true,""amount"":120}","Shift completed satisfactorily, attendance verified",2026-01-08T15:22:56.932Z
+368,payout_approval,118,"{""action"":""approve_payout"",""approved"":false,""amount"":152}",Payout rejected due to incomplete shift or attendance issues,2025-12-28T22:49:15.676Z
+369,payout_approval,119,"{""action"":""approve_payout"",""approved"":true,""amount"":178}","Shift completed satisfactorily, attendance verified",2026-01-11T05:30:44.448Z
+370,payout_approval,120,"{""action"":""approve_payout"",""approved"":true,""amount"":212}","Shift completed satisfactorily, attendance verified",2025-12-30T12:55:43.360Z
+371,payout_approval,121,"{""action"":""approve_payout"",""approved"":true,""amount"":127}","Shift completed satisfactorily, attendance verified",2026-01-05T19:31:47.326Z
+372,payout_approval,122,"{""action"":""approve_payout"",""approved"":false,""amount"":122}",Payout rejected due to incomplete shift or attendance issues,2025-12-28T11:36:55.091Z
+373,payout_approval,123,"{""action"":""approve_payout"",""approved"":true,""amount"":165}","Shift completed satisfactorily, attendance verified",2026-01-06T04:21:23.847Z
+374,payout_approval,124,"{""action"":""approve_payout"",""approved"":true,""amount"":165}","Shift completed satisfactorily, attendance verified",2025-12-20T15:48:45.354Z
+375,payout_approval,125,"{""action"":""approve_payout"",""approved"":true,""amount"":129}","Shift completed satisfactorily, attendance verified",2026-01-09T14:41:20.346Z
+376,payout_approval,126,"{""action"":""approve_payout"",""approved"":true,""amount"":181}","Shift completed satisfactorily, attendance verified",2025-12-23T20:20:53.083Z
+377,payout_approval,127,"{""action"":""approve_payout"",""approved"":true,""amount"":167}","Shift completed satisfactorily, attendance verified",2026-01-11T02:45:11.885Z
+378,payout_approval,128,"{""action"":""approve_payout"",""approved"":true,""amount"":206}","Shift completed satisfactorily, attendance verified",2025-12-25T19:13:28.285Z
+379,payout_approval,129,"{""action"":""approve_payout"",""approved"":true,""amount"":199}","Shift completed satisfactorily, attendance verified",2026-01-06T03:26:11.184Z
+380,payout_approval,130,"{""action"":""approve_payout"",""approved"":true,""amount"":178}","Shift completed satisfactorily, attendance verified",2026-01-03T02:28:41.268Z
+381,payout_approval,131,"{""action"":""approve_payout"",""approved"":false,""amount"":134}",Payout rejected due to incomplete shift or attendance issues,2025-12-19T17:45:23.061Z
+382,payout_approval,132,"{""action"":""approve_payout"",""approved"":true,""amount"":213}","Shift completed satisfactorily, attendance verified",2026-01-15T08:16:36.571Z
+383,payout_approval,133,"{""action"":""approve_payout"",""approved"":true,""amount"":156}","Shift completed satisfactorily, attendance verified",2026-01-09T15:40:58.742Z
+384,payout_approval,134,"{""action"":""approve_payout"",""approved"":true,""amount"":134}","Shift completed satisfactorily, attendance verified",2025-12-21T22:33:54.530Z
+385,payout_approval,135,"{""action"":""approve_payout"",""approved"":true,""amount"":182}","Shift completed satisfactorily, attendance verified",2025-12-16T18:11:20.401Z
+386,payout_approval,136,"{""action"":""approve_payout"",""approved"":true,""amount"":147}","Shift completed satisfactorily, attendance verified",2025-12-16T09:53:11.428Z
+387,payout_approval,137,"{""action"":""approve_payout"",""approved"":true,""amount"":139}","Shift completed satisfactorily, attendance verified",2026-01-03T12:17:48.751Z
+388,payout_approval,138,"{""action"":""approve_payout"",""approved"":true,""amount"":193}","Shift completed satisfactorily, attendance verified",2026-01-10T04:15:44.295Z
+389,payout_approval,139,"{""action"":""approve_payout"",""approved"":true,""amount"":135}","Shift completed satisfactorily, attendance verified",2025-12-18T12:21:14.798Z
+390,payout_approval,140,"{""action"":""approve_payout"",""approved"":true,""amount"":155}","Shift completed satisfactorily, attendance verified",2025-12-27T14:03:46.425Z
+391,payout_approval,141,"{""action"":""approve_payout"",""approved"":true,""amount"":214}","Shift completed satisfactorily, attendance verified",2025-12-23T17:59:00.972Z
+392,payout_approval,142,"{""action"":""approve_payout"",""approved"":true,""amount"":162}","Shift completed satisfactorily, attendance verified",2025-12-31T03:16:46.470Z
+393,payout_approval,143,"{""action"":""approve_payout"",""approved"":false,""amount"":134}",Payout rejected due to incomplete shift or attendance issues,2026-01-16T15:54:03.521Z
+394,payout_approval,144,"{""action"":""approve_payout"",""approved"":false,""amount"":208}",Payout rejected due to incomplete shift or attendance issues,2025-12-31T18:16:54.879Z
+395,payout_approval,145,"{""action"":""approve_payout"",""approved"":true,""amount"":189}","Shift completed satisfactorily, attendance verified",2026-01-05T11:13:36.925Z
+396,payout_approval,146,"{""action"":""approve_payout"",""approved"":true,""amount"":127}","Shift completed satisfactorily, attendance verified",2026-01-02T06:31:42.134Z
+397,payout_approval,147,"{""action"":""approve_payout"",""approved"":false,""amount"":210}",Payout rejected due to incomplete shift or attendance issues,2025-12-22T11:38:48.968Z
+398,payout_approval,148,"{""action"":""approve_payout"",""approved"":true,""amount"":210}","Shift completed satisfactorily, attendance verified",2025-12-21T00:23:33.797Z
+399,payout_approval,149,"{""action"":""approve_payout"",""approved"":true,""amount"":143}","Shift completed satisfactorily, attendance verified",2025-12-13T18:04:54.826Z
+400,payout_approval,150,"{""action"":""approve_payout"",""approved"":true,""amount"":208}","Shift completed satisfactorily, attendance verified",2025-12-18T11:37:50.721Z
+401,payout_approval,151,"{""action"":""approve_payout"",""approved"":true,""amount"":208}","Shift completed satisfactorily, attendance verified",2025-12-29T12:48:38.569Z
+402,payout_approval,152,"{""action"":""approve_payout"",""approved"":true,""amount"":150}","Shift completed satisfactorily, attendance verified",2026-01-07T14:36:21.375Z
+403,payout_approval,153,"{""action"":""approve_payout"",""approved"":true,""amount"":173}","Shift completed satisfactorily, attendance verified",2026-01-10T00:58:33.231Z
+404,payout_approval,154,"{""action"":""approve_payout"",""approved"":true,""amount"":177}","Shift completed satisfactorily, attendance verified",2025-12-15T18:27:19.190Z
+405,payout_approval,155,"{""action"":""approve_payout"",""approved"":true,""amount"":136}","Shift completed satisfactorily, attendance verified",2025-12-21T06:32:34.200Z
+406,payout_approval,156,"{""action"":""approve_payout"",""approved"":true,""amount"":139}","Shift completed satisfactorily, attendance verified",2025-12-28T06:36:02.090Z
+407,payout_approval,157,"{""action"":""approve_payout"",""approved"":false,""amount"":170}",Payout rejected due to incomplete shift or attendance issues,2025-12-29T15:32:00.997Z
+408,payout_approval,158,"{""action"":""approve_payout"",""approved"":true,""amount"":209}","Shift completed satisfactorily, attendance verified",2026-01-15T01:19:26.432Z
+409,payout_approval,159,"{""action"":""approve_payout"",""approved"":true,""amount"":214}","Shift completed satisfactorily, attendance verified",2025-12-21T22:08:43.140Z
+410,payout_approval,160,"{""action"":""approve_payout"",""approved"":true,""amount"":136}","Shift completed satisfactorily, attendance verified",2025-12-23T11:40:46.303Z
+411,payout_approval,161,"{""action"":""approve_payout"",""approved"":true,""amount"":168}","Shift completed satisfactorily, attendance verified",2026-01-08T07:28:57.784Z
+412,payout_approval,162,"{""action"":""approve_payout"",""approved"":true,""amount"":190}","Shift completed satisfactorily, attendance verified",2025-12-22T23:02:07.052Z
+413,payout_approval,163,"{""action"":""approve_payout"",""approved"":false,""amount"":127}",Payout rejected due to incomplete shift or attendance issues,2026-01-16T08:51:39.959Z
+414,payout_approval,164,"{""action"":""approve_payout"",""approved"":true,""amount"":120}","Shift completed satisfactorily, attendance verified",2026-01-04T08:44:41.116Z
+415,payout_approval,165,"{""action"":""approve_payout"",""approved"":false,""amount"":202}",Payout rejected due to incomplete shift or attendance issues,2025-12-24T06:57:50.450Z
+416,payout_approval,166,"{""action"":""approve_payout"",""approved"":true,""amount"":209}","Shift completed satisfactorily, attendance verified",2025-12-31T21:18:45.965Z
+417,payout_approval,167,"{""action"":""approve_payout"",""approved"":true,""amount"":138}","Shift completed satisfactorily, attendance verified",2025-12-19T04:38:32.008Z
+418,payout_approval,168,"{""action"":""approve_payout"",""approved"":true,""amount"":181}","Shift completed satisfactorily, attendance verified",2026-01-10T19:28:06.924Z
+419,payout_approval,169,"{""action"":""approve_payout"",""approved"":true,""amount"":147}","Shift completed satisfactorily, attendance verified",2026-01-06T22:33:47.402Z
+420,payout_approval,170,"{""action"":""approve_payout"",""approved"":true,""amount"":213}","Shift completed satisfactorily, attendance verified",2025-12-31T07:52:09.171Z
+421,payout_approval,171,"{""action"":""approve_payout"",""approved"":false,""amount"":177}",Payout rejected due to incomplete shift or attendance issues,2026-01-13T07:30:54.727Z
+422,payout_approval,172,"{""action"":""approve_payout"",""approved"":true,""amount"":154}","Shift completed satisfactorily, attendance verified",2025-12-16T19:31:27.821Z
+423,payout_approval,173,"{""action"":""approve_payout"",""approved"":false,""amount"":188}",Payout rejected due to incomplete shift or attendance issues,2025-12-25T16:10:17.066Z
+424,payout_approval,174,"{""action"":""approve_payout"",""approved"":true,""amount"":141}","Shift completed satisfactorily, attendance verified",2026-01-14T03:33:59.571Z
+425,payout_approval,175,"{""action"":""approve_payout"",""approved"":true,""amount"":155}","Shift completed satisfactorily, attendance verified",2025-12-23T22:57:17.563Z
+426,payout_approval,176,"{""action"":""approve_payout"",""approved"":true,""amount"":200}","Shift completed satisfactorily, attendance verified",2026-01-16T00:09:30.588Z
+427,payout_approval,177,"{""action"":""approve_payout"",""approved"":true,""amount"":141}","Shift completed satisfactorily, attendance verified",2025-12-19T17:28:46.554Z
+428,payout_approval,178,"{""action"":""approve_payout"",""approved"":false,""amount"":171}",Payout rejected due to incomplete shift or attendance issues,2025-12-20T07:03:36.576Z
+429,payout_approval,179,"{""action"":""approve_payout"",""approved"":true,""amount"":146}","Shift completed satisfactorily, attendance verified",2026-01-12T14:37:58.276Z
+430,payout_approval,180,"{""action"":""approve_payout"",""approved"":true,""amount"":185}","Shift completed satisfactorily, attendance verified",2025-12-30T17:24:46.789Z
+431,payout_approval,181,"{""action"":""approve_payout"",""approved"":true,""amount"":194}","Shift completed satisfactorily, attendance verified",2025-12-21T19:29:37.601Z
+432,payout_approval,182,"{""action"":""approve_payout"",""approved"":true,""amount"":178}","Shift completed satisfactorily, attendance verified",2025-12-20T15:29:48.053Z
+433,payout_approval,183,"{""action"":""approve_payout"",""approved"":true,""amount"":188}","Shift completed satisfactorily, attendance verified",2026-01-08T17:26:32.110Z
+434,payout_approval,184,"{""action"":""approve_payout"",""approved"":true,""amount"":175}","Shift completed satisfactorily, attendance verified",2025-12-18T14:48:31.586Z
+435,payout_approval,185,"{""action"":""approve_payout"",""approved"":false,""amount"":169}",Payout rejected due to incomplete shift or attendance issues,2025-12-23T10:27:58.652Z
+436,payout_approval,186,"{""action"":""approve_payout"",""approved"":true,""amount"":170}","Shift completed satisfactorily, attendance verified",2026-01-07T18:59:09.275Z
+437,payout_approval,187,"{""action"":""approve_payout"",""approved"":true,""amount"":171}","Shift completed satisfactorily, attendance verified",2026-01-06T06:02:47.330Z
+438,payout_approval,188,"{""action"":""approve_payout"",""approved"":true,""amount"":182}","Shift completed satisfactorily, attendance verified",2026-01-11T17:41:05.111Z
+439,payout_approval,189,"{""action"":""approve_payout"",""approved"":true,""amount"":185}","Shift completed satisfactorily, attendance verified",2026-01-01T11:10:29.591Z
+440,payout_approval,190,"{""action"":""approve_payout"",""approved"":true,""amount"":181}","Shift completed satisfactorily, attendance verified",2025-12-22T20:23:19.749Z
+441,payout_approval,191,"{""action"":""approve_payout"",""approved"":false,""amount"":130}",Payout rejected due to incomplete shift or attendance issues,2025-12-24T23:42:25.832Z
+442,payout_approval,192,"{""action"":""approve_payout"",""approved"":false,""amount"":213}",Payout rejected due to incomplete shift or attendance issues,2026-01-10T06:39:28.702Z
+443,payout_approval,193,"{""action"":""approve_payout"",""approved"":true,""amount"":191}","Shift completed satisfactorily, attendance verified",2025-12-15T06:46:53.179Z
+444,payout_approval,194,"{""action"":""approve_payout"",""approved"":true,""amount"":126}","Shift completed satisfactorily, attendance verified",2025-12-17T11:10:12.739Z
+445,payout_approval,195,"{""action"":""approve_payout"",""approved"":true,""amount"":191}","Shift completed satisfactorily, attendance verified",2026-01-03T11:50:02.714Z
+446,payout_approval,196,"{""action"":""approve_payout"",""approved"":true,""amount"":212}","Shift completed satisfactorily, attendance verified",2026-01-05T00:47:43.753Z
+447,payout_approval,197,"{""action"":""approve_payout"",""approved"":true,""amount"":190}","Shift completed satisfactorily, attendance verified",2026-01-12T05:17:27.328Z
+448,payout_approval,198,"{""action"":""approve_payout"",""approved"":false,""amount"":141}",Payout rejected due to incomplete shift or attendance issues,2025-12-26T20:27:48.755Z
+449,payout_approval,199,"{""action"":""approve_payout"",""approved"":true,""amount"":134}","Shift completed satisfactorily, attendance verified",2025-12-14T08:12:06.251Z
+450,payout_approval,200,"{""action"":""approve_payout"",""approved"":true,""amount"":214}","Shift completed satisfactorily, attendance verified",2025-12-20T09:48:38.380Z
+451,feedback_processing,100,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2026-01-14T16:34:19.374Z
+452,feedback_processing,23,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2026-01-09T23:34:19.672Z
+453,feedback_processing,40,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2026-01-11T02:25:40.174Z
+454,feedback_processing,95,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-29T15:32:28.914Z
+455,feedback_processing,97,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-11T12:47:58.784Z
+456,feedback_processing,92,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2026-01-15T00:51:41.843Z
+457,feedback_processing,89,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2025-12-30T02:37:35.888Z
+458,feedback_processing,7,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2026-01-10T11:39:08.095Z
+459,feedback_processing,36,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2026-01-06T23:09:56.306Z
+460,feedback_processing,53,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2026-01-16T00:19:55.693Z
+461,feedback_processing,93,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-04T16:17:22.948Z
+462,feedback_processing,20,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2025-12-25T14:58:48.825Z
+463,feedback_processing,17,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-09T11:09:53.793Z
+464,feedback_processing,47,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2025-12-30T16:30:37.929Z
+465,feedback_processing,57,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-16T06:09:42.918Z
+466,feedback_processing,53,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-16T17:23:57.023Z
+467,feedback_processing,60,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-28T07:32:10.310Z
+468,feedback_processing,38,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2026-01-07T00:25:34.061Z
+469,feedback_processing,30,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2025-12-26T19:05:54.253Z
+470,feedback_processing,101,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2026-01-08T09:26:05.921Z
+471,feedback_processing,23,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2026-01-08T03:55:25.111Z
+472,feedback_processing,39,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-22T10:14:48.129Z
+473,feedback_processing,93,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2026-01-14T07:12:53.890Z
+474,feedback_processing,91,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2025-12-26T22:15:32.770Z
+475,feedback_processing,57,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-10T16:08:12.606Z
+476,feedback_processing,77,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2025-12-31T00:29:48.472Z
+477,feedback_processing,71,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-15T07:30:15.232Z
+478,feedback_processing,80,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-15T04:32:25.079Z
+479,feedback_processing,44,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2025-12-27T02:16:41.734Z
+480,feedback_processing,86,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2025-12-18T10:29:02.912Z
+481,feedback_processing,97,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-14T20:21:35.533Z
+482,feedback_processing,78,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-19T02:07:50.751Z
+483,feedback_processing,38,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-05T12:23:32.262Z
+484,feedback_processing,52,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-26T11:05:16.610Z
+485,feedback_processing,48,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-14T19:28:48.032Z
+486,feedback_processing,92,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-01T00:39:32.932Z
+487,feedback_processing,11,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-23T00:10:41.150Z
+488,feedback_processing,92,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2026-01-14T19:36:18.079Z
+489,feedback_processing,31,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-04T06:30:29.436Z
+490,feedback_processing,66,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2026-01-12T06:10:54.262Z
+491,feedback_processing,96,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2025-12-29T07:02:10.238Z
+492,feedback_processing,27,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-28T02:42:35.706Z
+493,feedback_processing,18,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-20T12:04:29.424Z
+494,feedback_processing,32,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2025-12-31T00:42:26.505Z
+495,feedback_processing,58,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-30T01:55:58.646Z
+496,feedback_processing,49,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2025-12-30T11:22:52.969Z
+497,feedback_processing,27,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-21T18:24:23.510Z
+498,feedback_processing,21,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2026-01-14T11:00:38.491Z
+499,feedback_processing,59,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2025-12-23T20:35:09.340Z
+500,feedback_processing,39,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2025-12-24T21:18:56.261Z
+501,feedback_processing,23,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-07T20:19:57.716Z
+502,feedback_processing,39,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-28T15:44:17.147Z
+503,feedback_processing,17,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2025-12-30T03:13:05.068Z
+504,feedback_processing,101,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-09T12:42:53.238Z
+505,feedback_processing,28,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-22T13:18:34.219Z
+506,feedback_processing,79,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2025-12-29T18:49:43.488Z
+507,feedback_processing,52,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2026-01-05T23:53:56.145Z
+508,feedback_processing,70,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-21T09:14:41.578Z
+509,feedback_processing,40,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-01T14:07:11.573Z
+510,feedback_processing,103,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-23T23:35:48.599Z
+511,feedback_processing,67,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2026-01-12T02:47:38.358Z
+512,feedback_processing,82,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-10T16:07:57.661Z
+513,feedback_processing,57,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2026-01-15T01:27:17.220Z
+514,feedback_processing,86,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2026-01-07T13:58:27.312Z
+515,feedback_processing,74,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2026-01-08T16:48:36.553Z
+516,feedback_processing,85,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2025-12-23T12:48:18.841Z
+517,feedback_processing,102,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-06T09:15:54.496Z
+518,feedback_processing,94,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2025-12-21T12:51:05.516Z
+519,feedback_processing,100,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-22T00:55:33.533Z
+520,feedback_processing,26,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-30T06:07:40.914Z
+521,feedback_processing,43,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-12T23:40:07.867Z
+522,feedback_processing,28,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-10T19:22:44.940Z
+523,feedback_processing,51,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-10T16:40:15.780Z
+524,feedback_processing,108,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-26T14:07:31.739Z
+525,feedback_processing,24,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-27T19:46:51.309Z
+526,feedback_processing,84,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2026-01-16T15:43:49.424Z
+527,feedback_processing,102,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2026-01-12T14:26:30.145Z
+528,feedback_processing,89,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2026-01-08T15:29:14.296Z
+529,feedback_processing,27,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-22T03:05:12.685Z
+530,feedback_processing,21,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2025-12-23T18:19:51.406Z
+531,feedback_processing,100,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2025-12-22T21:47:47.460Z
+532,feedback_processing,29,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-29T19:51:54.192Z
+533,feedback_processing,7,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-29T21:49:03.964Z
+534,feedback_processing,89,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2025-12-30T12:48:10.400Z
+535,feedback_processing,89,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2026-01-05T08:46:34.475Z
+536,feedback_processing,67,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2026-01-03T13:35:12.670Z
+537,feedback_processing,46,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2025-12-19T06:16:14.021Z
+538,feedback_processing,21,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-24T05:03:23.764Z
+539,feedback_processing,40,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-25T08:31:34.165Z
+540,feedback_processing,72,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2025-12-28T01:44:38.788Z
+541,feedback_processing,64,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-07T00:34:56.218Z
+542,feedback_processing,41,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-07T00:17:08.480Z
+543,feedback_processing,23,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-15T10:36:49.968Z
+544,feedback_processing,45,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2025-12-26T23:25:28.544Z
+545,feedback_processing,107,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2026-01-15T16:46:00.634Z
+546,feedback_processing,40,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.2}",Feedback processed and incorporated into performance rating calculation,2025-12-29T15:36:54.158Z
+547,feedback_processing,61,"{""action"":""process_feedback"",""sentiment"":""positive"",""performance_impact"":0.1}",Feedback processed and incorporated into performance rating calculation,2025-12-24T14:23:38.667Z
+548,feedback_processing,22,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2026-01-12T06:22:46.057Z
+549,feedback_processing,79,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2025-12-20T18:42:34.128Z
+550,feedback_processing,81,"{""action"":""process_feedback"",""sentiment"":""neutral"",""performance_impact"":0}",Feedback processed and incorporated into performance rating calculation,2025-12-18T13:54:34.158Z
